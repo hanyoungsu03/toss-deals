@@ -55,7 +55,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/764b48360a.jpg",
 "link": "https://toss.shopping/_m/jn06JFWk",
 "seen": "2026-10-16",
@@ -77,7 +79,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6f426c9e6e.jpg",
 "link": "https://toss.shopping/_m/vqspmxZu",
 "seen": "2026-10-16",
@@ -100,7 +105,9 @@
 "클렌징 폼 8위"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/834b328b90.jpg",
 "link": "https://toss.shopping/_m/dr1zelKo",
 "seen": "2026-10-16",
@@ -122,7 +129,10 @@
 "베스트판매자"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e12dd1de85.jpg",
 "link": "https://toss.shopping/_m/t3hOWlbB",
 "seen": "2026-10-16",
@@ -144,7 +154,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fb8929fa79.jpg",
 "link": "https://toss.shopping/_m/zwUCPafs",
 "seen": "2026-10-16",
@@ -167,7 +179,10 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/720f7187ef.jpg",
 "link": "https://toss.shopping/_m/JbWrugZp",
 "seen": "2026-10-16"
@@ -183,7 +198,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/854a2acd66.jpg",
 "link": "https://toss.shopping/_m/7nobwpGk",
 "seen": "2026-10-16"
@@ -200,7 +218,10 @@
 "베스트판매자"
 ],
 "cat": "주방용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/ce3cdd3152.jpg",
 "link": "https://toss.shopping/_m/hJ93p2bs",
 "seen": "2026-10-16"
@@ -217,7 +238,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/99bb5358cf.jpg",
 "link": "https://toss.shopping/_m/5Ef9z7Wz",
 "seen": "2026-10-16"
@@ -227,7 +251,7 @@
 "name": "스파클 생수, 무라벨, 1L, 24개",
 "price": 7900,
 "rating": 4.7,
-"reviews": 2716,
+"reviews": 2719,
 "tags": [
 "34% 특가",
 "100ml당 33원",
@@ -235,7 +259,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6b4fe53384.jpg",
 "link": "https://toss.shopping/_m/tXGrJX06",
 "seen": "2026-10-16"
@@ -245,14 +271,16 @@
 "name": "크리스탈 생수, 무라벨, 500ml, 40개",
 "price": 7350,
 "rating": 4.7,
-"reviews": 1693,
+"reviews": 1696,
 "tags": [
 "63% 특가",
 "100ml당 37원",
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a13689f4c1.jpg",
 "link": "https://toss.shopping/_m/DbqgBzw8",
 "seen": "2026-10-16"
@@ -270,7 +298,10 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1a1414d05b.jpg",
 "link": "https://toss.shopping/_m/HkAxhWfh",
 "seen": "2026-10-16"
@@ -286,7 +317,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a903c06040.jpg",
 "link": "https://toss.shopping/_m/nkF29Y9r",
 "seen": "2026-10-16"
@@ -314,7 +348,7 @@
 "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
 "price": 12900,
 "rating": 4.7,
-"reviews": 4693,
+"reviews": 4694,
 "tags": [
 "2",
 "10ml당 1,792원",
@@ -332,7 +366,7 @@
 "name": "메르헨트 퍼퓸 샴푸, 화이트머스크, 1L, 2개",
 "price": 11900,
 "rating": 4.7,
-"reviews": 4219,
+"reviews": 4221,
 "tags": [
 "3",
 "100ml당 595원",
@@ -350,7 +384,7 @@
 "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
 "price": 15900,
 "rating": 4.7,
-"reviews": 2011,
+"reviews": 2012,
 "tags": [
 "20",
 "내일도착",
@@ -402,7 +436,7 @@
 "name": "메르헨트 딥 모이스춰 바세린 바디로션, 1L, 2개",
 "price": 11900,
 "rating": 4.7,
-"reviews": 1258,
+"reviews": 1259,
 "tags": [
 "11",
 "100ml당 595원",
@@ -436,7 +470,7 @@
 "name": "레이데이 비타민C 에너지 앰플, 13ml, 5개",
 "price": 9900,
 "rating": 4.6,
-"reviews": 4432,
+"reviews": 4433,
 "tags": [
 "12",
 "10ml당 1,524원",
@@ -524,7 +558,7 @@
 "name": "호정가 우리쌀약과, 1kg, 1세트",
 "price": 12900,
 "rating": 4.8,
-"reviews": 9111,
+"reviews": 9113,
 "tags": [
 "9",
 "10g당 129원",
@@ -576,7 +610,7 @@
 "name": "제주 맑은콩나물, 무농약, 300g, 1개",
 "price": 1100,
 "rating": 4.8,
-"reviews": 7798,
+"reviews": 7799,
 "tags": [
 "5",
 "지금 30일 내 최저가예요",
@@ -653,7 +687,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/cebb802484.jpg",
 "link": "https://toss.shopping/_m/T4fb26d7",
 "seen": "2026-10-16"
@@ -671,7 +707,9 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/719564114e.jpg",
 "link": "https://toss.shopping/_m/XW1Tfu0g",
 "seen": "2026-10-16"
@@ -689,7 +727,9 @@
 "늦으면보상"
 ],
 "cat": "주방용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7c4c979b87.jpg",
 "link": "https://toss.shopping/_m/RtwScqH",
 "seen": "2026-10-16"
@@ -706,7 +746,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2e327be1b4.jpg",
 "link": "https://toss.shopping/_m/FcIzXS98",
 "seen": "2026-10-16"
@@ -716,13 +758,16 @@
 "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
 "price": 6600,
 "rating": 4.6,
-"reviews": 2846,
+"reviews": 2847,
 "tags": [
 "선착순특가",
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/235daf77d3.jpg",
 "link": "https://toss.shopping/_m/pkTULvUt",
 "seen": "2026-10-16"
@@ -740,7 +785,10 @@
 "바디워시 3위"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2e62fa7577.jpg",
 "link": "https://toss.shopping/_m/zHqMyogc",
 "seen": "2026-10-16"
@@ -750,14 +798,17 @@
 "name": "배스킨라빈스 메롱 멜론 우유 190ml, 24개",
 "price": 7600,
 "rating": 4.6,
-"reviews": 720,
+"reviews": 724,
 "tags": [
 "선착순특가",
 "지금 30일 내 최저가예요",
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a9d6333063.jpg",
 "link": "https://toss.shopping/_m/LYWy9uEf",
 "seen": "2026-10-16"
@@ -775,7 +826,10 @@
 "늦으면보상"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/93656d31fb.jpg",
 "link": "https://toss.shopping/_m/bzYI2dsi",
 "seen": "2026-10-16"
@@ -792,7 +846,10 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1b8c654cdb.jpg",
 "link": "https://toss.shopping/_m/13fb4mv8",
 "seen": "2026-10-16"
@@ -809,7 +866,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/02a4200ca4.jpg",
 "link": "https://toss.shopping/_m/heD4etbn",
 "seen": "2026-10-16"
@@ -819,13 +879,16 @@
 "name": "MRC 국대 프리미엄 어묵탕, 230g, 5팩",
 "price": 12100,
 "rating": 4.6,
-"reviews": 347,
+"reviews": 348,
 "tags": [
 "선착순특가",
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/24aa51862d.jpg",
 "link": "https://toss.shopping/_m/3jza4Zs3",
 "seen": "2026-10-16"
@@ -843,7 +906,9 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/f0d589a804.jpg",
 "link": "https://toss.shopping/_m/J8jdtSeC",
 "seen": "2026-10-16"
@@ -860,7 +925,10 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/4abdad82a1.jpg",
 "link": "https://toss.shopping/_m/XsWRlO9g",
 "seen": "2026-10-16"
@@ -876,7 +944,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7cb717b4d2.jpg",
 "link": "https://toss.shopping/_m/dkR8B8Fi",
 "seen": "2026-10-16"
@@ -892,7 +963,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/cbca128120.jpg",
 "link": "https://toss.shopping/_m/JYEgQNtC",
 "seen": "2026-10-16"
@@ -910,7 +984,9 @@
 "클렌징 비누 3위"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/74a856af89.jpg",
 "link": "https://toss.shopping/_m/B2mbMaqD",
 "seen": "2026-10-16"
@@ -926,7 +1002,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/29d252fe71.jpg",
 "link": "https://toss.shopping/_m/rZ0J58fB",
 "seen": "2026-10-16"
@@ -943,7 +1022,9 @@
 "베스트판매자"
 ],
 "cat": "주방용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2c2c6564f2.jpg",
 "link": "https://toss.shopping/_m/3HA3tr3b",
 "seen": "2026-10-16"
@@ -959,7 +1040,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/216ad2917e.jpg",
 "link": "https://toss.shopping/_m/Fee3SKNe",
 "seen": "2026-10-16"
@@ -969,7 +1053,7 @@
 "name": "셰프초이스 한판 닭갈비, 1.5kg, 1개",
 "price": 13900,
 "rating": 4.5,
-"reviews": 321,
+"reviews": 324,
 "tags": [
 "선착순특가",
 "지금 30일 내 최저가예요",
@@ -977,7 +1061,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/59415da3bd.jpg",
 "link": "https://toss.shopping/_m/rrs0OEew",
 "seen": "2026-10-16"
@@ -993,7 +1079,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1047e5373d.jpg",
 "link": "https://toss.shopping/_m/r4krE69n",
 "seen": "2026-10-16"
@@ -1009,7 +1098,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a3a37b161e.jpg",
 "link": "https://toss.shopping/_m/fUVP0Y2l",
 "seen": "2026-10-16"
@@ -1027,7 +1119,10 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/aa20a5d238.jpg",
 "link": "https://toss.shopping/_m/16Ab8lWp",
 "seen": "2026-10-16"
@@ -1043,7 +1138,10 @@
 "데이크림 1위"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/9e8750c994.jpg",
 "link": "https://toss.shopping/_m/5BKv2ZJt",
 "seen": "2026-10-16"
@@ -1059,7 +1157,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/abed07786a.jpg",
 "link": "https://toss.shopping/_m/pCJCooGy",
 "seen": "2026-10-16"
@@ -1075,7 +1175,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "패션의류잡화",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fb985948f0.jpg",
 "link": "https://toss.shopping/_m/JrO8l1JD",
 "seen": "2026-10-16"
@@ -1091,7 +1193,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/8e266fd1ad.jpg",
 "link": "https://toss.shopping/_m/FTxWF1a7",
 "seen": "2026-10-16"
@@ -1109,7 +1213,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fff13e82a9.jpg",
 "link": "https://toss.shopping/_m/x0j6hjv8",
 "seen": "2026-10-16"
@@ -1125,7 +1231,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/132abe627b.jpg",
 "link": "https://toss.shopping/_m/tpmbHF3b",
 "seen": "2026-10-16"
@@ -1141,7 +1250,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6fac8d41a1.jpg",
 "link": "https://toss.shopping/_m/bd5AVYNe",
 "seen": "2026-10-16"
@@ -1157,7 +1269,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1748d34bc8.jpg",
 "link": "https://toss.shopping/_m/pGoYrPfh",
 "seen": "2026-10-16"
@@ -1173,7 +1287,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7d87899ca1.jpg",
 "link": "https://toss.shopping/_m/X4vyzBim",
 "seen": "2026-10-16"
@@ -1189,7 +1305,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "가전/디지털",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1ae9a2ed94.jpg",
 "link": "https://toss.shopping/_m/VaNcKRer",
 "seen": "2026-10-16"
@@ -1205,7 +1323,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/cfd5d92111.jpg",
 "link": "https://toss.shopping/_m/Ru9EFjus",
 "seen": "2026-10-16"
@@ -1221,7 +1341,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/4cef59cee2.jpg",
 "link": "https://toss.shopping/_m/Ho8XljWu",
 "seen": "2026-10-16"
@@ -1237,7 +1359,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/eec69ee95a.jpg",
 "link": "https://toss.shopping/_m/v4mXGO8w",
 "seen": "2026-10-16"
@@ -1254,7 +1378,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/39d0514e58.jpg",
 "link": "https://toss.shopping/_m/56fmnZnC",
 "seen": "2026-10-16"
@@ -1271,7 +1397,9 @@
 "베스트판매자"
 ],
 "cat": "반려/애완용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/55dce049cd.jpg",
 "link": "https://toss.shopping/_m/V7aKAOg2",
 "seen": "2026-10-16"
@@ -1289,7 +1417,9 @@
 "늦으면보상"
 ],
 "cat": "반려/애완용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/321327c27c.jpg",
 "link": "https://toss.shopping/_m/lA4KDQU5",
 "seen": "2026-10-16"
@@ -1306,7 +1436,10 @@
 "베스트판매자"
 ],
 "cat": "주방용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/d2cd0d5ce7.jpg",
 "link": "https://toss.shopping/_m/py6gdnsy",
 "seen": "2026-10-16"
@@ -1323,7 +1456,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/5479659fc9.jpg",
 "link": "https://toss.shopping/_m/5YUTn9g7",
 "seen": "2026-10-16"
@@ -1340,7 +1475,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6690a29d54.jpg",
 "link": "https://toss.shopping/_m/fjDXCs0b",
 "seen": "2026-10-16"
@@ -1358,7 +1495,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a3b6a895ad.jpg",
 "link": "https://toss.shopping/_m/hzPRyjXf",
 "seen": "2026-10-16"
@@ -1374,7 +1513,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/cf2cfd56d1.jpg",
 "link": "https://toss.shopping/_m/jWrSRvKj",
 "seen": "2026-10-16"
@@ -1390,7 +1532,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7a3420f722.jpg",
 "link": "https://toss.shopping/_m/HaGX5qKt",
 "seen": "2026-10-16"
@@ -1406,7 +1551,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/132dc635e1.jpg",
 "link": "https://toss.shopping/_m/hW18tIJy",
 "seen": "2026-10-16"
@@ -1424,7 +1571,9 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/78b854e5b2.jpg",
 "link": "https://toss.shopping/_m/PYGoS4iB",
 "seen": "2026-10-16"
@@ -1441,7 +1590,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/26cd28bc55.jpg",
 "link": "https://toss.shopping/_m/D8qt7911",
 "seen": "2026-10-16"
@@ -1458,7 +1610,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/3303ce2238.jpg",
 "link": "https://toss.shopping/_m/RjdJsNj7",
 "seen": "2026-10-16"
@@ -1473,7 +1627,9 @@
 "선착순특가"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/3dbe7b7c89.jpg",
 "link": "https://toss.shopping/_m/LuZ5CmF9",
 "seen": "2026-10-16"
@@ -1488,7 +1644,9 @@
 "선착순특가"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/9278114e9c.jpg",
 "link": "https://toss.shopping/_m/DDAujZyd",
 "seen": "2026-10-16"
@@ -1506,7 +1664,9 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fd52c41a8d.jpg",
 "link": "https://toss.shopping/_m/xGt09hUk",
 "seen": "2026-10-16"
@@ -1521,7 +1681,9 @@
 "선착순특가"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/84b3680594.jpg",
 "link": "https://toss.shopping/_m/FC7a0qKo",
 "seen": "2026-10-16"
@@ -1538,7 +1700,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/288847d167.jpg",
 "link": "https://toss.shopping/_m/J4tAIVxx",
 "seen": "2026-10-16"
@@ -1554,7 +1718,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/3f65536fa0.jpg",
 "link": "https://toss.shopping/_m/Jp6yWh11",
 "seen": "2026-10-16"
@@ -1571,7 +1737,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e56ba2e057.jpg",
 "link": "https://toss.shopping/_m/1mYiBht3",
 "seen": "2026-10-16"
@@ -1588,7 +1756,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/404dc26482.jpg",
 "link": "https://toss.shopping/_m/rhcxRu16",
 "seen": "2026-10-16"
@@ -1606,7 +1776,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/977b795896.jpg",
 "link": "https://toss.shopping/_m/3Y8hGpz8",
 "seen": "2026-10-16"
@@ -1622,7 +1794,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "가전/디지털",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/5d820af582.jpg",
 "link": "https://toss.shopping/_m/JAH5G9zd",
 "seen": "2026-10-16"
@@ -1639,7 +1813,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a9d66d1b1b.jpg",
 "link": "https://toss.shopping/_m/35tjXsjh",
 "seen": "2026-10-16"
@@ -1655,7 +1831,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7a137a7417.jpg",
 "link": "https://toss.shopping/_m/npAROsUk",
 "seen": "2026-10-16"
@@ -1671,7 +1849,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/83beab2c3e.jpg",
 "link": "https://toss.shopping/_m/jXvc3tfr",
 "seen": "2026-10-16"
@@ -1689,7 +1869,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1df924ebb4.jpg",
 "link": "https://toss.shopping/_m/plqeAEfw",
 "seen": "2026-10-16"
@@ -1706,7 +1888,9 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/93a5581a02.jpg",
 "link": "https://toss.shopping/_m/dH4lYfEy",
 "seen": "2026-10-16"
@@ -1721,7 +1905,9 @@
 "선착순특가"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2570bae76f.jpg",
 "link": "https://toss.shopping/_m/ZQCMVBY",
 "seen": "2026-10-16"
@@ -1737,7 +1923,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/b430436494.jpg",
 "link": "https://toss.shopping/_m/dpARcOL4",
 "seen": "2026-10-16"
@@ -1753,7 +1941,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/edd84d7a53.jpg",
 "link": "https://toss.shopping/_m/NgVxBet8",
 "seen": "2026-10-16"
@@ -1770,7 +1960,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/519ebee8ca.jpg",
 "link": "https://toss.shopping/_m/lO5nTxdc",
 "seen": "2026-10-16"
@@ -1787,7 +1980,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6ced74dbd8.jpg",
 "link": "https://toss.shopping/_m/f0qyvBvi",
 "seen": "2026-10-16"
@@ -1803,7 +1998,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "주방용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/ccd1241cd3.jpg",
 "link": "https://toss.shopping/_m/Zkue9MKo",
 "seen": "2026-10-16"
@@ -1819,7 +2016,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/185591658b.jpg",
 "link": "https://toss.shopping/_m/FaQjMfvx",
 "seen": "2026-10-16"
@@ -1837,7 +2036,9 @@
 "바디로션 9위"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e66c5886f9.jpg",
 "link": "https://toss.shopping/_m/lbPVLYJD",
 "seen": "2026-10-16"
@@ -1854,7 +2055,10 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/0c01b6051c.jpg",
 "link": "https://toss.shopping/_m/JgOQP5u4",
 "seen": "2026-10-16"
@@ -1870,7 +2074,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/43f8c8640e.jpg",
 "link": "https://toss.shopping/_m/7u6oTB4b",
 "seen": "2026-10-16"
@@ -1888,7 +2094,10 @@
 "기능성샴푸 13위"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/f14fa096d9.jpg",
 "link": "https://toss.shopping/_m/RluKJpdh",
 "seen": "2026-10-16"
@@ -1904,7 +2113,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "가전/디지털",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/87745bc3ce.jpg",
 "link": "https://toss.shopping/_m/3qe1O54l",
 "seen": "2026-10-16"
@@ -1920,7 +2131,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/8ca9d4db57.jpg",
 "link": "https://toss.shopping/_m/xWjzBBsn",
 "seen": "2026-10-16"
@@ -1936,7 +2149,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/c2630f26bb.jpg",
 "link": "https://toss.shopping/_m/9MtTSO0q",
 "seen": "2026-10-16"
@@ -1953,7 +2169,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/c6e1ff7425.jpg",
 "link": "https://toss.shopping/_m/rJZ3fqps",
 "seen": "2026-10-16"
@@ -1969,7 +2187,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1cae2ae246.jpg",
 "link": "https://toss.shopping/_m/lSgV8zfw",
 "seen": "2026-10-16"
@@ -1986,7 +2207,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/9ee35ce679.jpg",
 "link": "https://toss.shopping/_m/RsmpO2Uz",
 "seen": "2026-10-16"
@@ -2003,7 +2226,10 @@
 "바디워시 10위"
 ],
 "cat": "뷰티",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2dee451f0d.jpg",
 "link": "https://toss.shopping/_m/jM3w3SrC",
 "seen": "2026-10-16"
@@ -2020,7 +2246,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/190131733b.jpg",
 "link": "https://toss.shopping/_m/tnYrIQt3",
 "seen": "2026-10-16"
@@ -2036,7 +2264,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7620581064.jpg",
 "link": "https://toss.shopping/_m/FKLhnUL9",
 "seen": "2026-10-16"
@@ -2054,7 +2285,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/0629f6d0ae.jpg",
 "link": "https://toss.shopping/_m/rUuoKOFe",
 "seen": "2026-10-16"
@@ -2071,7 +2304,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e8d457dc8c.jpg",
 "link": "https://toss.shopping/_m/h093srzi",
 "seen": "2026-10-16"
@@ -2087,7 +2322,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/530b23984f.jpg",
 "link": "https://toss.shopping/_m/detSzHvn",
 "seen": "2026-10-16"
@@ -2104,7 +2342,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/67a52aff1f.jpg",
 "link": "https://toss.shopping/_m/dUxm9HXp",
 "seen": "2026-10-16"
@@ -2120,7 +2360,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/493e53cb62.jpg",
 "link": "https://toss.shopping/_m/5l0eKRcw",
 "seen": "2026-10-16"
@@ -2136,7 +2378,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/945f8971a7.jpg",
 "link": "https://toss.shopping/_m/5ZAJNx3A",
 "seen": "2026-10-16"
@@ -2153,7 +2397,10 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1a5061e3ea.jpg",
 "link": "https://toss.shopping/_m/d7IRonKD",
 "seen": "2026-10-16"
@@ -2163,14 +2410,16 @@
 "name": "집밥에 나주곰탕, 600g, 10팩",
 "price": 36020,
 "rating": 4.5,
-"reviews": 95,
+"reviews": 96,
 "tags": [
 "선착순특가",
 "지금 30일 내 최저가예요",
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/95b6c0fbce.jpg",
 "link": "https://toss.shopping/_m/5nGOmWh2",
 "seen": "2026-10-16"
@@ -2187,7 +2436,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/3b460d296c.jpg",
 "link": "https://toss.shopping/_m/PLi4Gf26",
 "seen": "2026-10-16"
@@ -2205,7 +2456,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2446cbbbb8.jpg",
 "link": "https://toss.shopping/_m/Td2YWyM9",
 "seen": "2026-10-16"
@@ -2222,7 +2475,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/23bf0b07c7.jpg",
 "link": "https://toss.shopping/_m/RiVgfSwd",
 "seen": "2026-10-16"
@@ -2239,7 +2494,9 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6fba442982.jpg",
 "link": "https://toss.shopping/_m/puGvmWjm",
 "seen": "2026-10-16"
@@ -2266,13 +2523,15 @@
 "name": "김소형 천마 쌍화차, 17g, 50포",
 "price": 13120,
 "rating": 4.4,
-"reviews": 169,
+"reviews": 170,
 "tags": [
 "선착순특가",
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fd65b0859e.jpg",
 "link": "https://toss.shopping/_m/L1udUOps",
 "seen": "2026-10-16"
@@ -2288,7 +2547,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/87eebfb4d4.jpg",
 "link": "https://toss.shopping/_m/L2mVBJ3A",
 "seen": "2026-10-16"
@@ -2305,7 +2566,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/9ee4243938.jpg",
 "link": "https://toss.shopping/_m/PIb9bG21",
 "seen": "2026-10-16"
@@ -2323,7 +2587,9 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/edb7cf59fa.jpg",
 "link": "https://toss.shopping/_m/Ri8Ecph7",
 "seen": "2026-10-16"
@@ -2339,7 +2605,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/5af025af6b.jpg",
 "link": "https://toss.shopping/_m/PUtuc9hc",
 "seen": "2026-10-16"
@@ -2356,7 +2624,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1ba3d23764.jpg",
 "link": "https://toss.shopping/_m/DA5tLkhh",
 "seen": "2026-10-16"
@@ -2372,7 +2643,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/afd23e9db3.jpg",
 "link": "https://toss.shopping/_m/rW5mI4hm",
 "seen": "2026-10-16"
@@ -2388,7 +2661,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e85252a47c.jpg",
 "link": "https://toss.shopping/_m/BbiFLCIo",
 "seen": "2026-10-16"
@@ -2404,7 +2679,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "주방용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/bc3db788a0.jpg",
 "link": "https://toss.shopping/_m/f2RNbSjr",
 "seen": "2026-10-16"
@@ -2422,7 +2699,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/ce9ad3dca1.jpg",
 "link": "https://toss.shopping/_m/NoN0h91v",
 "seen": "2026-10-16"
@@ -2438,7 +2717,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/9a61016c99.jpg",
 "link": "https://toss.shopping/_m/FpQYibFy",
 "seen": "2026-10-16"
@@ -2455,7 +2737,9 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/5b92cdc3ac.jpg",
 "link": "https://toss.shopping/_m/FlUHFupC",
 "seen": "2026-10-16"
@@ -2471,7 +2755,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/b86a8b1c9f.jpg",
 "link": "https://toss.shopping/_m/J0cAZji2",
 "seen": "2026-10-16"
@@ -2487,7 +2773,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6720daad96.jpg",
 "link": "https://toss.shopping/_m/jqbtlru3",
 "seen": "2026-10-16"
@@ -2503,7 +2791,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/03bea654e2.jpg",
 "link": "https://toss.shopping/_m/DY2RYvx8",
 "seen": "2026-10-16"
@@ -2519,7 +2809,9 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "자동차용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/06d36727d8.jpg",
 "link": "https://toss.shopping/_m/BMyE1xwi",
 "seen": "2026-10-16"
@@ -2535,7 +2827,10 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2fbfe613fc.jpg",
 "link": "https://toss.shopping/_m/N5zBRKzn",
 "seen": "2026-10-16"
@@ -2552,7 +2847,9 @@
 "5 (1)"
 ],
 "cat": "가전/디지털",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fc7955f531.jpg",
 "link": "https://toss.shopping/_m/1yKiBKgw",
 "seen": "2026-10-16"
@@ -2569,7 +2866,9 @@
 "5 (1)"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/ee64737003.jpg",
 "link": "https://toss.shopping/_m/Z1iOR31A",
 "seen": "2026-10-16"
@@ -2583,10 +2882,12 @@
 "tags": [
 "선착순특가",
 "지금 30일 내 최저가예요",
-"4 (180)"
+"4 (181)"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a6d572ee2b.jpg",
 "link": "https://toss.shopping/_m/txBDSbc2",
 "seen": "2026-10-16"
@@ -2603,7 +2904,10 @@
 "4 (147)"
 ],
 "cat": "스포츠/레져",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e663f2a0f2.jpg",
 "link": "https://toss.shopping/_m/THPgaUM4",
 "seen": "2026-10-16"
@@ -2621,7 +2925,10 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best",
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fe82d84c78.jpg",
 "link": "https://toss.shopping/_m/3YtPCkWp",
 "seen": "2026-10-16"
@@ -2665,7 +2972,7 @@
 "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
 "price": 21900,
 "rating": 4.7,
-"reviews": 7923,
+"reviews": 7924,
 "tags": [
 "27",
 "10m당 122원",
@@ -2682,7 +2989,7 @@
 "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
 "price": 21200,
 "rating": 4.7,
-"reviews": 30474,
+"reviews": 30478,
 "tags": [
 "3",
 "10m당 118원",
@@ -2717,7 +3024,7 @@
 "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
 "price": 14800,
 "rating": 4.7,
-"reviews": 15554,
+"reviews": 15558,
 "tags": [
 "1",
 "100g당 2,388원",
@@ -2750,7 +3057,7 @@
 "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
 "price": 8200,
 "rating": 4.7,
-"reviews": 26314,
+"reviews": 26318,
 "tags": [
 "8",
 "1개입당 41원",
@@ -2767,7 +3074,7 @@
 "name": "맘스럽 라임 주방세제, 4L, 2개",
 "price": 9400,
 "rating": 4.7,
-"reviews": 4997,
+"reviews": 4998,
 "tags": [
 "13",
 "베스트판매자"
@@ -3096,7 +3403,7 @@
 "name": "자동 변기세정제 맥스, 320g, 4개",
 "price": 5990,
 "rating": 4.6,
-"reviews": 9145,
+"reviews": 9152,
 "tags": [
 "59% 특가",
 "100g당 468원",
@@ -3104,7 +3411,9 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"best"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/d48222391e.jpg",
 "link": "https://toss.shopping/_m/RxFp0J0b",
 "seen": "2026-10-16"
@@ -3114,14 +3423,16 @@
 "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
 "price": 13900,
 "rating": 4.5,
-"reviews": 3019,
+"reviews": 3021,
 "tags": [
 "57% 특가",
 "지금 30일 내 최저가예요",
 "100g당 278원"
 ],
 "cat": "식품",
-"sec": [],
+"sec": [
+"best"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/68c490bfc3.jpg",
 "link": "https://toss.shopping/_m/d0CDOYsd",
 "seen": "2026-10-16"
@@ -3535,7 +3846,7 @@
 "name": "윈프라이스 레트로 꽃무늬 사이드 테이블, 39cm",
 "price": 10812,
 "rating": 4.5,
-"reviews": 228,
+"reviews": 230,
 "tags": [
 "9"
 ],
@@ -3731,7 +4042,7 @@
 "name": "무손상 바지밑단 줄이기 클립, 투명, 10개입, 1개",
 "price": 5643,
 "rating": 4.3,
-"reviews": 108,
+"reviews": 109,
 "tags": [
 "20",
 "1개당 565원"
@@ -4027,7 +4338,7 @@
 "name": "차량용 사무용 등받이 메모리폼 허리 쿠션, 그레이, 40x30cm, 1개",
 "price": 9300,
 "rating": 4.3,
-"reviews": 616,
+"reviews": 617,
 "tags": [
 "8"
 ],
@@ -4433,7 +4744,7 @@
 "name": "드마엘 국산 퓨어 코마사 프리미엄 데일리 삭스, 화이트, 여성용(225-245), 10켤레",
 "price": 8800,
 "rating": 4.6,
-"reviews": 332,
+"reviews": 333,
 "tags": [
 "1",
 "1켤레당 880원",
@@ -4844,7 +5155,7 @@
 "name": "맥콜 제로슈거, 190ml, 30개",
 "price": 16900,
 "rating": 4.8,
-"reviews": 3220,
+"reviews": 3226,
 "tags": [
 "22",
 "내일도착",
@@ -4878,7 +5189,7 @@
 "name": "을지로 연탄불고기식 돼지불고기, 250g, 4개",
 "price": 15900,
 "rating": 4.7,
-"reviews": 42499,
+"reviews": 42500,
 "tags": [
 "12",
 "100g당 1,590원"
@@ -4894,7 +5205,7 @@
 "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
 "price": 15580,
 "rating": 4.7,
-"reviews": 11328,
+"reviews": 11329,
 "tags": [
 "10",
 "10ml당 156원",
@@ -4912,7 +5223,7 @@
 "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
 "price": 12900,
 "rating": 4.7,
-"reviews": 5483,
+"reviews": 5485,
 "tags": [
 "27",
 "10g당 135원",
@@ -4982,7 +5293,7 @@
 "name": "포천이동 양념LA갈비, 500g, 1팩",
 "price": 14900,
 "rating": 4.6,
-"reviews": 13544,
+"reviews": 13550,
 "tags": [
 "2",
 "100g당 2,980원",
@@ -5000,7 +5311,7 @@
 "name": "슬림떡볶이 로제맛, 230g, 4개",
 "price": 7900,
 "rating": 4.6,
-"reviews": 3764,
+"reviews": 3767,
 "tags": [
 "30",
 "베스트판매자"
@@ -5016,7 +5327,7 @@
 "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
 "price": 18900,
 "rating": 4.6,
-"reviews": 2881,
+"reviews": 2883,
 "tags": [
 "26",
 "100g당 945원"
@@ -5032,7 +5343,7 @@
 "name": "이선별 밀크카스테라, 1kg, 1박스",
 "price": 15900,
 "rating": 4.5,
-"reviews": 8972,
+"reviews": 8975,
 "tags": [
 "14"
 ],
@@ -5149,7 +5460,7 @@
 "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
 "price": 9900,
 "rating": 4.7,
-"reviews": 8296,
+"reviews": 8299,
 "tags": [
 "1",
 "베스트판매자"
@@ -5201,7 +5512,7 @@
 "name": "서가 메탈 패브릭 고속 3in1 멀티충전 케이블, 1.2m, C타입 고속, 8핀, 5핀, 블랙, 2개",
 "price": 5900,
 "rating": 4.7,
-"reviews": 300,
+"reviews": 302,
 "tags": [
 "13",
 "베스트판매자"
@@ -5351,7 +5662,7 @@
 "name": "에센스웨어 25W PD PPS GaN C타입 초고속 충전기 + 60W C to C 1m 케이블 세트, 화이트, 2세트",
 "price": 7900,
 "rating": 4.8,
-"reviews": 213,
+"reviews": 214,
 "tags": [
 "2",
 "1세트당 3,950원",
@@ -5551,7 +5862,7 @@
 "name": "서가 갤럭시 아이폰 호환 유선 이어폰, C타입, 오픈형, 화이트",
 "price": 4213,
 "rating": 4.4,
-"reviews": 162,
+"reviews": 163,
 "tags": [
 "23",
 "베스트판매자"
@@ -5787,7 +6098,7 @@
 "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
 "price": 18800,
 "rating": 4.6,
-"reviews": 18714,
+"reviews": 18717,
 "tags": [
 "3",
 "1매입당 10원",
@@ -6156,7 +6467,7 @@
 "name": "스트랩 슬개골 관절 무릎 보호대, 블랙, 좌우 한쌍, 2개, 1세트",
 "price": 9801,
 "rating": 4.3,
-"reviews": 1152,
+"reviews": 1153,
 "tags": [
 "10"
 ],
@@ -6336,7 +6647,7 @@
 "name": "성속 로스트볼, 흰색, 30개, 1세트",
 "price": 14000,
 "rating": 4.4,
-"reviews": 138,
+"reviews": 139,
 "tags": [
 "27"
 ],
@@ -6351,7 +6662,7 @@
 "name": "일공공구 다이어트 발지압 트위스트, 퍼플, 1개",
 "price": 17052,
 "rating": 4.3,
-"reviews": 175,
+"reviews": 176,
 "tags": [
 "12"
 ],
@@ -6563,7 +6874,7 @@
 "name": "나누담 물받이 밀폐용기, 3L, 2개",
 "price": 8500,
 "rating": 4.7,
-"reviews": 4779,
+"reviews": 4781,
 "tags": [
 "5",
 "내일도착",
@@ -6614,7 +6925,7 @@
 "name": "맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
 "price": 13900,
 "rating": 4.6,
-"reviews": 6882,
+"reviews": 6883,
 "tags": [
 "7",
 "베스트판매자"
@@ -6664,7 +6975,7 @@
 "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
 "price": 10900,
 "rating": 4.6,
-"reviews": 2726,
+"reviews": 2727,
 "tags": [
 "4",
 "베스트판매자"
@@ -6730,7 +7041,7 @@
 "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
 "price": 5900,
 "rating": 4.5,
-"reviews": 9932,
+"reviews": 9933,
 "tags": [
 "2",
 "베스트판매자"
@@ -6776,7 +7087,7 @@
 "name": "이지앤프리 담은 김치통, 블랙, 3.2L, 2통",
 "price": 6900,
 "rating": 4.5,
-"reviews": 2971,
+"reviews": 2972,
 "tags": [
 "6",
 "베스트판매자"
@@ -6808,7 +7119,7 @@
 "name": "비로르 스텐 주방 가위, 팬더, 20.5cm, 2개",
 "price": 5500,
 "rating": 4.4,
-"reviews": 7895,
+"reviews": 7896,
 "tags": [
 "9",
 "1개당 2,750원"
@@ -6903,7 +7214,7 @@
 "name": "바덴하임 몽실이 슬라이딩 지퍼백, 소+중+대+특대, 1세트",
 "price": 9900,
 "rating": 4.7,
-"reviews": 262,
+"reviews": 264,
 "tags": [
 "14"
 ],
@@ -6918,7 +7229,7 @@
 "name": "맥스텍 맥스 사각 항균 손잡이 앞접시 5종 세트, 화이트, 핑크, 스카이블루, 카키, 블랙, 1세트",
 "price": 6900,
 "rating": 4.6,
-"reviews": 251,
+"reviews": 252,
 "tags": [
 "22",
 "베스트판매자"
@@ -6964,8 +7275,8 @@
 "id": "4f9cf40bb2",
 "name": "맥스앤맥스 이지밀 혼합 식기세트, 다이닝볼+핸들 플레이트, 다이닝볼4P+원형핸들플레이트2P+사각핸들플레이트2P, 8P, 1세트",
 "price": 11900,
-"rating": 4.5,
-"reviews": 84,
+"rating": 4.4,
+"reviews": 85,
 "tags": [
 "26",
 "베스트판매자"
@@ -7143,7 +7454,7 @@
 "name": "캐츠랑 리브레 고양이 사료, 5kg, 1개",
 "price": 14880,
 "rating": 4.8,
-"reviews": 236,
+"reviews": 237,
 "tags": [
 "11",
 "지금 30일 내 최저가예요"
@@ -7959,6 +8270,22 @@
 "sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/125c5ec1e8.jpg",
 "link": "https://toss.shopping/_m/B84NDPP4",
+"seen": "2026-10-16"
+},
+{
+"id": "7df9ee313a",
+"name": "코리본 노와이어 심리스 브라탑, 블랙, XL, 1개",
+"price": 3861,
+"rating": 4.3,
+"reviews": 129,
+"tags": [
+"9",
+"지금 30일 내 최저가예요"
+],
+"cat": "패션의류잡화",
+"sec": [],
+"img": "https://hanyoungsu03.github.io/toss-deals/img/7df9ee313a.jpg",
+"link": "https://toss.shopping/_m/JiIGOs4A",
 "seen": "2026-10-16"
 }
 ]
