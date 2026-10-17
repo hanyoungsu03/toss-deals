@@ -1,0 +1,3604 @@
+{
+ "words": [
+  {
+   "id": 1,
+   "w": "water",
+   "pos": "명사",
+   "ko": "물",
+   "ex": "Please drink more water.",
+   "exKo": "물을 더 많이 마셔라.",
+   "lv": "기초"
+  },
+  {
+   "id": 2,
+   "w": "eat",
+   "pos": "동사",
+   "ko": "먹다",
+   "ex": "We eat lunch at noon.",
+   "exKo": "우리는 정오에 점심을 먹는다.",
+   "lv": "기초"
+  },
+  {
+   "id": 3,
+   "w": "big",
+   "pos": "형용사",
+   "ko": "큰",
+   "ex": "They have a big dog.",
+   "exKo": "그들은 큰 개를 키운다.",
+   "lv": "기초"
+  },
+  {
+   "id": 4,
+   "w": "always",
+   "pos": "부사",
+   "ko": "항상",
+   "ex": "She always smiles at us.",
+   "exKo": "그녀는 항상 우리에게 미소 짓는다.",
+   "lv": "기초"
+  },
+  {
+   "id": 5,
+   "w": "house",
+   "pos": "명사",
+   "ko": "집",
+   "ex": "They live in a big house.",
+   "exKo": "그들은 큰 집에 산다.",
+   "lv": "기초"
+  },
+  {
+   "id": 6,
+   "w": "drink",
+   "pos": "동사",
+   "ko": "마시다",
+   "ex": "He drinks milk every morning.",
+   "exKo": "그는 매일 아침 우유를 마신다.",
+   "lv": "기초"
+  },
+  {
+   "id": 7,
+   "w": "small",
+   "pos": "형용사",
+   "ko": "작은",
+   "ex": "This room is too small.",
+   "exKo": "이 방은 너무 작다.",
+   "lv": "기초"
+  },
+  {
+   "id": 8,
+   "w": "friend",
+   "pos": "명사",
+   "ko": "친구",
+   "ex": "She is my best friend.",
+   "exKo": "그녀는 내 가장 친한 친구다.",
+   "lv": "기초"
+  },
+  {
+   "id": 9,
+   "w": "walk",
+   "pos": "동사",
+   "ko": "걷다",
+   "ex": "I walk in the park.",
+   "exKo": "나는 공원에서 걷는다.",
+   "lv": "기초"
+  },
+  {
+   "id": 10,
+   "w": "happy",
+   "pos": "형용사",
+   "ko": "행복한, 기쁜",
+   "ex": "I am happy to see you.",
+   "exKo": "너를 만나서 기쁘다.",
+   "lv": "기초"
+  },
+  {
+   "id": 11,
+   "w": "school",
+   "pos": "명사",
+   "ko": "학교",
+   "ex": "I walk to school every day.",
+   "exKo": "나는 매일 학교에 걸어간다.",
+   "lv": "기초"
+  },
+  {
+   "id": 12,
+   "w": "run",
+   "pos": "동사",
+   "ko": "달리다",
+   "ex": "She can run very fast.",
+   "exKo": "그녀는 아주 빨리 달릴 수 있다.",
+   "lv": "기초"
+  },
+  {
+   "id": 13,
+   "w": "sad",
+   "pos": "형용사",
+   "ko": "슬픈",
+   "ex": "The movie was very sad.",
+   "exKo": "그 영화는 매우 슬펐다.",
+   "lv": "기초"
+  },
+  {
+   "id": 14,
+   "w": "never",
+   "pos": "부사",
+   "ko": "결코 ~않다",
+   "ex": "I never eat late at night.",
+   "exKo": "나는 밤늦게 절대 먹지 않는다.",
+   "lv": "기초"
+  },
+  {
+   "id": 15,
+   "w": "family",
+   "pos": "명사",
+   "ko": "가족",
+   "ex": "My family likes camping.",
+   "exKo": "우리 가족은 캠핑을 좋아한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 16,
+   "w": "open",
+   "pos": "동사",
+   "ko": "열다",
+   "ex": "Open your books, please.",
+   "exKo": "책을 펴 주세요.",
+   "lv": "기초"
+  },
+  {
+   "id": 17,
+   "w": "hot",
+   "pos": "형용사",
+   "ko": "뜨거운, 더운",
+   "ex": "The soup is too hot.",
+   "exKo": "수프가 너무 뜨겁다.",
+   "lv": "기초"
+  },
+  {
+   "id": 18,
+   "w": "food",
+   "pos": "명사",
+   "ko": "음식",
+   "ex": "The food here is great.",
+   "exKo": "여기 음식은 훌륭하다.",
+   "lv": "기초"
+  },
+  {
+   "id": 19,
+   "w": "ability",
+   "pos": "명사",
+   "ko": "능력",
+   "ex": "She has the ability to lead.",
+   "exKo": "그녀는 이끄는 능력이 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 20,
+   "w": "close",
+   "pos": "동사",
+   "ko": "닫다",
+   "ex": "Please close the door.",
+   "exKo": "문을 닫아 주세요.",
+   "lv": "기초"
+  },
+  {
+   "id": 21,
+   "w": "accept",
+   "pos": "동사",
+   "ko": "받아들이다",
+   "ex": "He accepted our invitation.",
+   "exKo": "그는 우리의 초대를 받아들였다.",
+   "lv": "수능"
+  },
+  {
+   "id": 22,
+   "w": "cold",
+   "pos": "형용사",
+   "ko": "차가운, 추운",
+   "ex": "It is cold outside.",
+   "exKo": "밖은 춥다.",
+   "lv": "기초"
+  },
+  {
+   "id": 23,
+   "w": "ancient",
+   "pos": "형용사",
+   "ko": "고대의",
+   "ex": "They visited an ancient temple.",
+   "exKo": "그들은 고대 사원을 방문했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 24,
+   "w": "often",
+   "pos": "부사",
+   "ko": "자주",
+   "ex": "We often go to the park.",
+   "exKo": "우리는 자주 공원에 간다.",
+   "lv": "기초"
+  },
+  {
+   "id": 25,
+   "w": "actually",
+   "pos": "부사",
+   "ko": "사실은, 실제로",
+   "ex": "Actually, I do not like fish.",
+   "exKo": "사실 나는 생선을 안 좋아한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 26,
+   "w": "advantage",
+   "pos": "명사",
+   "ko": "이점, 장점",
+   "ex": "Being tall is an advantage.",
+   "exKo": "키가 큰 것은 이점이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 27,
+   "w": "city",
+   "pos": "명사",
+   "ko": "도시",
+   "ex": "Seoul is a very large city.",
+   "exKo": "서울은 아주 큰 도시다.",
+   "lv": "기초"
+  },
+  {
+   "id": 28,
+   "w": "achieve",
+   "pos": "동사",
+   "ko": "이루다, 달성하다",
+   "ex": "She achieved her dream.",
+   "exKo": "그녀는 꿈을 이루었다.",
+   "lv": "수능"
+  },
+  {
+   "id": 29,
+   "w": "cook",
+   "pos": "동사",
+   "ko": "요리하다",
+   "ex": "My father cooks dinner.",
+   "exKo": "아버지가 저녁을 요리하신다.",
+   "lv": "기초"
+  },
+  {
+   "id": 30,
+   "w": "aware",
+   "pos": "형용사",
+   "ko": "알고 있는",
+   "ex": "Are you aware of the risk?",
+   "exKo": "그 위험을 알고 있나요?",
+   "lv": "수능"
+  },
+  {
+   "id": 31,
+   "w": "new",
+   "pos": "형용사",
+   "ko": "새로운",
+   "ex": "I got a new phone.",
+   "exKo": "나는 새 휴대폰을 샀다.",
+   "lv": "기초"
+  },
+  {
+   "id": 32,
+   "w": "attitude",
+   "pos": "명사",
+   "ko": "태도",
+   "ex": "A positive attitude helps you.",
+   "exKo": "긍정적인 태도는 도움이 된다.",
+   "lv": "수능"
+  },
+  {
+   "id": 33,
+   "w": "adapt",
+   "pos": "동사",
+   "ko": "적응하다",
+   "ex": "Animals adapt to cold weather.",
+   "exKo": "동물은 추운 날씨에 적응한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 34,
+   "w": "window",
+   "pos": "명사",
+   "ko": "창문",
+   "ex": "Please open the window.",
+   "exKo": "창문을 열어 주세요.",
+   "lv": "기초"
+  },
+  {
+   "id": 35,
+   "w": "capable",
+   "pos": "형용사",
+   "ko": "~할 수 있는, 유능한",
+   "ex": "She is capable of anything.",
+   "exKo": "그녀는 무엇이든 해낼 수 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 36,
+   "w": "buy",
+   "pos": "동사",
+   "ko": "사다",
+   "ex": "I want to buy a bag.",
+   "exKo": "나는 가방을 사고 싶다.",
+   "lv": "기초"
+  },
+  {
+   "id": 37,
+   "w": "behavior",
+   "pos": "명사",
+   "ko": "행동",
+   "ex": "His behavior surprised everyone.",
+   "exKo": "그의 행동은 모두를 놀라게 했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 38,
+   "w": "old",
+   "pos": "형용사",
+   "ko": "오래된, 나이 든",
+   "ex": "This is an old house.",
+   "exKo": "이것은 오래된 집이다.",
+   "lv": "기초"
+  },
+  {
+   "id": 39,
+   "w": "admit",
+   "pos": "동사",
+   "ko": "인정하다",
+   "ex": "He admitted his mistake.",
+   "exKo": "그는 자신의 실수를 인정했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 40,
+   "w": "barely",
+   "pos": "부사",
+   "ko": "간신히, 거의 ~않다",
+   "ex": "I barely slept last night.",
+   "exKo": "나는 어젯밤 거의 못 잤다.",
+   "lv": "수능"
+  },
+  {
+   "id": 41,
+   "w": "river",
+   "pos": "명사",
+   "ko": "강",
+   "ex": "We swam in the river.",
+   "exKo": "우리는 강에서 수영했다.",
+   "lv": "기초"
+  },
+  {
+   "id": 42,
+   "w": "complex",
+   "pos": "형용사",
+   "ko": "복잡한",
+   "ex": "The rules are very complex.",
+   "exKo": "규칙이 매우 복잡하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 43,
+   "w": "sell",
+   "pos": "동사",
+   "ko": "팔다",
+   "ex": "They sell fresh fish here.",
+   "exKo": "그들은 여기서 신선한 생선을 판다.",
+   "lv": "기초"
+  },
+  {
+   "id": 44,
+   "w": "benefit",
+   "pos": "명사",
+   "ko": "이익, 혜택",
+   "ex": "Exercise has many benefits.",
+   "exKo": "운동에는 많은 이점이 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 45,
+   "w": "easy",
+   "pos": "형용사",
+   "ko": "쉬운",
+   "ex": "The test was easy.",
+   "exKo": "시험은 쉬웠다.",
+   "lv": "기초"
+  },
+  {
+   "id": 46,
+   "w": "afford",
+   "pos": "동사",
+   "ko": "~할 여유가 있다",
+   "ex": "I cannot afford a new car.",
+   "exKo": "나는 새 차를 살 여유가 없다.",
+   "lv": "수능"
+  },
+  {
+   "id": 47,
+   "w": "burden",
+   "pos": "명사",
+   "ko": "부담, 짐",
+   "ex": "Debt is a heavy burden.",
+   "exKo": "빚은 무거운 부담이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 48,
+   "w": "sometimes",
+   "pos": "부사",
+   "ko": "가끔",
+   "ex": "Sometimes he walks to work.",
+   "exKo": "가끔 그는 걸어서 출근한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 49,
+   "w": "announce",
+   "pos": "동사",
+   "ko": "발표하다",
+   "ex": "They announced the winner.",
+   "exKo": "그들은 우승자를 발표했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 50,
+   "w": "mountain",
+   "pos": "명사",
+   "ko": "산",
+   "ex": "He climbed a high mountain.",
+   "exKo": "그는 높은 산에 올랐다.",
+   "lv": "기초"
+  },
+  {
+   "id": 51,
+   "w": "curious",
+   "pos": "형용사",
+   "ko": "호기심 많은",
+   "ex": "Children are curious by nature.",
+   "exKo": "아이들은 타고나길 호기심이 많다.",
+   "lv": "수능"
+  },
+  {
+   "id": 52,
+   "w": "learn",
+   "pos": "동사",
+   "ko": "배우다",
+   "ex": "I learn English online.",
+   "exKo": "나는 온라인으로 영어를 배운다.",
+   "lv": "기초"
+  },
+  {
+   "id": 53,
+   "w": "certainly",
+   "pos": "부사",
+   "ko": "확실히",
+   "ex": "She will certainly come.",
+   "exKo": "그녀는 확실히 올 것이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 54,
+   "w": "century",
+   "pos": "명사",
+   "ko": "세기, 100년",
+   "ex": "It happened last century.",
+   "exKo": "그것은 지난 세기에 일어났다.",
+   "lv": "수능"
+  },
+  {
+   "id": 55,
+   "w": "hard",
+   "pos": "형용사",
+   "ko": "어려운, 단단한",
+   "ex": "This problem is very hard.",
+   "exKo": "이 문제는 매우 어렵다.",
+   "lv": "기초"
+  },
+  {
+   "id": 56,
+   "w": "arrange",
+   "pos": "동사",
+   "ko": "정리하다, 마련하다",
+   "ex": "She arranged the flowers.",
+   "exKo": "그녀는 꽃을 정리했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 57,
+   "w": "flower",
+   "pos": "명사",
+   "ko": "꽃",
+   "ex": "She picked a red flower.",
+   "exKo": "그녀는 빨간 꽃을 꺾었다.",
+   "lv": "기초"
+  },
+  {
+   "id": 58,
+   "w": "current",
+   "pos": "형용사",
+   "ko": "현재의",
+   "ex": "The current price is high.",
+   "exKo": "현재 가격은 높다.",
+   "lv": "수능"
+  },
+  {
+   "id": 59,
+   "w": "teach",
+   "pos": "동사",
+   "ko": "가르치다",
+   "ex": "She teaches math to kids.",
+   "exKo": "그녀는 아이들에게 수학을 가르친다.",
+   "lv": "기초"
+  },
+  {
+   "id": 60,
+   "w": "challenge",
+   "pos": "명사",
+   "ko": "도전, 과제",
+   "ex": "Learning Chinese is a challenge.",
+   "exKo": "중국어를 배우는 것은 도전이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 61,
+   "w": "assume",
+   "pos": "동사",
+   "ko": "가정하다, 추정하다",
+   "ex": "I assume he is at home.",
+   "exKo": "나는 그가 집에 있다고 추정한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 62,
+   "w": "fast",
+   "pos": "형용사",
+   "ko": "빠른",
+   "ex": "He is a fast runner.",
+   "exKo": "그는 빠른 주자다.",
+   "lv": "기초"
+  },
+  {
+   "id": 63,
+   "w": "agenda",
+   "pos": "명사",
+   "ko": "안건, 의제",
+   "ex": "What is on the agenda today?",
+   "exKo": "오늘 안건이 무엇인가요?",
+   "lv": "토익"
+  },
+  {
+   "id": 64,
+   "w": "efficient",
+   "pos": "형용사",
+   "ko": "효율적인",
+   "ex": "This machine is very efficient.",
+   "exKo": "이 기계는 매우 효율적이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 65,
+   "w": "money",
+   "pos": "명사",
+   "ko": "돈",
+   "ex": "I saved some money.",
+   "exKo": "나는 돈을 조금 모았다.",
+   "lv": "기초"
+  },
+  {
+   "id": 66,
+   "w": "approve",
+   "pos": "동사",
+   "ko": "승인하다",
+   "ex": "The boss approved the plan.",
+   "exKo": "사장이 계획을 승인했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 67,
+   "w": "conflict",
+   "pos": "명사",
+   "ko": "갈등, 충돌",
+   "ex": "The two sides ended the conflict.",
+   "exKo": "양측은 갈등을 끝냈다.",
+   "lv": "수능"
+  },
+  {
+   "id": 68,
+   "w": "available",
+   "pos": "형용사",
+   "ko": "이용 가능한",
+   "ex": "Is this seat available?",
+   "exKo": "이 자리 비어 있나요?",
+   "lv": "토익"
+  },
+  {
+   "id": 69,
+   "w": "help",
+   "pos": "동사",
+   "ko": "돕다",
+   "ex": "Can you help me, please?",
+   "exKo": "저를 좀 도와주시겠어요?",
+   "lv": "기초"
+  },
+  {
+   "id": 70,
+   "w": "avoid",
+   "pos": "동사",
+   "ko": "피하다",
+   "ex": "Avoid eating too much sugar.",
+   "exKo": "설탕을 너무 많이 먹는 것을 피해라.",
+   "lv": "수능"
+  },
+  {
+   "id": 71,
+   "w": "clearly",
+   "pos": "부사",
+   "ko": "분명히",
+   "ex": "Please speak clearly.",
+   "exKo": "분명하게 말해 주세요.",
+   "lv": "수능"
+  },
+  {
+   "id": 72,
+   "w": "soon",
+   "pos": "부사",
+   "ko": "곧",
+   "ex": "The class will start soon.",
+   "exKo": "수업이 곧 시작될 것이다.",
+   "lv": "기초"
+  },
+  {
+   "id": 73,
+   "w": "application",
+   "pos": "명사",
+   "ko": "지원서, 신청",
+   "ex": "Please submit your application.",
+   "exKo": "지원서를 제출해 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 74,
+   "w": "essential",
+   "pos": "형용사",
+   "ko": "필수적인",
+   "ex": "Sleep is essential for health.",
+   "exKo": "수면은 건강에 필수적이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 75,
+   "w": "attend",
+   "pos": "동사",
+   "ko": "참석하다",
+   "ex": "Please attend the meeting.",
+   "exKo": "회의에 참석해 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 76,
+   "w": "slow",
+   "pos": "형용사",
+   "ko": "느린",
+   "ex": "The bus is very slow.",
+   "exKo": "그 버스는 매우 느리다.",
+   "lv": "기초"
+  },
+  {
+   "id": 77,
+   "w": "consequence",
+   "pos": "명사",
+   "ko": "결과",
+   "ex": "Every choice has a consequence.",
+   "exKo": "모든 선택에는 결과가 따른다.",
+   "lv": "수능"
+  },
+  {
+   "id": 78,
+   "w": "weather",
+   "pos": "명사",
+   "ko": "날씨",
+   "ex": "The weather is nice today.",
+   "exKo": "오늘은 날씨가 좋다.",
+   "lv": "기초"
+  },
+  {
+   "id": 79,
+   "w": "currently",
+   "pos": "부사",
+   "ko": "현재, 지금",
+   "ex": "He is currently abroad.",
+   "exKo": "그는 현재 해외에 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 80,
+   "w": "claim",
+   "pos": "동사",
+   "ko": "주장하다",
+   "ex": "He claims he is innocent.",
+   "exKo": "그는 자신이 결백하다고 주장한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 81,
+   "w": "culture",
+   "pos": "명사",
+   "ko": "문화",
+   "ex": "Food is part of culture.",
+   "exKo": "음식은 문화의 일부다.",
+   "lv": "수능"
+  },
+  {
+   "id": 82,
+   "w": "appointment",
+   "pos": "명사",
+   "ko": "약속, 예약",
+   "ex": "I have a dental appointment.",
+   "exKo": "나는 치과 예약이 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 83,
+   "w": "visit",
+   "pos": "동사",
+   "ko": "방문하다",
+   "ex": "We visit Grandma on Sundays.",
+   "exKo": "우리는 일요일마다 할머니를 방문한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 84,
+   "w": "collect",
+   "pos": "동사",
+   "ko": "모으다",
+   "ex": "He collects old coins.",
+   "exKo": "그는 오래된 동전을 모은다.",
+   "lv": "수능"
+  },
+  {
+   "id": 85,
+   "w": "young",
+   "pos": "형용사",
+   "ko": "젊은, 어린",
+   "ex": "She is a young teacher.",
+   "exKo": "그녀는 젊은 선생님이다.",
+   "lv": "기초"
+  },
+  {
+   "id": 86,
+   "w": "comprehensive",
+   "pos": "형용사",
+   "ko": "종합적인",
+   "ex": "It is a comprehensive guide.",
+   "exKo": "그것은 종합 안내서다.",
+   "lv": "토익"
+  },
+  {
+   "id": 87,
+   "w": "familiar",
+   "pos": "형용사",
+   "ko": "익숙한",
+   "ex": "This song sounds familiar.",
+   "exKo": "이 노래는 귀에 익다.",
+   "lv": "수능"
+  },
+  {
+   "id": 88,
+   "w": "cancel",
+   "pos": "동사",
+   "ko": "취소하다",
+   "ex": "They canceled the flight.",
+   "exKo": "그들은 항공편을 취소했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 89,
+   "w": "kitchen",
+   "pos": "명사",
+   "ko": "부엌",
+   "ex": "Mom is in the kitchen.",
+   "exKo": "엄마는 부엌에 계신다.",
+   "lv": "기초"
+  },
+  {
+   "id": 90,
+   "w": "completely",
+   "pos": "부사",
+   "ko": "완전히",
+   "ex": "I completely forgot about it.",
+   "exKo": "나는 그것을 완전히 잊었다.",
+   "lv": "수능"
+  },
+  {
+   "id": 91,
+   "w": "damage",
+   "pos": "명사",
+   "ko": "피해, 손상",
+   "ex": "The storm caused heavy damage.",
+   "exKo": "폭풍은 큰 피해를 입혔다.",
+   "lv": "수능"
+  },
+  {
+   "id": 92,
+   "w": "wait",
+   "pos": "동사",
+   "ko": "기다리다",
+   "ex": "Wait here for a minute.",
+   "exKo": "여기서 잠깐 기다려라.",
+   "lv": "기초"
+  },
+  {
+   "id": 93,
+   "w": "budget",
+   "pos": "명사",
+   "ko": "예산",
+   "ex": "The budget is very tight.",
+   "exKo": "예산이 매우 빠듯하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 94,
+   "w": "compare",
+   "pos": "동사",
+   "ko": "비교하다",
+   "ex": "Compare the two prices.",
+   "exKo": "두 가격을 비교해 보라.",
+   "lv": "수능"
+  },
+  {
+   "id": 95,
+   "w": "confirm",
+   "pos": "동사",
+   "ko": "확인하다, 확정하다",
+   "ex": "Please confirm your booking.",
+   "exKo": "예약을 확인해 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 96,
+   "w": "quickly",
+   "pos": "부사",
+   "ko": "빨리",
+   "ex": "He ate lunch quickly.",
+   "exKo": "그는 점심을 빨리 먹었다.",
+   "lv": "기초"
+  },
+  {
+   "id": 97,
+   "w": "flexible",
+   "pos": "형용사",
+   "ko": "유연한",
+   "ex": "My schedule is flexible.",
+   "exKo": "내 일정은 유연하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 98,
+   "w": "tall",
+   "pos": "형용사",
+   "ko": "키가 큰",
+   "ex": "My brother is very tall.",
+   "exKo": "내 형은 키가 매우 크다.",
+   "lv": "기초"
+  },
+  {
+   "id": 99,
+   "w": "candidate",
+   "pos": "명사",
+   "ko": "후보자, 지원자",
+   "ex": "The candidate has strong skills.",
+   "exKo": "그 지원자는 뛰어난 능력이 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 100,
+   "w": "disease",
+   "pos": "명사",
+   "ko": "질병",
+   "ex": "The disease spread quickly.",
+   "exKo": "그 질병은 빠르게 퍼졌다.",
+   "lv": "수능"
+  },
+  {
+   "id": 101,
+   "w": "complain",
+   "pos": "동사",
+   "ko": "불평하다",
+   "ex": "Stop complaining about food.",
+   "exKo": "음식에 대해 불평하지 마라.",
+   "lv": "수능"
+  },
+  {
+   "id": 102,
+   "w": "garden",
+   "pos": "명사",
+   "ko": "정원",
+   "ex": "We have a small garden.",
+   "exKo": "우리는 작은 정원이 있다.",
+   "lv": "기초"
+  },
+  {
+   "id": 103,
+   "w": "eligible",
+   "pos": "형용사",
+   "ko": "자격이 있는",
+   "ex": "You are eligible for a discount.",
+   "exKo": "당신은 할인 받을 자격이 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 104,
+   "w": "foreign",
+   "pos": "형용사",
+   "ko": "외국의",
+   "ex": "She speaks three foreign languages.",
+   "exKo": "그녀는 외국어를 세 개 한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 105,
+   "w": "wash",
+   "pos": "동사",
+   "ko": "씻다",
+   "ex": "Wash your hands first.",
+   "exKo": "먼저 손을 씻어라.",
+   "lv": "기초"
+  },
+  {
+   "id": 106,
+   "w": "deliver",
+   "pos": "동사",
+   "ko": "배달하다",
+   "ex": "We deliver within two days.",
+   "exKo": "저희는 이틀 안에 배달합니다.",
+   "lv": "토익"
+  },
+  {
+   "id": 107,
+   "w": "effort",
+   "pos": "명사",
+   "ko": "노력",
+   "ex": "Success takes great effort.",
+   "exKo": "성공에는 큰 노력이 필요하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 108,
+   "w": "colleague",
+   "pos": "명사",
+   "ko": "동료",
+   "ex": "My colleague helped me.",
+   "exKo": "내 동료가 나를 도와줬다.",
+   "lv": "토익"
+  },
+  {
+   "id": 109,
+   "w": "short",
+   "pos": "형용사",
+   "ko": "짧은",
+   "ex": "The movie is quite short.",
+   "exKo": "그 영화는 꽤 짧다.",
+   "lv": "기초"
+  },
+  {
+   "id": 110,
+   "w": "consider",
+   "pos": "동사",
+   "ko": "고려하다",
+   "ex": "Consider my offer carefully.",
+   "exKo": "내 제안을 신중히 고려해 주세요.",
+   "lv": "수능"
+  },
+  {
+   "id": 111,
+   "w": "eventually",
+   "pos": "부사",
+   "ko": "결국",
+   "ex": "He eventually found a job.",
+   "exKo": "그는 결국 일자리를 구했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 112,
+   "w": "market",
+   "pos": "명사",
+   "ko": "시장",
+   "ex": "I bought fruit at the market.",
+   "exKo": "나는 시장에서 과일을 샀다.",
+   "lv": "기초"
+  },
+  {
+   "id": 113,
+   "w": "distribute",
+   "pos": "동사",
+   "ko": "배포하다, 나눠 주다",
+   "ex": "Distribute the notes to everyone.",
+   "exKo": "모두에게 메모를 나눠 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 114,
+   "w": "generous",
+   "pos": "형용사",
+   "ko": "관대한, 너그러운",
+   "ex": "He is generous with his time.",
+   "exKo": "그는 시간을 아낌없이 내준다.",
+   "lv": "수능"
+  },
+  {
+   "id": 115,
+   "w": "sleep",
+   "pos": "동사",
+   "ko": "자다",
+   "ex": "The baby sleeps all night.",
+   "exKo": "아기는 밤새 잔다.",
+   "lv": "기초"
+  },
+  {
+   "id": 116,
+   "w": "mandatory",
+   "pos": "형용사",
+   "ko": "의무적인",
+   "ex": "Attendance is mandatory.",
+   "exKo": "참석은 의무다.",
+   "lv": "토익"
+  },
+  {
+   "id": 117,
+   "w": "emotion",
+   "pos": "명사",
+   "ko": "감정",
+   "ex": "She could not hide her emotion.",
+   "exKo": "그녀는 감정을 숨길 수 없었다.",
+   "lv": "수능"
+  },
+  {
+   "id": 118,
+   "w": "contract",
+   "pos": "명사",
+   "ko": "계약(서)",
+   "ex": "We signed the contract today.",
+   "exKo": "우리는 오늘 계약서에 서명했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 119,
+   "w": "heavy",
+   "pos": "형용사",
+   "ko": "무거운",
+   "ex": "This box is too heavy.",
+   "exKo": "이 상자는 너무 무겁다.",
+   "lv": "기초"
+  },
+  {
+   "id": 120,
+   "w": "contain",
+   "pos": "동사",
+   "ko": "포함하다, 담고 있다",
+   "ex": "This box contains old books.",
+   "exKo": "이 상자에는 오래된 책이 들어 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 121,
+   "w": "environment",
+   "pos": "명사",
+   "ko": "환경",
+   "ex": "We must protect the environment.",
+   "exKo": "우리는 환경을 보호해야 한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 122,
+   "w": "hospital",
+   "pos": "명사",
+   "ko": "병원",
+   "ex": "He works at a hospital.",
+   "exKo": "그는 병원에서 일한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 123,
+   "w": "promptly",
+   "pos": "부사",
+   "ko": "신속하게",
+   "ex": "Please reply promptly.",
+   "exKo": "신속히 답해 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 124,
+   "w": "suggest",
+   "pos": "동사",
+   "ko": "제안하다",
+   "ex": "I suggest we leave now.",
+   "exKo": "지금 떠나는 것을 제안한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 125,
+   "w": "write",
+   "pos": "동사",
+   "ko": "쓰다",
+   "ex": "He writes a letter to her.",
+   "exKo": "그는 그녀에게 편지를 쓴다.",
+   "lv": "기초"
+  },
+  {
+   "id": 126,
+   "w": "enclose",
+   "pos": "동사",
+   "ko": "동봉하다",
+   "ex": "I enclosed a copy of the form.",
+   "exKo": "양식 사본을 동봉했습니다.",
+   "lv": "토익"
+  },
+  {
+   "id": 127,
+   "w": "honest",
+   "pos": "형용사",
+   "ko": "정직한",
+   "ex": "An honest man tells the truth.",
+   "exKo": "정직한 사람은 진실을 말한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 128,
+   "w": "slowly",
+   "pos": "부사",
+   "ko": "천천히",
+   "ex": "Please speak slowly.",
+   "exKo": "천천히 말해 주세요.",
+   "lv": "기초"
+  },
+  {
+   "id": 129,
+   "w": "customer",
+   "pos": "명사",
+   "ko": "고객",
+   "ex": "The customer asked for a refund.",
+   "exKo": "고객이 환불을 요청했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 130,
+   "w": "exactly",
+   "pos": "부사",
+   "ko": "정확히",
+   "ex": "That is exactly right.",
+   "exKo": "그건 정확히 맞다.",
+   "lv": "수능"
+  },
+  {
+   "id": 131,
+   "w": "evidence",
+   "pos": "명사",
+   "ko": "증거",
+   "ex": "There is no evidence yet.",
+   "exKo": "아직 증거가 없다.",
+   "lv": "수능"
+  },
+  {
+   "id": 132,
+   "w": "optional",
+   "pos": "형용사",
+   "ko": "선택적인",
+   "ex": "The training is optional.",
+   "exKo": "그 교육은 선택 사항이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 133,
+   "w": "kind",
+   "pos": "형용사",
+   "ko": "친절한",
+   "ex": "The nurse was very kind.",
+   "exKo": "그 간호사는 매우 친절했다.",
+   "lv": "기초"
+  },
+  {
+   "id": 134,
+   "w": "depend",
+   "pos": "동사",
+   "ko": "의존하다, ~에 달려 있다",
+   "ex": "It depends on the weather.",
+   "exKo": "그것은 날씨에 달려 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 135,
+   "w": "library",
+   "pos": "명사",
+   "ko": "도서관",
+   "ex": "She studies in the library.",
+   "exKo": "그녀는 도서관에서 공부한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 136,
+   "w": "expand",
+   "pos": "동사",
+   "ko": "확장하다",
+   "ex": "The firm plans to expand abroad.",
+   "exKo": "그 회사는 해외 확장을 계획한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 137,
+   "w": "huge",
+   "pos": "형용사",
+   "ko": "거대한",
+   "ex": "They built a huge stadium.",
+   "exKo": "그들은 거대한 경기장을 지었다.",
+   "lv": "수능"
+  },
+  {
+   "id": 138,
+   "w": "listen",
+   "pos": "동사",
+   "ko": "듣다, 귀 기울이다",
+   "ex": "Listen to your teacher.",
+   "exKo": "선생님 말씀을 잘 들어라.",
+   "lv": "기초"
+  },
+  {
+   "id": 139,
+   "w": "deadline",
+   "pos": "명사",
+   "ko": "마감일",
+   "ex": "The deadline is next Friday.",
+   "exKo": "마감일은 다음 주 금요일이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 140,
+   "w": "experience",
+   "pos": "명사",
+   "ko": "경험",
+   "ex": "He has years of experience.",
+   "exKo": "그는 수년간의 경험이 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 141,
+   "w": "describe",
+   "pos": "동사",
+   "ko": "묘사하다",
+   "ex": "Describe the man to me.",
+   "exKo": "그 남자를 내게 묘사해 보세요.",
+   "lv": "수능"
+  },
+  {
+   "id": 142,
+   "w": "teacher",
+   "pos": "명사",
+   "ko": "선생님",
+   "ex": "Our teacher is very kind.",
+   "exKo": "우리 선생님은 매우 친절하다.",
+   "lv": "기초"
+  },
+  {
+   "id": 143,
+   "w": "department",
+   "pos": "명사",
+   "ko": "부서",
+   "ex": "She works in the sales department.",
+   "exKo": "그녀는 영업 부서에서 일한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 144,
+   "w": "independent",
+   "pos": "형용사",
+   "ko": "독립적인",
+   "ex": "She became an independent woman.",
+   "exKo": "그녀는 독립적인 여성이 되었다.",
+   "lv": "수능"
+  },
+  {
+   "id": 145,
+   "w": "sing",
+   "pos": "동사",
+   "ko": "노래하다",
+   "ex": "She sings in the choir.",
+   "exKo": "그녀는 합창단에서 노래한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 146,
+   "w": "forward",
+   "pos": "동사",
+   "ko": "전달하다, 전송하다",
+   "ex": "Forward this email to Mr. Kim.",
+   "exKo": "이 이메일을 김 씨에게 전달하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 147,
+   "w": "fortune",
+   "pos": "명사",
+   "ko": "재산, 행운",
+   "ex": "He made a fortune in trade.",
+   "exKo": "그는 무역으로 재산을 모았다.",
+   "lv": "수능"
+  },
+  {
+   "id": 148,
+   "w": "busy",
+   "pos": "형용사",
+   "ko": "바쁜",
+   "ex": "I am busy this week.",
+   "exKo": "나는 이번 주에 바쁘다.",
+   "lv": "기초"
+  },
+  {
+   "id": 149,
+   "w": "urgent",
+   "pos": "형용사",
+   "ko": "긴급한",
+   "ex": "This is an urgent request.",
+   "exKo": "이것은 긴급한 요청이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 150,
+   "w": "discover",
+   "pos": "동사",
+   "ko": "발견하다",
+   "ex": "He discovered a new island.",
+   "exKo": "그는 새로운 섬을 발견했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 151,
+   "w": "extremely",
+   "pos": "부사",
+   "ko": "극도로",
+   "ex": "The test was extremely hard.",
+   "exKo": "시험은 극도로 어려웠다.",
+   "lv": "수능"
+  },
+  {
+   "id": 152,
+   "w": "together",
+   "pos": "부사",
+   "ko": "함께",
+   "ex": "Let us study together.",
+   "exKo": "함께 공부하자.",
+   "lv": "기초"
+  },
+  {
+   "id": 153,
+   "w": "discount",
+   "pos": "명사",
+   "ko": "할인",
+   "ex": "They offer a ten percent discount.",
+   "exKo": "그들은 10퍼센트 할인을 제공한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 154,
+   "w": "likely",
+   "pos": "형용사",
+   "ko": "~할 것 같은",
+   "ex": "It is likely to rain.",
+   "exKo": "비가 올 것 같다.",
+   "lv": "수능"
+  },
+  {
+   "id": 155,
+   "w": "student",
+   "pos": "명사",
+   "ko": "학생",
+   "ex": "Every student has a book.",
+   "exKo": "모든 학생이 책을 가지고 있다.",
+   "lv": "기초"
+  },
+  {
+   "id": 156,
+   "w": "hire",
+   "pos": "동사",
+   "ko": "고용하다",
+   "ex": "They hired three new workers.",
+   "exKo": "그들은 신입 직원 세 명을 고용했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 157,
+   "w": "goal",
+   "pos": "명사",
+   "ko": "목표",
+   "ex": "My goal is to pass the exam.",
+   "exKo": "내 목표는 시험에 통과하는 것이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 158,
+   "w": "dance",
+   "pos": "동사",
+   "ko": "춤추다",
+   "ex": "They dance at the party.",
+   "exKo": "그들은 파티에서 춤춘다.",
+   "lv": "기초"
+  },
+  {
+   "id": 159,
+   "w": "approximately",
+   "pos": "부사",
+   "ko": "대략",
+   "ex": "It takes approximately an hour.",
+   "exKo": "대략 한 시간이 걸린다.",
+   "lv": "토익"
+  },
+  {
+   "id": 160,
+   "w": "encourage",
+   "pos": "동사",
+   "ko": "격려하다",
+   "ex": "Parents encourage their children.",
+   "exKo": "부모는 자녀를 격려한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 161,
+   "w": "habit",
+   "pos": "명사",
+   "ko": "습관",
+   "ex": "Reading is a good habit.",
+   "exKo": "독서는 좋은 습관이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 162,
+   "w": "quiet",
+   "pos": "형용사",
+   "ko": "조용한",
+   "ex": "The library is quiet.",
+   "exKo": "도서관은 조용하다.",
+   "lv": "기초"
+  },
+  {
+   "id": 163,
+   "w": "employee",
+   "pos": "명사",
+   "ko": "직원",
+   "ex": "Each employee gets a badge.",
+   "exKo": "모든 직원은 배지를 받는다.",
+   "lv": "토익"
+  },
+  {
+   "id": 164,
+   "w": "escape",
+   "pos": "동사",
+   "ko": "탈출하다",
+   "ex": "The bird escaped from the cage.",
+   "exKo": "새가 새장에서 탈출했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 165,
+   "w": "doctor",
+   "pos": "명사",
+   "ko": "의사",
+   "ex": "The doctor checked my arm.",
+   "exKo": "의사가 내 팔을 살펴봤다.",
+   "lv": "기초"
+  },
+  {
+   "id": 166,
+   "w": "valid",
+   "pos": "형용사",
+   "ko": "유효한",
+   "ex": "Your ticket is still valid.",
+   "exKo": "당신의 표는 아직 유효하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 167,
+   "w": "limited",
+   "pos": "형용사",
+   "ko": "제한된",
+   "ex": "Seats are limited.",
+   "exKo": "좌석이 제한되어 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 168,
+   "w": "carry",
+   "pos": "동사",
+   "ko": "나르다, 들고 가다",
+   "ex": "He carries a heavy bag.",
+   "exKo": "그는 무거운 가방을 들고 간다.",
+   "lv": "기초"
+  },
+  {
+   "id": 169,
+   "w": "implement",
+   "pos": "동사",
+   "ko": "시행하다",
+   "ex": "They will implement the plan.",
+   "exKo": "그들은 계획을 시행할 것이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 170,
+   "w": "fortunately",
+   "pos": "부사",
+   "ko": "다행히",
+   "ex": "Fortunately, no one was hurt.",
+   "exKo": "다행히 아무도 다치지 않았다.",
+   "lv": "수능"
+  },
+  {
+   "id": 171,
+   "w": "income",
+   "pos": "명사",
+   "ko": "수입",
+   "ex": "Her income is quite low.",
+   "exKo": "그녀의 수입은 꽤 낮다.",
+   "lv": "수능"
+  },
+  {
+   "id": 172,
+   "w": "loud",
+   "pos": "형용사",
+   "ko": "시끄러운",
+   "ex": "The music is too loud.",
+   "exKo": "음악이 너무 시끄럽다.",
+   "lv": "기초"
+  },
+  {
+   "id": 173,
+   "w": "equipment",
+   "pos": "명사",
+   "ko": "장비",
+   "ex": "The office needs new equipment.",
+   "exKo": "사무실에는 새 장비가 필요하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 174,
+   "w": "establish",
+   "pos": "동사",
+   "ko": "설립하다",
+   "ex": "They established a new company.",
+   "exKo": "그들은 새 회사를 설립했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 175,
+   "w": "farmer",
+   "pos": "명사",
+   "ko": "농부",
+   "ex": "The farmer grows rice.",
+   "exKo": "농부는 쌀을 재배한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 176,
+   "w": "inform",
+   "pos": "동사",
+   "ko": "알리다",
+   "ex": "Please inform us of any change.",
+   "exKo": "변경이 있으면 알려 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 177,
+   "w": "modern",
+   "pos": "형용사",
+   "ko": "현대의",
+   "ex": "Modern cities are crowded.",
+   "exKo": "현대 도시는 붐빈다.",
+   "lv": "수능"
+  },
+  {
+   "id": 178,
+   "w": "bring",
+   "pos": "동사",
+   "ko": "가져오다",
+   "ex": "Please bring your lunch.",
+   "exKo": "점심을 가져오세요.",
+   "lv": "기초"
+  },
+  {
+   "id": 179,
+   "w": "expense",
+   "pos": "명사",
+   "ko": "비용, 지출",
+   "ex": "Travel is a major expense.",
+   "exKo": "출장은 주요 지출이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 180,
+   "w": "influence",
+   "pos": "명사",
+   "ko": "영향(력)",
+   "ex": "Friends have a strong influence.",
+   "exKo": "친구는 큰 영향을 준다.",
+   "lv": "수능"
+  },
+  {
+   "id": 181,
+   "w": "examine",
+   "pos": "동사",
+   "ko": "조사하다, 검사하다",
+   "ex": "The doctor examined my eyes.",
+   "exKo": "의사가 내 눈을 검사했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 182,
+   "w": "cheap",
+   "pos": "형용사",
+   "ko": "싼",
+   "ex": "These shoes are cheap.",
+   "exKo": "이 신발은 싸다.",
+   "lv": "기초"
+  },
+  {
+   "id": 183,
+   "w": "annual",
+   "pos": "형용사",
+   "ko": "연간의",
+   "ex": "The annual meeting is in May.",
+   "exKo": "연례 회의는 5월에 열린다.",
+   "lv": "토익"
+  },
+  {
+   "id": 184,
+   "w": "temporary",
+   "pos": "형용사",
+   "ko": "일시적인",
+   "ex": "This is a temporary job.",
+   "exKo": "이것은 임시 직업이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 185,
+   "w": "again",
+   "pos": "부사",
+   "ko": "다시",
+   "ex": "Please say it again.",
+   "exKo": "다시 말해 주세요.",
+   "lv": "기초"
+  },
+  {
+   "id": 186,
+   "w": "install",
+   "pos": "동사",
+   "ko": "설치하다",
+   "ex": "He installed the new software.",
+   "exKo": "그는 새 소프트웨어를 설치했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 187,
+   "w": "journey",
+   "pos": "명사",
+   "ko": "여정, 여행",
+   "ex": "The journey took three days.",
+   "exKo": "그 여정은 사흘이 걸렸다.",
+   "lv": "수능"
+  },
+  {
+   "id": 188,
+   "w": "neighbor",
+   "pos": "명사",
+   "ko": "이웃",
+   "ex": "My neighbor has a dog.",
+   "exKo": "내 이웃은 개를 키운다.",
+   "lv": "기초"
+  },
+  {
+   "id": 189,
+   "w": "facility",
+   "pos": "명사",
+   "ko": "시설",
+   "ex": "The new facility opens in May.",
+   "exKo": "새 시설이 5월에 문을 연다.",
+   "lv": "토익"
+  },
+  {
+   "id": 190,
+   "w": "express",
+   "pos": "동사",
+   "ko": "표현하다",
+   "ex": "Express your ideas clearly.",
+   "exKo": "생각을 분명하게 표현해라.",
+   "lv": "수능"
+  },
+  {
+   "id": 191,
+   "w": "generally",
+   "pos": "부사",
+   "ko": "일반적으로",
+   "ex": "Generally, we eat at six.",
+   "exKo": "일반적으로 우리는 6시에 먹는다.",
+   "lv": "수능"
+  },
+  {
+   "id": 192,
+   "w": "ask",
+   "pos": "동사",
+   "ko": "묻다, 요청하다",
+   "ex": "Ask him for help.",
+   "exKo": "그에게 도움을 요청해라.",
+   "lv": "기초"
+  },
+  {
+   "id": 193,
+   "w": "invest",
+   "pos": "동사",
+   "ko": "투자하다",
+   "ex": "She invested in a start-up.",
+   "exKo": "그녀는 신생 기업에 투자했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 194,
+   "w": "obvious",
+   "pos": "형용사",
+   "ko": "분명한, 명백한",
+   "ex": "The answer is obvious.",
+   "exKo": "답은 명백하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 195,
+   "w": "expensive",
+   "pos": "형용사",
+   "ko": "비싼",
+   "ex": "That car is expensive.",
+   "exKo": "저 차는 비싸다.",
+   "lv": "기초"
+  },
+  {
+   "id": 196,
+   "w": "complimentary",
+   "pos": "형용사",
+   "ko": "무료의",
+   "ex": "Breakfast is complimentary.",
+   "exKo": "조식은 무료다.",
+   "lv": "토익"
+  },
+  {
+   "id": 197,
+   "w": "knowledge",
+   "pos": "명사",
+   "ko": "지식",
+   "ex": "Knowledge is a kind of power.",
+   "exKo": "지식은 일종의 힘이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 198,
+   "w": "breakfast",
+   "pos": "명사",
+   "ko": "아침 식사",
+   "ex": "I eat breakfast at seven.",
+   "exKo": "나는 7시에 아침을 먹는다.",
+   "lv": "기초"
+  },
+  {
+   "id": 199,
+   "w": "feedback",
+   "pos": "명사",
+   "ko": "피드백, 의견",
+   "ex": "We welcome your feedback.",
+   "exKo": "여러분의 의견을 환영합니다.",
+   "lv": "토익"
+  },
+  {
+   "id": 200,
+   "w": "ignore",
+   "pos": "동사",
+   "ko": "무시하다",
+   "ex": "Do not ignore the warning.",
+   "exKo": "경고를 무시하지 마라.",
+   "lv": "수능"
+  },
+  {
+   "id": 201,
+   "w": "majority",
+   "pos": "명사",
+   "ko": "대다수",
+   "ex": "The majority voted for him.",
+   "exKo": "대다수가 그에게 투표했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 202,
+   "w": "enjoy",
+   "pos": "동사",
+   "ko": "즐기다",
+   "ex": "We enjoy playing soccer.",
+   "exKo": "우리는 축구하는 것을 즐긴다.",
+   "lv": "기초"
+  },
+  {
+   "id": 203,
+   "w": "consistently",
+   "pos": "부사",
+   "ko": "꾸준히",
+   "ex": "She performs consistently well.",
+   "exKo": "그녀는 꾸준히 잘해 낸다.",
+   "lv": "토익"
+  },
+  {
+   "id": 204,
+   "w": "imagine",
+   "pos": "동사",
+   "ko": "상상하다",
+   "ex": "Imagine a world without cars.",
+   "exKo": "자동차 없는 세상을 상상해 보라.",
+   "lv": "수능"
+  },
+  {
+   "id": 205,
+   "w": "strong",
+   "pos": "형용사",
+   "ko": "강한, 튼튼한",
+   "ex": "He has strong arms.",
+   "exKo": "그는 튼튼한 팔을 가졌다.",
+   "lv": "기초"
+  },
+  {
+   "id": 206,
+   "w": "launch",
+   "pos": "동사",
+   "ko": "출시하다, 시작하다",
+   "ex": "They launch the product in May.",
+   "exKo": "그들은 5월에 제품을 출시한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 207,
+   "w": "official",
+   "pos": "형용사",
+   "ko": "공식적인",
+   "ex": "He made an official visit.",
+   "exKo": "그는 공식 방문을 했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 208,
+   "w": "almost",
+   "pos": "부사",
+   "ko": "거의",
+   "ex": "I am almost ready.",
+   "exKo": "나는 거의 준비됐다.",
+   "lv": "기초"
+  },
+  {
+   "id": 209,
+   "w": "inventory",
+   "pos": "명사",
+   "ko": "재고",
+   "ex": "We check the inventory monthly.",
+   "exKo": "우리는 매달 재고를 확인한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 210,
+   "w": "immediately",
+   "pos": "부사",
+   "ko": "즉시",
+   "ex": "Call me immediately.",
+   "exKo": "즉시 내게 전화해라.",
+   "lv": "수능"
+  },
+  {
+   "id": 211,
+   "w": "method",
+   "pos": "명사",
+   "ko": "방법",
+   "ex": "This method saves time.",
+   "exKo": "이 방법은 시간을 절약한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 212,
+   "w": "question",
+   "pos": "명사",
+   "ko": "질문",
+   "ex": "Can I ask a question?",
+   "exKo": "질문 하나 해도 될까요?",
+   "lv": "기초"
+  },
+  {
+   "id": 213,
+   "w": "durable",
+   "pos": "형용사",
+   "ko": "내구성이 있는",
+   "ex": "These boots are very durable.",
+   "exKo": "이 부츠는 매우 튼튼하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 214,
+   "w": "improve",
+   "pos": "동사",
+   "ko": "개선하다, 나아지다",
+   "ex": "My English has improved.",
+   "exKo": "내 영어가 나아졌다.",
+   "lv": "수능"
+  },
+  {
+   "id": 215,
+   "w": "need",
+   "pos": "동사",
+   "ko": "필요하다",
+   "ex": "I need some rest.",
+   "exKo": "나는 휴식이 필요하다.",
+   "lv": "기초"
+  },
+  {
+   "id": 216,
+   "w": "reimburse",
+   "pos": "동사",
+   "ko": "환급하다, 변상하다",
+   "ex": "The firm will reimburse your costs.",
+   "exKo": "회사가 비용을 환급해 줄 것이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 217,
+   "w": "ordinary",
+   "pos": "형용사",
+   "ko": "평범한",
+   "ex": "It was an ordinary day.",
+   "exKo": "평범한 하루였다.",
+   "lv": "수능"
+  },
+  {
+   "id": 218,
+   "w": "weak",
+   "pos": "형용사",
+   "ko": "약한",
+   "ex": "The baby is still weak.",
+   "exKo": "아기는 아직 약하다.",
+   "lv": "기초"
+  },
+  {
+   "id": 219,
+   "w": "invoice",
+   "pos": "명사",
+   "ko": "청구서, 송장",
+   "ex": "Please pay the invoice by May.",
+   "exKo": "5월까지 청구서를 결제해 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 220,
+   "w": "nature",
+   "pos": "명사",
+   "ko": "자연, 천성",
+   "ex": "I love the beauty of nature.",
+   "exKo": "나는 자연의 아름다움을 사랑한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 221,
+   "w": "increase",
+   "pos": "동사",
+   "ko": "증가하다",
+   "ex": "Prices increase every year.",
+   "exKo": "물가는 해마다 오른다.",
+   "lv": "수능"
+  },
+  {
+   "id": 222,
+   "w": "answer",
+   "pos": "명사",
+   "ko": "대답, 정답",
+   "ex": "I know the answer.",
+   "exKo": "나는 정답을 안다.",
+   "lv": "기초"
+  },
+  {
+   "id": 223,
+   "w": "manager",
+   "pos": "명사",
+   "ko": "관리자, 부장",
+   "ex": "The manager called a meeting.",
+   "exKo": "부장이 회의를 소집했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 224,
+   "w": "particular",
+   "pos": "형용사",
+   "ko": "특정한",
+   "ex": "Do you want a particular color?",
+   "exKo": "특정한 색을 원하세요?",
+   "lv": "수능"
+  },
+  {
+   "id": 225,
+   "w": "find",
+   "pos": "동사",
+   "ko": "찾다, 발견하다",
+   "ex": "I cannot find my keys.",
+   "exKo": "나는 열쇠를 찾을 수 없다.",
+   "lv": "기초"
+  },
+  {
+   "id": 226,
+   "w": "organize",
+   "pos": "동사",
+   "ko": "준비하다, 조직하다",
+   "ex": "She organized the event.",
+   "exKo": "그녀는 행사를 준비했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 227,
+   "w": "opinion",
+   "pos": "명사",
+   "ko": "의견",
+   "ex": "What is your opinion?",
+   "exKo": "네 의견은 무엇이니?",
+   "lv": "수능"
+  },
+  {
+   "id": 228,
+   "w": "safe",
+   "pos": "형용사",
+   "ko": "안전한",
+   "ex": "This area is safe at night.",
+   "exKo": "이 지역은 밤에도 안전하다.",
+   "lv": "기초"
+  },
+  {
+   "id": 229,
+   "w": "potential",
+   "pos": "형용사",
+   "ko": "잠재적인",
+   "ex": "He met a potential client.",
+   "exKo": "그는 잠재 고객을 만났다.",
+   "lv": "토익"
+  },
+  {
+   "id": 230,
+   "w": "indicate",
+   "pos": "동사",
+   "ko": "나타내다, 가리키다",
+   "ex": "The sign indicates the exit.",
+   "exKo": "표지판이 출구를 가리킨다.",
+   "lv": "수능"
+  },
+  {
+   "id": 231,
+   "w": "rarely",
+   "pos": "부사",
+   "ko": "드물게",
+   "ex": "He rarely goes out.",
+   "exKo": "그는 좀처럼 외출하지 않는다.",
+   "lv": "수능"
+  },
+  {
+   "id": 232,
+   "w": "story",
+   "pos": "명사",
+   "ko": "이야기",
+   "ex": "He told us a funny story.",
+   "exKo": "그는 우리에게 웃긴 이야기를 해 줬다.",
+   "lv": "기초"
+  },
+  {
+   "id": 233,
+   "w": "merchandise",
+   "pos": "명사",
+   "ko": "상품",
+   "ex": "The store sells sports merchandise.",
+   "exKo": "그 가게는 스포츠 상품을 판다.",
+   "lv": "토익"
+  },
+  {
+   "id": 234,
+   "w": "personal",
+   "pos": "형용사",
+   "ko": "개인적인",
+   "ex": "This is a personal matter.",
+   "exKo": "이것은 개인적인 문제다.",
+   "lv": "수능"
+  },
+  {
+   "id": 235,
+   "w": "give",
+   "pos": "동사",
+   "ko": "주다",
+   "ex": "She gave me a gift.",
+   "exKo": "그녀는 나에게 선물을 주었다.",
+   "lv": "기초"
+  },
+  {
+   "id": 236,
+   "w": "participate",
+   "pos": "동사",
+   "ko": "참가하다",
+   "ex": "Everyone can participate.",
+   "exKo": "누구나 참가할 수 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 237,
+   "w": "passion",
+   "pos": "명사",
+   "ko": "열정",
+   "ex": "He has a passion for music.",
+   "exKo": "그는 음악에 대한 열정이 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 238,
+   "w": "sick",
+   "pos": "형용사",
+   "ko": "아픈",
+   "ex": "She is sick in bed.",
+   "exKo": "그녀는 아파서 누워 있다.",
+   "lv": "기초"
+  },
+  {
+   "id": 239,
+   "w": "frequently",
+   "pos": "부사",
+   "ko": "자주, 빈번히",
+   "ex": "Buses run frequently here.",
+   "exKo": "여기는 버스가 자주 다닌다.",
+   "lv": "토익"
+  },
+  {
+   "id": 240,
+   "w": "involve",
+   "pos": "동사",
+   "ko": "포함하다, 관련시키다",
+   "ex": "The job involves travel.",
+   "exKo": "그 일에는 출장이 포함된다.",
+   "lv": "수능"
+  },
+  {
+   "id": 241,
+   "w": "patience",
+   "pos": "명사",
+   "ko": "인내심",
+   "ex": "Teaching requires great patience.",
+   "exKo": "가르치는 일에는 큰 인내심이 필요하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 242,
+   "w": "maybe",
+   "pos": "부사",
+   "ko": "아마도",
+   "ex": "Maybe it will rain today.",
+   "exKo": "아마 오늘 비가 올 것이다.",
+   "lv": "기초"
+  },
+  {
+   "id": 243,
+   "w": "negotiation",
+   "pos": "명사",
+   "ko": "협상",
+   "ex": "The negotiation lasted two days.",
+   "exKo": "협상은 이틀간 이어졌다.",
+   "lv": "토익"
+  },
+  {
+   "id": 244,
+   "w": "maintain",
+   "pos": "동사",
+   "ko": "유지하다",
+   "ex": "Maintain a healthy diet.",
+   "exKo": "건강한 식단을 유지해라.",
+   "lv": "수능"
+  },
+  {
+   "id": 245,
+   "w": "music",
+   "pos": "명사",
+   "ko": "음악",
+   "ex": "I listen to music daily.",
+   "exKo": "나는 매일 음악을 듣는다.",
+   "lv": "기초"
+  },
+  {
+   "id": 246,
+   "w": "previous",
+   "pos": "형용사",
+   "ko": "이전의",
+   "ex": "Check the previous page.",
+   "exKo": "이전 페이지를 확인하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 247,
+   "w": "positive",
+   "pos": "형용사",
+   "ko": "긍정적인",
+   "ex": "Try to stay positive.",
+   "exKo": "긍정적으로 지내려고 노력해라.",
+   "lv": "수능"
+  },
+  {
+   "id": 248,
+   "w": "show",
+   "pos": "동사",
+   "ko": "보여 주다",
+   "ex": "Show me your ticket.",
+   "exKo": "표를 보여 주세요.",
+   "lv": "기초"
+  },
+  {
+   "id": 249,
+   "w": "postpone",
+   "pos": "동사",
+   "ko": "연기하다",
+   "ex": "They postponed the meeting.",
+   "exKo": "그들은 회의를 연기했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 250,
+   "w": "perhaps",
+   "pos": "부사",
+   "ko": "어쩌면",
+   "ex": "Perhaps he is right.",
+   "exKo": "어쩌면 그가 옳을지도 모른다.",
+   "lv": "수능"
+  },
+  {
+   "id": 251,
+   "w": "poverty",
+   "pos": "명사",
+   "ko": "가난",
+   "ex": "Many people live in poverty.",
+   "exKo": "많은 사람이 가난하게 산다.",
+   "lv": "수능"
+  },
+  {
+   "id": 252,
+   "w": "hungry",
+   "pos": "형용사",
+   "ko": "배고픈",
+   "ex": "I am very hungry now.",
+   "exKo": "나는 지금 매우 배고프다.",
+   "lv": "기초"
+  },
+  {
+   "id": 253,
+   "w": "policy",
+   "pos": "명사",
+   "ko": "정책, 방침",
+   "ex": "Read the company policy first.",
+   "exKo": "먼저 회사 방침을 읽어 보세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 254,
+   "w": "measure",
+   "pos": "동사",
+   "ko": "측정하다",
+   "ex": "Measure the length of the desk.",
+   "exKo": "책상의 길이를 재라.",
+   "lv": "수능"
+  },
+  {
+   "id": 255,
+   "w": "picture",
+   "pos": "명사",
+   "ko": "그림, 사진",
+   "ex": "She drew a nice picture.",
+   "exKo": "그녀는 멋진 그림을 그렸다.",
+   "lv": "기초"
+  },
+  {
+   "id": 256,
+   "w": "prepare",
+   "pos": "동사",
+   "ko": "준비하다",
+   "ex": "Prepare a report for Monday.",
+   "exKo": "월요일까지 보고서를 준비하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 257,
+   "w": "creative",
+   "pos": "형용사",
+   "ko": "창의적인",
+   "ex": "She is a creative designer.",
+   "exKo": "그녀는 창의적인 디자이너다.",
+   "lv": "수능"
+  },
+  {
+   "id": 258,
+   "w": "travel",
+   "pos": "동사",
+   "ko": "여행하다",
+   "ex": "They travel every summer.",
+   "exKo": "그들은 매년 여름 여행한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 259,
+   "w": "position",
+   "pos": "명사",
+   "ko": "직책, 자리",
+   "ex": "She applied for the position.",
+   "exKo": "그녀는 그 직책에 지원했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 260,
+   "w": "pressure",
+   "pos": "명사",
+   "ko": "압력, 압박",
+   "ex": "She felt pressure at work.",
+   "exKo": "그녀는 직장에서 압박을 느꼈다.",
+   "lv": "수능"
+  },
+  {
+   "id": 261,
+   "w": "mention",
+   "pos": "동사",
+   "ko": "언급하다",
+   "ex": "He did not mention her name.",
+   "exKo": "그는 그녀의 이름을 언급하지 않았다.",
+   "lv": "수능"
+  },
+  {
+   "id": 262,
+   "w": "tired",
+   "pos": "형용사",
+   "ko": "피곤한",
+   "ex": "He looks tired today.",
+   "exKo": "그는 오늘 피곤해 보인다.",
+   "lv": "기초"
+  },
+  {
+   "id": 263,
+   "w": "qualified",
+   "pos": "형용사",
+   "ko": "자격을 갖춘",
+   "ex": "She is a qualified nurse.",
+   "exKo": "그녀는 자격을 갖춘 간호사다.",
+   "lv": "토익"
+  },
+  {
+   "id": 264,
+   "w": "powerful",
+   "pos": "형용사",
+   "ko": "강력한",
+   "ex": "The engine is very powerful.",
+   "exKo": "그 엔진은 매우 강력하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 265,
+   "w": "ticket",
+   "pos": "명사",
+   "ko": "표",
+   "ex": "I lost my train ticket.",
+   "exKo": "나는 기차표를 잃어버렸다.",
+   "lv": "기초"
+  },
+  {
+   "id": 266,
+   "w": "promote",
+   "pos": "동사",
+   "ko": "홍보하다, 승진시키다",
+   "ex": "They promote the new phone.",
+   "exKo": "그들은 새 휴대폰을 홍보한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 267,
+   "w": "privacy",
+   "pos": "명사",
+   "ko": "사생활",
+   "ex": "Everyone needs some privacy.",
+   "exKo": "누구나 사생활이 필요하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 268,
+   "w": "meet",
+   "pos": "동사",
+   "ko": "만나다",
+   "ex": "Let us meet at five.",
+   "exKo": "5시에 만나자.",
+   "lv": "기초"
+  },
+  {
+   "id": 269,
+   "w": "warehouse",
+   "pos": "명사",
+   "ko": "창고",
+   "ex": "The goods are in the warehouse.",
+   "exKo": "상품은 창고에 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 270,
+   "w": "tend",
+   "pos": "동사",
+   "ko": "경향이 있다",
+   "ex": "Kids tend to copy adults.",
+   "exKo": "아이들은 어른을 따라 하는 경향이 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 271,
+   "w": "probably",
+   "pos": "부사",
+   "ko": "아마도, 십중팔구",
+   "ex": "It will probably snow tonight.",
+   "exKo": "오늘 밤 아마 눈이 올 것이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 272,
+   "w": "usually",
+   "pos": "부사",
+   "ko": "보통",
+   "ex": "I usually wake up at six.",
+   "exKo": "나는 보통 6시에 일어난다.",
+   "lv": "기초"
+  },
+  {
+   "id": 273,
+   "w": "register",
+   "pos": "동사",
+   "ko": "등록하다",
+   "ex": "Register online before Friday.",
+   "exKo": "금요일 전에 온라인으로 등록하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 274,
+   "w": "private",
+   "pos": "형용사",
+   "ko": "사적인, 개인의",
+   "ex": "This is a private room.",
+   "exKo": "이곳은 개인 방이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 275,
+   "w": "rich",
+   "pos": "형용사",
+   "ko": "부유한",
+   "ex": "The rich man gave money.",
+   "exKo": "그 부유한 남자는 돈을 기부했다.",
+   "lv": "기초"
+  },
+  {
+   "id": 276,
+   "w": "regular",
+   "pos": "형용사",
+   "ko": "정기적인, 일반적인",
+   "ex": "Regular checkups are important.",
+   "exKo": "정기 검진은 중요하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 277,
+   "w": "process",
+   "pos": "명사",
+   "ko": "과정",
+   "ex": "Learning is a slow process.",
+   "exKo": "배움은 느린 과정이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 278,
+   "w": "bridge",
+   "pos": "명사",
+   "ko": "다리",
+   "ex": "The bridge is very long.",
+   "exKo": "그 다리는 매우 길다.",
+   "lv": "기초"
+  },
+  {
+   "id": 279,
+   "w": "promotion",
+   "pos": "명사",
+   "ko": "승진, 판촉",
+   "ex": "He got a promotion last year.",
+   "exKo": "그는 작년에 승진했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 280,
+   "w": "obtain",
+   "pos": "동사",
+   "ko": "얻다",
+   "ex": "She obtained a driver's license.",
+   "exKo": "그녀는 운전면허를 취득했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 281,
+   "w": "quality",
+   "pos": "명사",
+   "ko": "품질",
+   "ex": "This shop sells quality goods.",
+   "exKo": "이 가게는 품질 좋은 물건을 판다.",
+   "lv": "수능"
+  },
+  {
+   "id": 282,
+   "w": "build",
+   "pos": "동사",
+   "ko": "짓다, 세우다",
+   "ex": "They build a new school.",
+   "exKo": "그들은 새 학교를 짓는다.",
+   "lv": "기초"
+  },
+  {
+   "id": 283,
+   "w": "temporarily",
+   "pos": "부사",
+   "ko": "일시적으로",
+   "ex": "The store is temporarily closed.",
+   "exKo": "그 가게는 일시적으로 문을 닫았다.",
+   "lv": "토익"
+  },
+  {
+   "id": 284,
+   "w": "occur",
+   "pos": "동사",
+   "ko": "발생하다",
+   "ex": "Accidents occur on wet roads.",
+   "exKo": "사고는 젖은 도로에서 발생한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 285,
+   "w": "poor",
+   "pos": "형용사",
+   "ko": "가난한",
+   "ex": "They were poor but happy.",
+   "exKo": "그들은 가난했지만 행복했다.",
+   "lv": "기초"
+  },
+  {
+   "id": 286,
+   "w": "renew",
+   "pos": "동사",
+   "ko": "갱신하다",
+   "ex": "I need to renew my passport.",
+   "exKo": "나는 여권을 갱신해야 한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 287,
+   "w": "equal",
+   "pos": "형용사",
+   "ko": "동등한, 같은",
+   "ex": "All people are equal.",
+   "exKo": "모든 사람은 평등하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 288,
+   "w": "road",
+   "pos": "명사",
+   "ko": "길, 도로",
+   "ex": "This road leads to the sea.",
+   "exKo": "이 길은 바다로 이어진다.",
+   "lv": "기초"
+  },
+  {
+   "id": 289,
+   "w": "purchase",
+   "pos": "명사",
+   "ko": "구매(품)",
+   "ex": "Keep the receipt for your purchase.",
+   "exKo": "구매 영수증을 보관하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 290,
+   "w": "recently",
+   "pos": "부사",
+   "ko": "최근에",
+   "ex": "I recently moved to Busan.",
+   "exKo": "나는 최근에 부산으로 이사했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 291,
+   "w": "reputation",
+   "pos": "명사",
+   "ko": "평판",
+   "ex": "The hotel has a good reputation.",
+   "exKo": "그 호텔은 평판이 좋다.",
+   "lv": "수능"
+  },
+  {
+   "id": 292,
+   "w": "draw",
+   "pos": "동사",
+   "ko": "그리다",
+   "ex": "He likes to draw animals.",
+   "exKo": "그는 동물 그리기를 좋아한다.",
+   "lv": "기초"
+  },
+  {
+   "id": 293,
+   "w": "reliable",
+   "pos": "형용사",
+   "ko": "믿을 만한",
+   "ex": "He is a reliable worker.",
+   "exKo": "그는 믿을 만한 직원이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 294,
+   "w": "persuade",
+   "pos": "동사",
+   "ko": "설득하다",
+   "ex": "I persuaded him to come.",
+   "exKo": "나는 그가 오도록 설득했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 295,
+   "w": "early",
+   "pos": "부사",
+   "ko": "일찍",
+   "ex": "I get up early.",
+   "exKo": "나는 일찍 일어난다.",
+   "lv": "기초"
+  },
+  {
+   "id": 296,
+   "w": "replace",
+   "pos": "동사",
+   "ko": "교체하다",
+   "ex": "Replace the old printer.",
+   "exKo": "오래된 프린터를 교체하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 297,
+   "w": "rare",
+   "pos": "형용사",
+   "ko": "드문, 희귀한",
+   "ex": "This bird is very rare.",
+   "exKo": "이 새는 매우 희귀하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 298,
+   "w": "bright",
+   "pos": "형용사",
+   "ko": "밝은",
+   "ex": "The room is bright.",
+   "exKo": "방이 밝다.",
+   "lv": "기초"
+  },
+  {
+   "id": 299,
+   "w": "receipt",
+   "pos": "명사",
+   "ko": "영수증",
+   "ex": "May I have a receipt?",
+   "exKo": "영수증 받을 수 있나요?",
+   "lv": "토익"
+  },
+  {
+   "id": 300,
+   "w": "resource",
+   "pos": "명사",
+   "ko": "자원",
+   "ex": "Water is a precious resource.",
+   "exKo": "물은 소중한 자원이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 301,
+   "w": "predict",
+   "pos": "동사",
+   "ko": "예측하다",
+   "ex": "No one can predict the future.",
+   "exKo": "아무도 미래를 예측할 수 없다.",
+   "lv": "수능"
+  },
+  {
+   "id": 302,
+   "w": "train",
+   "pos": "명사",
+   "ko": "기차",
+   "ex": "The train leaves at nine.",
+   "exKo": "기차는 9시에 떠난다.",
+   "lv": "기초"
+  },
+  {
+   "id": 303,
+   "w": "refund",
+   "pos": "명사",
+   "ko": "환불",
+   "ex": "I would like a full refund.",
+   "exKo": "전액 환불을 받고 싶습니다.",
+   "lv": "토익"
+  },
+  {
+   "id": 304,
+   "w": "reasonable",
+   "pos": "형용사",
+   "ko": "합리적인",
+   "ex": "The price is reasonable.",
+   "exKo": "가격이 합리적이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 305,
+   "w": "jump",
+   "pos": "동사",
+   "ko": "뛰다, 점프하다",
+   "ex": "The cat jumped onto the bed.",
+   "exKo": "고양이가 침대 위로 뛰어올랐다.",
+   "lv": "기초"
+  },
+  {
+   "id": 306,
+   "w": "reserve",
+   "pos": "동사",
+   "ko": "예약하다",
+   "ex": "I reserved a table for four.",
+   "exKo": "나는 4인용 테이블을 예약했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 307,
+   "w": "response",
+   "pos": "명사",
+   "ko": "반응, 응답",
+   "ex": "I got no response from him.",
+   "exKo": "나는 그에게서 응답을 받지 못했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 308,
+   "w": "dark",
+   "pos": "형용사",
+   "ko": "어두운",
+   "ex": "It gets dark early.",
+   "exKo": "날이 일찍 어두워진다.",
+   "lv": "기초"
+  },
+  {
+   "id": 309,
+   "w": "remaining",
+   "pos": "형용사",
+   "ko": "남은",
+   "ex": "Use the remaining funds wisely.",
+   "exKo": "남은 자금을 현명하게 쓰세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 310,
+   "w": "prefer",
+   "pos": "동사",
+   "ko": "선호하다",
+   "ex": "I prefer tea to coffee.",
+   "exKo": "나는 커피보다 차를 선호한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 311,
+   "w": "simply",
+   "pos": "부사",
+   "ko": "단순히",
+   "ex": "Simply press the button.",
+   "exKo": "단순히 버튼만 누르세요.",
+   "lv": "수능"
+  },
+  {
+   "id": 312,
+   "w": "ocean",
+   "pos": "명사",
+   "ko": "바다, 대양",
+   "ex": "The ocean is very deep.",
+   "exKo": "바다는 아주 깊다.",
+   "lv": "기초"
+  },
+  {
+   "id": 313,
+   "w": "reservation",
+   "pos": "명사",
+   "ko": "예약",
+   "ex": "I made a reservation for two.",
+   "exKo": "나는 두 명을 예약했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 314,
+   "w": "responsible",
+   "pos": "형용사",
+   "ko": "책임이 있는",
+   "ex": "He is responsible for the team.",
+   "exKo": "그는 팀을 책임진다.",
+   "lv": "수능"
+  },
+  {
+   "id": 315,
+   "w": "push",
+   "pos": "동사",
+   "ko": "밀다",
+   "ex": "Push the door to open it.",
+   "exKo": "문을 밀어서 열어라.",
+   "lv": "기초"
+  },
+  {
+   "id": 316,
+   "w": "resign",
+   "pos": "동사",
+   "ko": "사임하다",
+   "ex": "The director resigned last week.",
+   "exKo": "이사는 지난주에 사임했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 317,
+   "w": "risk",
+   "pos": "명사",
+   "ko": "위험",
+   "ex": "Smoking increases the risk.",
+   "exKo": "흡연은 위험을 높인다.",
+   "lv": "수능"
+  },
+  {
+   "id": 318,
+   "w": "empty",
+   "pos": "형용사",
+   "ko": "비어 있는",
+   "ex": "The box is empty.",
+   "exKo": "상자가 비어 있다.",
+   "lv": "기초"
+  },
+  {
+   "id": 319,
+   "w": "significantly",
+   "pos": "부사",
+   "ko": "상당히, 현저히",
+   "ex": "Sales rose significantly.",
+   "exKo": "매출이 상당히 올랐다.",
+   "lv": "토익"
+  },
+  {
+   "id": 320,
+   "w": "prevent",
+   "pos": "동사",
+   "ko": "막다, 예방하다",
+   "ex": "Washing hands prevents disease.",
+   "exKo": "손 씻기는 질병을 예방한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 321,
+   "w": "role",
+   "pos": "명사",
+   "ko": "역할",
+   "ex": "She played a key role.",
+   "exKo": "그녀는 핵심 역할을 했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 322,
+   "w": "island",
+   "pos": "명사",
+   "ko": "섬",
+   "ex": "They live on a small island.",
+   "exKo": "그들은 작은 섬에 산다.",
+   "lv": "기초"
+  },
+  {
+   "id": 323,
+   "w": "resume",
+   "pos": "명사",
+   "ko": "이력서",
+   "ex": "Send your resume by email.",
+   "exKo": "이력서를 이메일로 보내세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 324,
+   "w": "protect",
+   "pos": "동사",
+   "ko": "보호하다",
+   "ex": "Helmets protect your head.",
+   "exKo": "헬멧은 머리를 보호한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 325,
+   "w": "catch",
+   "pos": "동사",
+   "ko": "잡다",
+   "ex": "Can you catch the ball?",
+   "exKo": "공을 잡을 수 있니?",
+   "lv": "기초"
+  },
+  {
+   "id": 326,
+   "w": "authorized",
+   "pos": "형용사",
+   "ko": "승인된, 권한이 있는",
+   "ex": "Only authorized staff may enter.",
+   "exKo": "승인된 직원만 들어갈 수 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 327,
+   "w": "serious",
+   "pos": "형용사",
+   "ko": "심각한, 진지한",
+   "ex": "It is a serious problem.",
+   "exKo": "그것은 심각한 문제다.",
+   "lv": "수능"
+  },
+  {
+   "id": 328,
+   "w": "very",
+   "pos": "부사",
+   "ko": "매우",
+   "ex": "The soup is very good.",
+   "exKo": "그 수프는 매우 맛있다.",
+   "lv": "기초"
+  },
+  {
+   "id": 329,
+   "w": "review",
+   "pos": "동사",
+   "ko": "검토하다",
+   "ex": "Please review the contract.",
+   "exKo": "계약서를 검토해 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 330,
+   "w": "suddenly",
+   "pos": "부사",
+   "ko": "갑자기",
+   "ex": "Suddenly, the lights went out.",
+   "exKo": "갑자기 불이 나갔다.",
+   "lv": "수능"
+  },
+  {
+   "id": 331,
+   "w": "generation",
+   "pos": "명사",
+   "ko": "세대",
+   "ex": "The young generation loves games.",
+   "exKo": "젊은 세대는 게임을 좋아한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 332,
+   "w": "sweet",
+   "pos": "형용사",
+   "ko": "달콤한",
+   "ex": "This cake is very sweet.",
+   "exKo": "이 케이크는 매우 달다.",
+   "lv": "기초"
+  },
+  {
+   "id": 333,
+   "w": "revenue",
+   "pos": "명사",
+   "ko": "매출, 수익",
+   "ex": "Company revenue grew this year.",
+   "exKo": "올해 회사 매출이 늘었다.",
+   "lv": "토익"
+  },
+  {
+   "id": 334,
+   "w": "recognize",
+   "pos": "동사",
+   "ko": "알아보다, 인정하다",
+   "ex": "I recognized her voice.",
+   "exKo": "나는 그녀의 목소리를 알아보았다.",
+   "lv": "수능"
+  },
+  {
+   "id": 335,
+   "w": "forest",
+   "pos": "명사",
+   "ko": "숲",
+   "ex": "We walked through the forest.",
+   "exKo": "우리는 숲을 걸어서 지나갔다.",
+   "lv": "기초"
+  },
+  {
+   "id": 336,
+   "w": "revise",
+   "pos": "동사",
+   "ko": "수정하다",
+   "ex": "He revised the report twice.",
+   "exKo": "그는 보고서를 두 번 수정했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 337,
+   "w": "similar",
+   "pos": "형용사",
+   "ko": "비슷한",
+   "ex": "Our ideas are similar.",
+   "exKo": "우리의 생각은 비슷하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 338,
+   "w": "throw",
+   "pos": "동사",
+   "ko": "던지다",
+   "ex": "He threw a stone into the lake.",
+   "exKo": "그는 호수에 돌을 던졌다.",
+   "lv": "기초"
+  },
+  {
+   "id": 339,
+   "w": "salary",
+   "pos": "명사",
+   "ko": "급여",
+   "ex": "His salary is paid monthly.",
+   "exKo": "그의 급여는 매달 지급된다.",
+   "lv": "토익"
+  },
+  {
+   "id": 340,
+   "w": "society",
+   "pos": "명사",
+   "ko": "사회",
+   "ex": "Society is changing fast.",
+   "exKo": "사회는 빠르게 변하고 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 341,
+   "w": "reduce",
+   "pos": "동사",
+   "ko": "줄이다",
+   "ex": "We must reduce waste.",
+   "exKo": "우리는 쓰레기를 줄여야 한다.",
+   "lv": "수능"
+  },
+  {
+   "id": 342,
+   "w": "accurate",
+   "pos": "형용사",
+   "ko": "정확한",
+   "ex": "The report is accurate.",
+   "exKo": "보고서는 정확하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 343,
+   "w": "sufficient",
+   "pos": "형용사",
+   "ko": "충분한",
+   "ex": "We have sufficient food.",
+   "exKo": "우리는 충분한 음식이 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 344,
+   "w": "submit",
+   "pos": "동사",
+   "ko": "제출하다",
+   "ex": "Submit the form by noon.",
+   "exKo": "정오까지 양식을 제출하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 345,
+   "w": "solution",
+   "pos": "명사",
+   "ko": "해결책",
+   "ex": "We need a quick solution.",
+   "exKo": "우리는 빠른 해결책이 필요하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 346,
+   "w": "schedule",
+   "pos": "명사",
+   "ko": "일정, 시간표",
+   "ex": "Check the train schedule.",
+   "exKo": "기차 시간표를 확인하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 347,
+   "w": "refuse",
+   "pos": "동사",
+   "ko": "거절하다",
+   "ex": "He refused to answer.",
+   "exKo": "그는 대답하기를 거절했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 348,
+   "w": "therefore",
+   "pos": "부사",
+   "ko": "그러므로",
+   "ex": "He was ill; therefore, he stayed home.",
+   "exKo": "그는 아파서 집에 있었다.",
+   "lv": "수능"
+  },
+  {
+   "id": 349,
+   "w": "supply",
+   "pos": "동사",
+   "ko": "공급하다",
+   "ex": "The farm supplies fresh milk.",
+   "exKo": "그 농장은 신선한 우유를 공급한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 350,
+   "w": "suitable",
+   "pos": "형용사",
+   "ko": "적합한",
+   "ex": "This dress is suitable for work.",
+   "exKo": "이 옷은 직장에 적합하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 351,
+   "w": "affordable",
+   "pos": "형용사",
+   "ko": "가격이 알맞은",
+   "ex": "They sell affordable homes.",
+   "exKo": "그들은 알맞은 가격의 집을 판다.",
+   "lv": "토익"
+  },
+  {
+   "id": 352,
+   "w": "source",
+   "pos": "명사",
+   "ko": "근원, 출처",
+   "ex": "What is your source of news?",
+   "exKo": "뉴스의 출처가 어디니?",
+   "lv": "수능"
+  },
+  {
+   "id": 353,
+   "w": "shipment",
+   "pos": "명사",
+   "ko": "배송(품)",
+   "ex": "The shipment arrives on Monday.",
+   "exKo": "배송품은 월요일에 도착한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 354,
+   "w": "remain",
+   "pos": "동사",
+   "ko": "남아 있다",
+   "ex": "Only two seats remain.",
+   "exKo": "좌석이 두 개만 남아 있다.",
+   "lv": "수능"
+  },
+  {
+   "id": 355,
+   "w": "strategy",
+   "pos": "명사",
+   "ko": "전략",
+   "ex": "They changed their strategy.",
+   "exKo": "그들은 전략을 바꿨다.",
+   "lv": "수능"
+  },
+  {
+   "id": 356,
+   "w": "accordingly",
+   "pos": "부사",
+   "ko": "그에 따라",
+   "ex": "Plan accordingly.",
+   "exKo": "그에 맞춰 계획하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 357,
+   "w": "remove",
+   "pos": "동사",
+   "ko": "제거하다, 치우다",
+   "ex": "Remove your shoes here.",
+   "exKo": "여기서는 신발을 벗어라.",
+   "lv": "수능"
+  },
+  {
+   "id": 358,
+   "w": "transfer",
+   "pos": "동사",
+   "ko": "이동시키다, 이체하다",
+   "ex": "She transferred to the Paris office.",
+   "exKo": "그녀는 파리 지사로 전근했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 359,
+   "w": "typical",
+   "pos": "형용사",
+   "ko": "전형적인",
+   "ex": "It is a typical summer day.",
+   "exKo": "전형적인 여름날이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 360,
+   "w": "supplier",
+   "pos": "명사",
+   "ko": "공급업체",
+   "ex": "We changed our supplier.",
+   "exKo": "우리는 공급업체를 바꿨다.",
+   "lv": "토익"
+  },
+  {
+   "id": 361,
+   "w": "unfortunately",
+   "pos": "부사",
+   "ko": "불행히도",
+   "ex": "Unfortunately, we missed the bus.",
+   "exKo": "불행히도 우리는 버스를 놓쳤다.",
+   "lv": "수능"
+  },
+  {
+   "id": 362,
+   "w": "tradition",
+   "pos": "명사",
+   "ko": "전통",
+   "ex": "It is an old tradition.",
+   "exKo": "그것은 오래된 전통이다.",
+   "lv": "수능"
+  },
+  {
+   "id": 363,
+   "w": "convenient",
+   "pos": "형용사",
+   "ko": "편리한",
+   "ex": "The hotel has a convenient location.",
+   "exKo": "그 호텔은 위치가 편리하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 364,
+   "w": "require",
+   "pos": "동사",
+   "ko": "요구하다, 필요로 하다",
+   "ex": "This job requires skill.",
+   "exKo": "이 일은 기술이 필요하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 365,
+   "w": "update",
+   "pos": "동사",
+   "ko": "갱신하다, 최신화하다",
+   "ex": "Update the schedule today.",
+   "exKo": "오늘 일정을 업데이트하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 366,
+   "w": "valuable",
+   "pos": "형용사",
+   "ko": "귀중한",
+   "ex": "This ring is very valuable.",
+   "exKo": "이 반지는 매우 귀중하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 367,
+   "w": "survey",
+   "pos": "명사",
+   "ko": "설문 조사",
+   "ex": "Please complete the short survey.",
+   "exKo": "짧은 설문 조사를 완료해 주세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 368,
+   "w": "victory",
+   "pos": "명사",
+   "ko": "승리",
+   "ex": "The team celebrated their victory.",
+   "exKo": "팀은 승리를 축하했다.",
+   "lv": "수능"
+  },
+  {
+   "id": 369,
+   "w": "solve",
+   "pos": "동사",
+   "ko": "해결하다, 풀다",
+   "ex": "She solved the puzzle.",
+   "exKo": "그녀는 퍼즐을 풀었다.",
+   "lv": "수능"
+  },
+  {
+   "id": 370,
+   "w": "warranty",
+   "pos": "명사",
+   "ko": "보증(서)",
+   "ex": "The warranty lasts two years.",
+   "exKo": "보증은 2년간 유효하다.",
+   "lv": "토익"
+  },
+  {
+   "id": 371,
+   "w": "various",
+   "pos": "형용사",
+   "ko": "다양한",
+   "ex": "The shop sells various items.",
+   "exKo": "그 가게는 다양한 물건을 판다.",
+   "lv": "수능"
+  },
+  {
+   "id": 372,
+   "w": "summarize",
+   "pos": "동사",
+   "ko": "요약하다",
+   "ex": "Summarize the report in a page.",
+   "exKo": "보고서를 한 페이지로 요약하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 373,
+   "w": "wisdom",
+   "pos": "명사",
+   "ko": "지혜",
+   "ex": "Age brings wisdom.",
+   "exKo": "나이는 지혜를 가져온다.",
+   "lv": "수능"
+  },
+  {
+   "id": 374,
+   "w": "competitive",
+   "pos": "형용사",
+   "ko": "경쟁력 있는",
+   "ex": "We offer competitive prices.",
+   "exKo": "우리는 경쟁력 있는 가격을 제공한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 375,
+   "w": "suffer",
+   "pos": "동사",
+   "ko": "고통받다",
+   "ex": "Many people suffer from stress.",
+   "exKo": "많은 사람이 스트레스로 고통받는다.",
+   "lv": "수능"
+  },
+  {
+   "id": 376,
+   "w": "gradually",
+   "pos": "부사",
+   "ko": "점차",
+   "ex": "The weather gradually got warmer.",
+   "exKo": "날씨가 점차 따뜻해졌다.",
+   "lv": "수능"
+  },
+  {
+   "id": 377,
+   "w": "vacancy",
+   "pos": "명사",
+   "ko": "빈자리, 공석",
+   "ex": "There is a vacancy in sales.",
+   "exKo": "영업 부서에 공석이 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 378,
+   "w": "mature",
+   "pos": "형용사",
+   "ko": "성숙한",
+   "ex": "He is mature for his age.",
+   "exKo": "그는 나이에 비해 성숙하다.",
+   "lv": "수능"
+  },
+  {
+   "id": 379,
+   "w": "acquire",
+   "pos": "동사",
+   "ko": "인수하다, 얻다",
+   "ex": "The firm acquired a small rival.",
+   "exKo": "그 회사는 작은 경쟁사를 인수했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 380,
+   "w": "wealth",
+   "pos": "명사",
+   "ko": "부, 재산",
+   "ex": "Wealth does not bring joy.",
+   "exKo": "부가 기쁨을 가져다주지는 않는다.",
+   "lv": "수능"
+  },
+  {
+   "id": 381,
+   "w": "annually",
+   "pos": "부사",
+   "ko": "매년",
+   "ex": "The fee is paid annually.",
+   "exKo": "요금은 매년 납부한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 382,
+   "w": "survive",
+   "pos": "동사",
+   "ko": "살아남다",
+   "ex": "Few plants survive in the desert.",
+   "exKo": "사막에서 살아남는 식물은 적다.",
+   "lv": "수능"
+  },
+  {
+   "id": 383,
+   "w": "proposal",
+   "pos": "명사",
+   "ko": "제안(서)",
+   "ex": "They accepted our proposal.",
+   "exKo": "그들은 우리 제안을 받아들였다.",
+   "lv": "토익"
+  },
+  {
+   "id": 384,
+   "w": "outstanding",
+   "pos": "형용사",
+   "ko": "뛰어난",
+   "ex": "She gave an outstanding speech.",
+   "exKo": "그녀는 뛰어난 연설을 했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 385,
+   "w": "assign",
+   "pos": "동사",
+   "ko": "배정하다, 맡기다",
+   "ex": "The boss assigned me a task.",
+   "exKo": "상사가 내게 업무를 맡겼다.",
+   "lv": "토익"
+  },
+  {
+   "id": 386,
+   "w": "itinerary",
+   "pos": "명사",
+   "ko": "여행 일정",
+   "ex": "Here is your travel itinerary.",
+   "exKo": "여기 여행 일정표가 있습니다.",
+   "lv": "토익"
+  },
+  {
+   "id": 387,
+   "w": "attach",
+   "pos": "동사",
+   "ko": "첨부하다",
+   "ex": "Attach the file to the email.",
+   "exKo": "파일을 이메일에 첨부하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 388,
+   "w": "seminar",
+   "pos": "명사",
+   "ko": "세미나",
+   "ex": "He led a seminar on sales.",
+   "exKo": "그는 영업 세미나를 진행했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 389,
+   "w": "fragile",
+   "pos": "형용사",
+   "ko": "깨지기 쉬운",
+   "ex": "Handle this fragile glass with care.",
+   "exKo": "이 깨지기 쉬운 유리는 조심히 다루세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 390,
+   "w": "extend",
+   "pos": "동사",
+   "ko": "연장하다",
+   "ex": "They extended the deadline.",
+   "exKo": "그들은 마감일을 연장했다.",
+   "lv": "토익"
+  },
+  {
+   "id": 391,
+   "w": "brochure",
+   "pos": "명사",
+   "ko": "안내 책자",
+   "ex": "Take a brochure at the desk.",
+   "exKo": "안내 데스크에서 책자를 가져가세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 392,
+   "w": "inspect",
+   "pos": "동사",
+   "ko": "점검하다",
+   "ex": "Inspectors inspect the building.",
+   "exKo": "조사관이 건물을 점검한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 393,
+   "w": "confidential",
+   "pos": "형용사",
+   "ko": "기밀의",
+   "ex": "The file is confidential.",
+   "exKo": "그 파일은 기밀이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 394,
+   "w": "headquarters",
+   "pos": "명사",
+   "ko": "본사",
+   "ex": "The headquarters is in Seoul.",
+   "exKo": "본사는 서울에 있다.",
+   "lv": "토익"
+  },
+  {
+   "id": 395,
+   "w": "otherwise",
+   "pos": "부사",
+   "ko": "그렇지 않으면",
+   "ex": "Hurry, otherwise you will be late.",
+   "exKo": "서두르세요, 안 그러면 늦습니다.",
+   "lv": "토익"
+  },
+  {
+   "id": 396,
+   "w": "renovate",
+   "pos": "동사",
+   "ko": "개조하다, 보수하다",
+   "ex": "They will renovate the lobby.",
+   "exKo": "그들은 로비를 개조할 것이다.",
+   "lv": "토익"
+  },
+  {
+   "id": 397,
+   "w": "estimate",
+   "pos": "명사",
+   "ko": "견적(서), 추정",
+   "ex": "Can I get an estimate?",
+   "exKo": "견적을 받을 수 있을까요?",
+   "lv": "토익"
+  },
+  {
+   "id": 398,
+   "w": "defective",
+   "pos": "형용사",
+   "ko": "결함이 있는",
+   "ex": "Return the defective product.",
+   "exKo": "결함 있는 제품을 반품하세요.",
+   "lv": "토익"
+  },
+  {
+   "id": 399,
+   "w": "relocate",
+   "pos": "동사",
+   "ko": "이전하다",
+   "ex": "The office will relocate in June.",
+   "exKo": "사무실은 6월에 이전한다.",
+   "lv": "토익"
+  },
+  {
+   "id": 400,
+   "w": "tenant",
+   "pos": "명사",
+   "ko": "세입자",
+   "ex": "The tenant paid the rent.",
+   "exKo": "세입자가 집세를 냈다.",
+   "lv": "토익"
+  }
+ ]
+}
