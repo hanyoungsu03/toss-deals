@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28 00:07",
+"updated": "2026-10-28 06:47",
 "categories": [
 "뷰티",
 "패션의류잡화",
@@ -16,7 +16,7 @@
 ],
 "meta": {
 "dealEndsAt": "2026-10-29T00:00:00+09:00",
-"soldoutToday": 0
+"soldoutToday": 3
 },
 "items": [
 {
@@ -16820,6 +16820,27 @@
 "rv": "빠른배송과 집에서 간편하게 운동 할 수 있어서 좋네용~",
 "rvn": 8,
 "rvw": "김*은"
+},
+{
+"id": "e8746b368b",
+"name": "빙그레 아카페라 심플리, 디카페인 아메리카노, 400ml, 20개",
+"price": 18190,
+"rating": 4.8,
+"reviews": 1338,
+"tags": [
+"선착순특가",
+"지금 30일 내 최저가예요",
+"오늘출발",
+"베스트판매자"
+],
+"cat": "생활용품",
+"sec": [
+"best",
+"today"
+],
+"img": "https://hanyoungsu03.github.io/toss-deals/img/e8746b368b_720.jpg",
+"link": "https://toss.shopping/_m/nlObgiF4",
+"seen": "2026-10-28"
 }
 ]
 }
