@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-04 07:14",
+"updated": "2026-11-05 00:09",
 "categories": [
 "뷰티",
 "패션의류잡화",
@@ -15,8 +15,29 @@
 "자동차용품"
 ],
 "meta": {
-"dealEndsAt": "2026-11-05T00:00:00+09:00",
+"dealEndsAt": "2026-11-06T00:00:00+09:00",
 "soldoutToday": 0
 },
-"items": []
+"items": [
+{
+"id": "41830f7910",
+"name": "맥콜 제로슈거, 190ml, 30개",
+"price": 10900,
+"rating": 4.8,
+"reviews": 4622,
+"tags": [
+"선착순특가",
+"내일도착",
+"늦으면보상",
+"베스트판매자"
+],
+"cat": "생활용품",
+"sec": [
+"today"
+],
+"img": "https://hanyoungsu03.github.io/toss-deals/img/41830f7910_720.jpg",
+"link": "https://toss.shopping/_m/VOs69pE8",
+"seen": "2026-11-05"
+}
+]
 }
