@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28 00:17",
+"updated": "2026-11-29 00:08",
 "categories": [
 "뷰티",
 "패션의류잡화",
@@ -15,7 +15,7 @@
 "자동차용품"
 ],
 "meta": {
-"dealEndsAt": "2026-11-29T00:00:00+09:00",
+"dealEndsAt": "2026-11-30T00:00:00+09:00",
 "soldoutToday": 0
 },
 "items": [
@@ -205,34 +205,13 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/db43a7574e_720.jpg",
 "link": "https://toss.shopping/_m/NDj95WZl",
 "seen": "2026-11-28",
 "rv": "조아하는 구운란ㅋ 좋은가격에 잘샀어요~ 안깨지고 잘도착했어여 껍질도 잘까지고 전 만족합니다",
 "rvn": 34,
 "rvw": "이**"
-},
-{
-"id": "1130eee826",
-"name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-"price": 6500,
-"rating": 4.6,
-"reviews": 5172,
-"tags": [
-"1",
-"오늘출발"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/1130eee826_720.jpg",
-"link": "https://toss.shopping/_m/TDti38G9",
-"seen": "2026-11-25",
-"rv": "어디든 활용할수있어서 정말좋아요 특히 문어가 짱이에요 좋은가격에 득템 했네요 고맙습니다",
-"rvn": 74,
-"rvw": "김**"
 },
 {
 "id": "d26065d5b3",
@@ -274,31 +253,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fb917d960e_720.jpg",
 "link": "https://toss.shopping/_m/BPRQwsEa",
 "seen": "2026-11-28"
-},
-{
-"id": "cf2cfd56d1",
-"name": "리스코 크린 롤백 4종세트, 소형 200매 1팩 + 중형 200매 1팩 + 대형 200매 1팩 + 특대형 200매 1팩, 1세트",
-"price": 10300,
-"rating": 4.6,
-"reviews": 704,
-"tags": [
-"20",
-"지금 30일 내 최저가예요",
-"내일도착",
-"늦으면보상"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/cf2cfd56d1_720.jpg",
-"link": "https://toss.shopping/_m/jWrSRvKj",
-"seen": "2026-11-25",
-"off": 48,
-"orig": 20000,
-"free": true,
-"detailDay": "2026-11-11",
-"rv": "소형,특대형이 필요해서 겸사 특가에 구매 잘했네요.빠른 배송 감사합니다",
-"rvn": 0,
-"rvw": "전**"
 },
 {
 "id": "76ccd7143f",
@@ -358,45 +312,6 @@
 "rv": "제가 산것보고 여동생이 사달라고해서 사줬어요~~ 넘넘 좋다고 하더라구요^^ 가격이 착하다고...",
 "rvn": 28,
 "rvw": "이**"
-},
-{
-"id": "c5809d619f",
-"name": "스크럽 스마일 수세미, 3개, 1세트",
-"price": 6100,
-"rating": 4.3,
-"reviews": 746,
-"tags": [
-"4",
-"오늘출발"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/c5809d619f_720.jpg",
-"link": "https://toss.shopping/_m/bs3UCGZq",
-"seen": "2026-11-25",
-"off": 74,
-"orig": 19900,
-"free": true,
-"detailDay": "2026-11-10",
-"rv": "거의 반값으로 샀네요 친구집 이사해서 이것저것 사가지고갈건데 이 아이도 합류 좋아요",
-"rvn": 0,
-"rvw": "이**"
-},
-{
-"id": "a86fd1a3ee",
-"name": "블랑드 규조토 발매트 세트, 모란디 블루, 와이드대형+소형, 1세트",
-"price": 10690,
-"rating": 4.3,
-"reviews": 313,
-"tags": [
-"30",
-"오늘출발"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/a86fd1a3ee_720.jpg",
-"link": "https://toss.shopping/_m/XcNI67k2",
-"seen": "2026-11-25"
 },
 {
 "id": "4f9cf40bb2",
@@ -476,9 +391,7 @@
 "57% 특가"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/dc3c2a6427_720.jpg",
 "link": "https://toss.shopping/_m/j0thdTGp",
 "seen": "2026-11-28",
@@ -498,9 +411,7 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e5b82a924f_720.jpg",
 "link": "https://toss.shopping/_m/B6y4xby8",
 "seen": "2026-11-28",
@@ -529,23 +440,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/5d94b06605_720.jpg",
 "link": "https://toss.shopping/_m/v5cXmjFy",
 "seen": "2026-11-28"
-},
-{
-"id": "47519099c2",
-"name": "시골두부 부침 찌개 겸용 번들, 300g, 2개",
-"price": 2800,
-"rating": 4.8,
-"reviews": 8678,
-"tags": [
-"26",
-"지금 30일 내 최저가예요",
-"베스트판매자"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/47519099c2_720.jpg",
-"link": "https://toss.shopping/_m/z3Eqygo3",
-"seen": "2026-11-25"
 },
 {
 "id": "09860e5530",
@@ -577,9 +471,7 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fad1ebe7ab_720.jpg",
 "link": "https://toss.shopping/_m/rosKQWxd",
 "seen": "2026-11-28"
@@ -596,9 +488,7 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/afeed1f80c_720.jpg",
 "link": "https://toss.shopping/_m/TGIFEeCj",
 "seen": "2026-11-28"
@@ -802,24 +692,6 @@
 "rv": "저렴하게 잘 샀습니다.아들이 키가 크길 바라면서 구입했습니다.효과가 나오길 기도합니다^^",
 "rvn": 0,
 "rvw": "김**"
-},
-{
-"id": "03dce5f132",
-"name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
-"price": 18800,
-"rating": 4.6,
-"reviews": 20747,
-"tags": [
-"13",
-"1매입당 10원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "출산/유아동",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/03dce5f132_720.jpg",
-"link": "https://toss.shopping/_m/7vP6lDBn",
-"seen": "2026-11-25"
 },
 {
 "id": "37d11d04f6",
@@ -1033,28 +905,10 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/03407f9aaf_720.jpg",
 "link": "https://toss.shopping/_m/Nx2Zoqxn",
 "seen": "2026-11-28"
-},
-{
-"id": "cbf2efef86",
-"name": "집드리 질레트 호환 5중날 면도기 세트, 면도기 1개 + 면도날 8개, 1세트",
-"price": 7800,
-"rating": 4.2,
-"reviews": 484,
-"tags": [
-"9",
-"오늘출발"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/cbf2efef86_720.jpg",
-"link": "https://toss.shopping/_m/LgeoKGqB",
-"seen": "2026-11-25"
 },
 {
 "id": "fe82d84c78",
@@ -1156,27 +1010,6 @@
 "rv": "저렴산 가격으로 구입했어요 대용량 이라서 더좋네요 겨울이 되어가니 미리 준비하겠습니다",
 "rvn": 10,
 "rvw": "박**"
-},
-{
-"id": "43e2c5102e",
-"name": "레이데이 마데카 재생크림, 40ml, 3개",
-"price": 8150,
-"rating": 4.4,
-"reviews": 4417,
-"tags": [
-"1",
-"지금 30일 내 최저가예요",
-"오늘출발",
-"아이크림 1위"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/43e2c5102e_720.jpg",
-"link": "https://toss.shopping/_m/Xr4JUIf8",
-"seen": "2026-11-25",
-"rv": "배송빠르고 잘왔어요 착한가격에 좋은상품입니다 가성비 좋코 촉촉하니 잘스며듭니다",
-"rvn": 16,
-"rvw": "최**"
 },
 {
 "id": "36a6ef542e",
@@ -1484,49 +1317,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "0c45a84f6b",
-"name": "메르헨트 데오 프레쉬 차량용 고체탈취제, 프레쉬 린넨, 250g, 2개",
-"price": 13900,
-"rating": 4.6,
-"reviews": 1216,
-"tags": [
-"1",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/0c45a84f6b_720.jpg",
-"link": "https://toss.shopping/_m/Dx78cMBs",
-"seen": "2026-11-25",
-"off": 70,
-"orig": 40000,
-"unit": "1개당 5,895원",
-"free": true,
-"detailDay": "2026-11-06",
-"rv": "향이 산뜻하고 좋네요 가격도 저렴하고 배송도 빠르네요",
-"rvn": 3,
-"rvw": "심**"
-},
-{
-"id": "92b16164c6",
-"name": "메르헨트 데오 프레쉬 차량용 고체탈취제, 에어리 허브, 250g, 2개",
-"price": 13900,
-"rating": 4.5,
-"reviews": 744,
-"tags": [
-"11",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/92b16164c6_720.jpg",
-"link": "https://toss.shopping/_m/dWKuh2yx",
-"seen": "2026-11-25"
-},
-{
 "id": "db87399f38",
 "name": "선쉐이드 자외선 완벽차단 햇빛가리개, 전좌석 올인원, 블랙, 4개입, 1세트",
 "price": 5900,
@@ -1643,30 +1433,6 @@
 "rvw": "심**"
 },
 {
-"id": "9c317935cc",
-"name": "제이킨 고급스카프 세트, 아이보리H 1개 + 크림플라워 1개 + 홀스베이지 1개 + 블랙기하학 1개, 4개",
-"price": 9400,
-"rating": 4.5,
-"reviews": 1159,
-"tags": [
-"10",
-"내일도착",
-"늦으면보상"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/9c317935cc_720.jpg",
-"link": "https://toss.shopping/_m/1Dq0GDOy",
-"seen": "2026-11-25",
-"off": 66,
-"orig": 21500,
-"free": true,
-"detailDay": "2026-11-06",
-"rv": "빠른배송 감사 합니다 ~ 작년에 샀는데 좋아서 이번에 또 구매했네요 ~",
-"rvn": 3,
-"rvw": "김**"
-},
-{
 "id": "16f5957336",
 "name": "페페 슬픈 개구리 안대 수면 세안 밴드, 1개",
 "price": 5490,
@@ -1703,21 +1469,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/4886ffd275_720.jpg",
 "link": "https://toss.shopping/_m/r6X85joe",
 "seen": "2026-11-28"
-},
-{
-"id": "a71b998460",
-"name": "캐리어 결합 보스턴백, 블랙, 1개",
-"price": 7259,
-"rating": 4.4,
-"reviews": 1043,
-"tags": [
-"8"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/a71b998460_720.jpg",
-"link": "https://toss.shopping/_m/nKNNzPOo",
-"seen": "2026-11-25"
 },
 {
 "id": "832f74ea49",
@@ -1797,37 +1548,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "802a95fef7",
-"name": "자동 가죽 벨트, 기본, FREE, 1개",
-"price": 5257,
-"rating": 4.4,
-"reviews": 62,
-"tags": [
-"18"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/802a95fef7_720.jpg",
-"link": "https://toss.shopping/_m/3AoyaxJj",
-"seen": "2026-11-25"
-},
-{
-"id": "16189d9bd5",
-"name": "종아리 압박 스타킹, 블랙, FREE, 1개",
-"price": 5900,
-"rating": 3.6,
-"reviews": 138,
-"tags": [
-"26",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/16189d9bd5_720.jpg",
-"link": "https://toss.shopping/_m/Z6hSsfQe",
-"seen": "2026-11-25"
-},
-{
 "id": "2a2c86938a",
 "name": "휴비딕 무릎보호대, HS-2, 모던 그레이, 2개",
 "price": 16900,
@@ -1859,22 +1579,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/f40140a1ef_720.jpg",
 "link": "https://toss.shopping/_m/lnmdM7bg",
 "seen": "2026-11-28"
-},
-{
-"id": "1258398164",
-"name": "갓성비 스포츠 단목양말, FREE(250mm-275mm), 10켤레1세트",
-"price": 8890,
-"rating": 3.7,
-"reviews": 1605,
-"tags": [
-"30",
-"오늘출발"
-],
-"cat": "스포츠/레져",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/1258398164_720.jpg",
-"link": "https://toss.shopping/_m/dpG2kYCp",
-"seen": "2026-11-25"
 },
 {
 "id": "09afdfcca2",
@@ -2242,27 +1946,6 @@
 "rvw": "이**"
 },
 {
-"id": "8f414f097c",
-"name": "휴스톰 이오닉 플라즈마 드라이기, BLDC-SB, 베이지, 1개",
-"price": 29900,
-"rating": 4.8,
-"reviews": 626,
-"tags": [
-"8",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "가구/홈데코",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/8f414f097c_720.jpg",
-"link": "https://toss.shopping/_m/BoZ4LIj2",
-"seen": "2026-11-25",
-"rv": "사용해보고 좋아서 하나 더 구입해서 친구한테 선물했어요",
-"rvn": 0,
-"rvw": "김**"
-},
-{
 "id": "1c64581f50",
 "name": "다용도 3M 선정리 벨크로, 흰색, 20개",
 "price": 3950,
@@ -2491,29 +2174,10 @@
 "100g당 2,990원"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/49b11f3298_720.jpg",
 "link": "https://toss.shopping/_m/1zNTIRbx",
 "seen": "2026-11-28"
-},
-{
-"id": "cd520c44ab",
-"name": "GAP 무농약 팽이버섯, 150g, 5개",
-"price": 2700,
-"rating": 4.9,
-"reviews": 87,
-"tags": [
-"30",
-"지금 30일 내 최저가예요",
-"베스트판매자"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/cd520c44ab_720.jpg",
-"link": "https://toss.shopping/_m/xKjv7d0m",
-"seen": "2026-11-25"
 },
 {
 "id": "121465b10b",
@@ -2714,24 +2378,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "9f7362247c",
-"name": "하림펫푸드 밥이보약 CAT No 스트레스, 3.4kg, 1개",
-"price": 31640,
-"rating": 4.9,
-"reviews": 219,
-"tags": [
-"19",
-"100g당 931원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/9f7362247c_720.jpg",
-"link": "https://toss.shopping/_m/LzeoahUl",
-"seen": "2026-11-25"
-},
-{
 "id": "a3f4bfeef9",
 "name": "하림펫푸드 밥이보약 CAT 걱정없는 헤어볼, 닭, 3.4kg, 1개",
 "price": 31640,
@@ -2756,30 +2402,6 @@
 "rv": "가격이 다른 곳 보다 착하구 좋아서 구매했어요 우리 아이들 이것만 먹이거든요 가격이 더 착해지면 좋겠어요",
 "rvn": 2,
 "rvw": "전**"
-},
-{
-"id": "a117d941ee",
-"name": "농심 신라면, 120g, 20개",
-"price": 15779,
-"rating": 4.8,
-"reviews": 12407,
-"tags": [
-"16",
-"100g당 658원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/a117d941ee_720.jpg",
-"link": "https://toss.shopping/_m/pYLEM4Yz",
-"seen": "2026-11-25",
-"unit": "100g당 693원",
-"free": true,
-"detailDay": "2026-11-09",
-"rv": "신라면 완전 득뎀 했네요~~ 아이들이 신라면을 너무 좋아해서 자주 먹는데 싸게 잘 샀어요~~",
-"rvn": 4,
-"rvw": "최**"
 },
 {
 "id": "4352d7174c",
@@ -2886,23 +2508,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "b452ca443b",
-"name": "그린핑거 촉촉한 자연보습 베이비 로션, 320ml, 2개",
-"price": 22900,
-"rating": 4.8,
-"reviews": 42,
-"tags": [
-"22",
-"100ml당 3,579원",
-"베스트판매자"
-],
-"cat": "출산/유아동",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/b452ca443b_720.jpg",
-"link": "https://toss.shopping/_m/R7RtXHFe",
-"seen": "2026-11-25"
-},
-{
 "id": "2e1e99198b",
 "name": "서가 커널형 유선 이어폰 C타입, SG-EA200, 갤럭시 아이폰 호환, 화이트, 1개",
 "price": 4900,
@@ -2953,24 +2558,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "f87da84c7b",
-"name": "서로윤 제주 세라마이드 판테놀 시카 크림, 100ml, 2개",
-"price": 10800,
-"rating": 4.6,
-"reviews": 220,
-"tags": [
-"28",
-"10ml당 540원",
-"오늘출발",
-"데이크림 1위"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/f87da84c7b_720.jpg",
-"link": "https://toss.shopping/_m/ZfMSXyGD",
-"seen": "2026-11-25"
-},
-{
 "id": "8e988a8316",
 "name": "바스 차량용 탈취제 컴팩트, 코튼향, 140g, 2개",
 "price": 15900,
@@ -2990,24 +2577,6 @@
 "rv": "빠른배송도 좋고 개봉 후 향기도 좋아서 더 구매할 예정입니다. 굿",
 "rvn": 3,
 "rvw": "김**"
-},
-{
-"id": "6fcd6236ff",
-"name": "바스 차량용 탈취제 컴팩트, 코튼향, 140g, 1개",
-"price": 9900,
-"rating": 4.4,
-"reviews": 1325,
-"tags": [
-"2",
-"10g당 708원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/6fcd6236ff_720.jpg",
-"link": "https://toss.shopping/_m/xgMv7itd",
-"seen": "2026-11-25"
 },
 {
 "id": "127164fef3",
@@ -3433,22 +3002,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "84f017e18c",
-"name": "굳드림 동결건조 딸기, 100g, 1개",
-"price": 8900,
-"rating": 4.7,
-"reviews": 233,
-"tags": [
-"21",
-"오늘출발"
-],
-"cat": "출산/유아동",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/84f017e18c_720.jpg",
-"link": "https://toss.shopping/_m/jhLgd0S9",
-"seen": "2026-11-25"
-},
-{
 "id": "d2d7639769",
 "name": "미스터추추 데일리 배변패드, 라벤더향, 절약형, 100매, 4팩",
 "price": 23980,
@@ -3641,23 +3194,6 @@
 "rv": "두께도 좋고 아주 맘에 듭니다",
 "rvn": 3,
 "rvw": "공**"
-},
-{
-"id": "02d46e06fe",
-"name": "덴마크목장 유기농 2단계 짜지않은 아기치즈, 17g, 10매, 3개",
-"price": 10900,
-"rating": 4.9,
-"reviews": 26,
-"tags": [
-"8",
-"지금 30일 내 최저가예요",
-"베스트판매자"
-],
-"cat": "출산/유아동",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/02d46e06fe_720.jpg",
-"link": "https://toss.shopping/_m/fVtd9h2w",
-"seen": "2026-11-25"
 },
 {
 "id": "36f589bf9a",
@@ -3895,45 +3431,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "3695210243",
-"name": "무타공 가죽 차량용 컵홀더 도어 수납포켓, 카멜 브라운, 1개",
-"price": 6900,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"24",
-"지금 30일 내 최저가예요",
-"오늘출발",
-"3 (1)"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/3695210243_720.jpg",
-"link": "https://toss.shopping/_m/5Y17nPWe",
-"seen": "2026-11-25"
-},
-{
-"id": "a4a8f2b1cf",
-"name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
-"price": 19980,
-"rating": 4.7,
-"reviews": 12440,
-"tags": [
-"13",
-"10m당 134원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/a4a8f2b1cf_720.jpg",
-"link": "https://toss.shopping/_m/1niZsSKe",
-"seen": "2026-11-25",
-"rv": "It is very soft and nice would buy it again for sure",
-"rvn": 8,
-"rvw": "M****"
-},
-{
 "id": "287a73c0e1",
 "name": "다모아 두피 브러쉬 마사지기, 1개",
 "price": 39600,
@@ -4108,24 +3605,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "bd74291840",
-"name": "셰프애찬 청양 맵짤이, 225g, 1개",
-"price": 12900,
-"rating": 4.7,
-"reviews": 610,
-"tags": [
-"12",
-"지금 30일 내 최저가예요",
-"100g당 5,734원",
-"내일도착"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/bd74291840_720.jpg",
-"link": "https://toss.shopping/_m/tKm4U2E8",
-"seen": "2026-11-25"
-},
-{
 "id": "3d3b17d674",
 "name": "옆트임 요술바늘, 12개입, 5세트",
 "price": 5304,
@@ -4141,24 +3620,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/3d3b17d674_720.jpg",
 "link": "https://toss.shopping/_m/3IFLWKqh",
 "seen": "2026-11-26"
-},
-{
-"id": "ff4e7abbb3",
-"name": "센토 인텐스 대용량 디퓨저 선물세트, 밤쉘, 550ml, 3개, 1세트",
-"price": 25900,
-"rating": 4.6,
-"reviews": 286,
-"tags": [
-"16",
-"10ml당 157원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/ff4e7abbb3_720.jpg",
-"link": "https://toss.shopping/_m/XzhTBqKa",
-"seen": "2026-11-25"
 },
 {
 "id": "3489390a8b",
@@ -4208,41 +3669,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/6f895d9211_720.jpg",
 "link": "https://toss.shopping/_m/zYYOW6y8",
 "seen": "2026-11-28"
-},
-{
-"id": "4b4949eacd",
-"name": "내성 발톱 손톱깎이, 블랙, 1개",
-"price": 6236,
-"rating": 4.4,
-"reviews": 2226,
-"tags": [
-"21",
-"내일도착",
-"늦으면보상",
-"니퍼 1위"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/4b4949eacd_720.jpg",
-"link": "https://toss.shopping/_m/z6uQ96Cd",
-"seen": "2026-11-25"
-},
-{
-"id": "78327e7b3f",
-"name": "허벅지 압박 밴드 보정 709, 블랙, FREE, 1세트",
-"price": 5900,
-"rating": 3.9,
-"reviews": 88,
-"tags": [
-"14",
-"내일도착",
-"늦으면보상"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/78327e7b3f_720.jpg",
-"link": "https://toss.shopping/_m/VxtQcya3",
-"seen": "2026-11-25"
 },
 {
 "id": "19c45a158f",
@@ -4313,23 +3739,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/fce4c4d34f_720.jpg",
 "link": "https://toss.shopping/_m/TpxkTNSa",
 "seen": "2026-11-28"
-},
-{
-"id": "983e060064",
-"name": "만능 지퍼고리 지퍼수리 손잡이 교체형, 혼합4색, 8개",
-"price": 6800,
-"rating": 4.4,
-"reviews": 520,
-"tags": [
-"23",
-"1개당 850원",
-"오늘출발"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/983e060064_720.jpg",
-"link": "https://toss.shopping/_m/j1fnWCHe",
-"seen": "2026-11-25"
 },
 {
 "id": "f1aef95273",
@@ -4569,45 +3978,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "1a7018340f",
-"name": "남성 포시즌 베이직 중목양말, 블랙, FREE, 10켤레, 1세트",
-"price": 9790,
-"rating": 4.3,
-"reviews": 527,
-"tags": [
-"21",
-"1켤레당 979원",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/1a7018340f_720.jpg",
-"link": "https://toss.shopping/_m/dOvOBMaB",
-"seen": "2026-11-25",
-"rv": "좋은 품질과 저렴한 가격에 만족합니다. 275사이즈인데 딱 맞네요",
-"rvn": 2,
-"rvw": "김**"
-},
-{
-"id": "129c2fb471",
-"name": "하루연구소 여성 팬티 7종세트, 혼합, FREE, 1세트",
-"price": 11900,
-"rating": 4.3,
-"reviews": 534,
-"tags": [
-"12",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/129c2fb471_720.jpg",
-"link": "https://toss.shopping/_m/JoC1Z0wD",
-"seen": "2026-11-25",
-"rv": "저렴하게 구매했습니다 신축성이좋아 아주편안합니다",
-"rvn": 1,
-"rvw": "박**"
-},
-{
 "id": "ffad66bcd2",
 "name": "양계장사람들 난각번호2번 프리미엄 유정란, 특대란, 60구, 1개",
 "price": 21900,
@@ -4745,24 +4115,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "b21775dc25",
-"name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 1개",
-"price": 9800,
-"rating": 4.7,
-"reviews": 29,
-"tags": [
-"3",
-"100g당 3,162원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/b21775dc25_720.jpg",
-"link": "https://toss.shopping/_m/L7erhJwC",
-"seen": "2026-11-25"
-},
-{
 "id": "409e2fe1e5",
 "name": "미쓰비시 유니 쿠루토가 KS 샤프, 아이스블루, 0.5mm, 1개",
 "price": 8490,
@@ -4834,24 +4186,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2e62fa7577_720.jpg",
 "link": "https://toss.shopping/_m/zHqMyogc",
 "seen": "2026-11-28"
-},
-{
-"id": "39bb2c4e21",
-"name": "라오메뜨 전설의패치 레전드, 준대형, 40매, 2개",
-"price": 27900,
-"rating": 4.7,
-"reviews": 1080,
-"tags": [
-"5",
-"1개당 13,950원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/39bb2c4e21_720.jpg",
-"link": "https://toss.shopping/_m/Nf6Uy8mB",
-"seen": "2026-11-25"
 },
 {
 "id": "b3049691ce",
@@ -4988,32 +4322,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "f649adc768",
-"name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 4팩",
-"price": 9900,
-"rating": 4.6,
-"reviews": 98,
-"tags": [
-"1",
-"1팩당 2,475원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/f649adc768_720.jpg",
-"link": "https://toss.shopping/_m/l6bHc1VA",
-"seen": "2026-11-25",
-"off": 77,
-"orig": 39600,
-"unit": "1팩당 2,268원",
-"free": true,
-"detailDay": "2026-11-23",
-"rv": "위생적이고 저렴하고 튼튼하구!",
-"rvn": 0,
-"rvw": "김**"
-},
-{
 "id": "a5c676c689",
 "name": "캐츠랑 리브레 고양이 사료, 5kg, 1개",
 "price": 14880,
@@ -5027,24 +4335,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a5c676c689_720.jpg",
 "link": "https://toss.shopping/_m/9LENn4Uj",
 "seen": "2026-11-28"
-},
-{
-"id": "5eda2ad709",
-"name": "미스터추추 데일리 배변패드, 라벤더향, 절약형, 100매, 3팩",
-"price": 18400,
-"rating": 4.8,
-"reviews": 22,
-"tags": [
-"18",
-"1매당 62원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/5eda2ad709_720.jpg",
-"link": "https://toss.shopping/_m/TnO4IoGi",
-"seen": "2026-11-25"
 },
 {
 "id": "55dc8d4d1d",
@@ -5164,23 +4454,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "ee1494a499",
-"name": "제이킨 러닝 벨트, 그레이, 싱글, 24.5x4cm, 1개",
-"price": 6700,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"29",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "스포츠/레져",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/ee1494a499_720.jpg",
-"link": "https://toss.shopping/_m/z4ApOzLD",
-"seen": "2026-11-25"
-},
-{
 "id": "127aaeb984",
 "name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 6팩",
 "price": 15900,
@@ -5197,63 +4470,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/127aaeb984_720.jpg",
 "link": "https://toss.shopping/_m/ZLLnY2D9",
 "seen": "2026-11-28"
-},
-{
-"id": "214b4dbf1d",
-"name": "캐츠랑 전연령 리브레 고양이사료, 닭+참치, 5kg, 2개",
-"price": 27500,
-"rating": 4.7,
-"reviews": 22,
-"tags": [
-"27",
-"지금 30일 내 최저가예요",
-"100g당 275원",
-"오늘출발"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/214b4dbf1d_720.jpg",
-"link": "https://toss.shopping/_m/xijrSxrd",
-"seen": "2026-11-25"
-},
-{
-"id": "f339881288",
-"name": "라피끄 강아지 유산균 품은 져키, 참치, 1kg, 1개",
-"price": 12950,
-"rating": 4.6,
-"reviews": 214,
-"tags": [
-"15",
-"100g당 1,295원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/f339881288_720.jpg",
-"link": "https://toss.shopping/_m/L8nuEEx3",
-"seen": "2026-11-25"
-},
-{
-"id": "7340c8fac0",
-"name": "베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
-"price": 8200,
-"rating": 4.7,
-"reviews": 1088,
-"tags": [
-"23",
-"1매당 10원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/7340c8fac0_720.jpg",
-"link": "https://toss.shopping/_m/B6JSuYfx",
-"seen": "2026-11-25",
-"rv": "싸게 잘 산거 같아요. 대박나시어요 ~~~^^",
-"rvn": 2,
-"rvw": "박**"
 },
 {
 "id": "86df1e1a3e",
@@ -5344,22 +4560,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/952250d385_720.jpg",
 "link": "https://toss.shopping/_m/T2QiJOI4",
 "seen": "2026-11-28"
-},
-{
-"id": "47c06cf850",
-"name": "네모라인 빨아쓰는 엠보극세사 경추베개솜, 화이트, 50x70cm, 1개",
-"price": 10400,
-"rating": 4.6,
-"reviews": 45,
-"tags": [
-"1",
-"오늘출발"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/47c06cf850_720.jpg",
-"link": "https://toss.shopping/_m/9MO4zJnB",
-"seen": "2026-11-25"
 },
 {
 "id": "48af9af346",
@@ -5478,24 +4678,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "cdbdef47f4",
-"name": "나이키 에브리데이 쿠션 크루삭스, SX7664-100, 블랙, M, 6켤레",
-"price": 18720,
-"rating": 4.7,
-"reviews": 92,
-"tags": [
-"3",
-"지금 30일 내 최저가예요",
-"1켤레당 3,120원",
-"오늘출발"
-],
-"cat": "스포츠/레져",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/cdbdef47f4_720.jpg",
-"link": "https://toss.shopping/_m/pIoX3fgB",
-"seen": "2026-11-25"
-},
-{
 "id": "0e8a7aa182",
 "name": "DEXTEX 의료용 무릎보호대, 블랙, FREE, 1개입, 1개",
 "price": 12400,
@@ -5527,24 +4709,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7f2bbe1dbd_720.jpg",
 "link": "https://toss.shopping/_m/No2r7VVt",
 "seen": "2026-11-28"
-},
-{
-"id": "50a6c31c93",
-"name": "윔지스 버라이어티팩, S, 840g, 1개",
-"price": 35500,
-"rating": 4.8,
-"reviews": 1470,
-"tags": [
-"24",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/50a6c31c93_720.jpg",
-"link": "https://toss.shopping/_m/RZbX3sKu",
-"seen": "2026-11-25"
 },
 {
 "id": "c5b58bb0b4",
@@ -5579,32 +4743,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "2a6a3148ca",
-"name": "포천이동 양념LA갈비, 500g, 3팩",
-"price": 26900,
-"rating": 4.5,
-"reviews": 1484,
-"tags": [
-"39% 특가",
-"100g당 1,794원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/2a6a3148ca_720.jpg",
-"link": "https://toss.shopping/_m/7oJKoUTl",
-"seen": "2026-11-25",
-"off": 46,
-"orig": 44700,
-"unit": "100G당 1,594원",
-"free": true,
-"detailDay": "2026-11-23",
-"rv": "체험단으로 한팩사서 먹아보니 너무 맛있어서 주문했어요 아이도잘먹고 식구들도 잘먹어요 양도많아요",
-"rvn": 2,
-"rvw": "반**"
-},
-{
 "id": "37322b7029",
 "name": "파파네정육점 통삼겹살, 수육용, 1kg, 2개",
 "price": 18810,
@@ -5617,9 +4755,7 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/37322b7029_720.jpg",
 "link": "https://toss.shopping/_m/Xf5fGG41",
 "seen": "2026-11-28",
@@ -5696,24 +4832,6 @@
 "seen": "2026-11-27"
 },
 {
-"id": "3c90c131ae",
-"name": "서가 메탈 고속충전 케이블, C타입, 블루, 3m, 2개",
-"price": 5500,
-"rating": 4.6,
-"reviews": 809,
-"tags": [
-"7",
-"지금 30일 내 최저가예요",
-"1개당 2,750원",
-"오늘출발"
-],
-"cat": "가구/홈데코",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/3c90c131ae_720.jpg",
-"link": "https://toss.shopping/_m/n2hrGg9i",
-"seen": "2026-11-25"
-},
-{
 "id": "3784aabc5a",
 "name": "팬택 25W 2포트 파스텔 충전기 + 45W 2m C to C 케이블 세트, 핑크, 1개",
 "price": 8800,
@@ -5747,24 +4865,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/50b885af4e_720.jpg",
 "link": "https://toss.shopping/_m/5EAH0A5",
 "seen": "2026-11-28"
-},
-{
-"id": "af25f4498e",
-"name": "팬택 PD 30W 고속충전기 1포트 + 45W C타입 고속충전 케이블 2m 세트, 화이트, 1개",
-"price": 6300,
-"rating": 4.7,
-"reviews": 133,
-"tags": [
-"16",
-"지금 30일 내 최저가예요",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "가구/홈데코",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/af25f4498e_720.jpg",
-"link": "https://toss.shopping/_m/DH0u6Kkb",
-"seen": "2026-11-25"
 },
 {
 "id": "9514da8273",
@@ -5823,41 +4923,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/ea80f1e47a_720.jpg",
 "link": "https://toss.shopping/_m/zBhsLsW1",
 "seen": "2026-11-28"
-},
-{
-"id": "589d0ae9b4",
-"name": "사리원 소불고기, 500g, 2팩",
-"price": 14900,
-"rating": 4.4,
-"reviews": 5004,
-"tags": [
-"23",
-"100g당 1,490원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/589d0ae9b4_720.jpg",
-"link": "https://toss.shopping/_m/5zZiD6Q8",
-"seen": "2026-11-25"
-},
-{
-"id": "d1294c5120",
-"name": "국내산 돈육 한입 비엔나, 240g, 2팩",
-"price": 8200,
-"rating": 4.9,
-"reviews": 159,
-"tags": [
-"21",
-"지금 30일 내 최저가예요",
-"베스트판매자"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/d1294c5120_720.jpg",
-"link": "https://toss.shopping/_m/5z8LBEZl",
-"seen": "2026-11-25"
 },
 {
 "id": "b81e2db4f3",
@@ -6034,24 +5099,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "6f261a2ce4",
-"name": "마더스홈 매일 빨아쓰는 피그먼트 순면 베개커버, 밴드형, 차콜, 40x60cm, 2개",
-"price": 11900,
-"rating": 4.4,
-"reviews": 59,
-"tags": [
-"27",
-"1개당 5,950원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/6f261a2ce4_720.jpg",
-"link": "https://toss.shopping/_m/xADqt7Rl",
-"seen": "2026-11-25"
-},
-{
 "id": "d8139df737",
 "name": "알프레미오 극세사 체크 담요, 네이비, 150x200cm, 1개",
 "price": 11900,
@@ -6198,39 +5245,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/18ecf554e4_720.jpg",
 "link": "https://toss.shopping/_m/7tuihNRn",
 "seen": "2026-11-26"
-},
-{
-"id": "81c37abfa3",
-"name": "딜메이트 차량 흡착 접이식 차량용 맥세이프 자석 거치대, 블랙, 1개",
-"price": 8800,
-"rating": 3.9,
-"reviews": 207,
-"tags": [
-"13",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/81c37abfa3_720.jpg",
-"link": "https://toss.shopping/_m/vJ9ffgRx",
-"seen": "2026-11-25"
-},
-{
-"id": "716158bd63",
-"name": "카드형 스마트폰 터치 기능성 방한 보온장갑, 가죽장갑A, 1개",
-"price": 11800,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"20",
-"오늘출발"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/716158bd63_720.jpg",
-"link": "https://toss.shopping/_m/RVtyMo85",
-"seen": "2026-11-25"
 },
 {
 "id": "9e1f434027",
@@ -6512,24 +5526,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "6d3b563954",
-"name": "퍼기 3중 밀폐 실리콘 지퍼백, 화이트, 500ml, 1개",
-"price": 10900,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"6",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/6d3b563954_720.jpg",
-"link": "https://toss.shopping/_m/DHEb98uA",
-"seen": "2026-11-25"
-},
-{
 "id": "b5470ee8de",
 "name": "도루코 퓨어 라이트 애쉬블루 프라이팬(NON IH), 32cm, 1개",
 "price": 28900,
@@ -6600,23 +5596,6 @@
 "seen": "2026-11-26"
 },
 {
-"id": "267cdef984",
-"name": "바른츄 강아지 촉촉한 육포, 뉴질랜드 사슴, 1kg, 1개",
-"price": 9900,
-"rating": 4.7,
-"reviews": 33,
-"tags": [
-"12",
-"100g당 990원",
-"오늘출발"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/267cdef984_720.jpg",
-"link": "https://toss.shopping/_m/pVjloXRb",
-"seen": "2026-11-25"
-},
-{
 "id": "77e5d61808",
 "name": "파스키에 팡 오 쇼콜라, 270g, 6개입, 1개",
 "price": 6980,
@@ -6685,22 +5664,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "33a8d76358",
-"name": "굿노트 스터디 플래너, A4, 엔티크 로즈, 1개",
-"price": 1000,
-"rating": 4.8,
-"reviews": 6,
-"tags": [
-"13",
-"오늘출발"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/33a8d76358_720.jpg",
-"link": "https://toss.shopping/_m/nq1nsxBD",
-"seen": "2026-11-25"
-},
-{
 "id": "800f5cb7ae",
 "name": "어푸 마카롱 더블 윈도우 캠퍼스 패브릭 대용량 필통 수납파우치, 블랙, 1개",
 "price": 4500,
@@ -6734,23 +5697,6 @@
 "seen": "2026-11-26"
 },
 {
-"id": "38c562483c",
-"name": "디지털 PDF 굿노트 심플 단어장, 핑크, 1개",
-"price": 900,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"4",
-"오늘출발",
-"5 (1)"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/38c562483c_720.jpg",
-"link": "https://toss.shopping/_m/T9oedacw",
-"seen": "2026-11-25"
-},
-{
 "id": "93fc45e385",
 "name": "한정판 먼작귀 2027 데스크 캘린더, 1개",
 "price": 10200,
@@ -6765,38 +5711,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/93fc45e385_720.jpg",
 "link": "https://toss.shopping/_m/1nefdaEw",
 "seen": "2026-11-28"
-},
-{
-"id": "7f44b27fab",
-"name": "유미상사 e-미래샤프, 화이트, 그레이, 연하늘, 연핑크, 연노랑, 보라, 1개",
-"price": 5120,
-"rating": 2.8,
-"reviews": 10,
-"tags": [
-"19",
-"지금 30일 내 최저가예요"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/7f44b27fab_720.jpg",
-"link": "https://toss.shopping/_m/16wFIcM2",
-"seen": "2026-11-25"
-},
-{
-"id": "8f3af9b4a2",
-"name": "스마트캠퍼스 스터디플래너, 민트, 126x190mm, 1개",
-"price": 6000,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"27",
-"오늘출발"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/8f3af9b4a2_720.jpg",
-"link": "https://toss.shopping/_m/7sFcX51e",
-"seen": "2026-11-25"
 },
 {
 "id": "6bda00d997",
@@ -6856,9 +5770,7 @@
 "100g당 88원"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/7bb4278431_720.jpg",
 "link": "https://toss.shopping/_m/5ofTv2x5",
 "seen": "2026-11-28",
@@ -6901,43 +5813,20 @@
 "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
 "price": 10900,
 "rating": 4.8,
-"reviews": 6939,
+"reviews": 7034,
 "tags": [
-"62% 특가",
+"선착순특가",
 "내일도착",
 "늦으면보상",
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [],
+"sec": [
+"today"
+],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/813b51aa76_720.jpg",
 "link": "https://toss.shopping/_m/xaAlHicc",
-"seen": "2026-11-27"
-},
-{
-"id": "23d0444083",
-"name": "베네틴 플랜트 프로틴 쉐이크 아이솔레이트 초코맛, 2kg, 1개",
-"price": 24800,
-"rating": 4.8,
-"reviews": 1035,
-"tags": [
-"선착순특가",
-"지금 30일 내 최저가예요",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/23d0444083_720.jpg",
-"link": "https://toss.shopping/_m/PzS6FX7g",
-"seen": "2026-11-25",
-"off": 53,
-"orig": 53000,
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "안전하게 잘 배송되었어요 저렴하게 괜찮은 성분인 제품 구매해서 만족스러워요 다음에도 재구매하고 싶어요",
-"rvn": 8,
-"rvw": "이*"
+"seen": "2026-11-29"
 },
 {
 "id": "c1a88fcf19",
@@ -6952,9 +5841,7 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/c1a88fcf19_720.jpg",
 "link": "https://toss.shopping/_m/jpEWgbiw",
 "seen": "2026-11-28",
@@ -6975,38 +5862,10 @@
 "10ml당 246원"
 ],
 "cat": "생활용품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/f480d06dfc_720.jpg",
 "link": "https://toss.shopping/_m/XRjjk9Bd",
 "seen": "2026-11-28"
-},
-{
-"id": "d17c42820f",
-"name": "슈퍼우먼 에너지바, 35g, 12개입, 3박스",
-"price": 17900,
-"rating": 4.7,
-"reviews": 2766,
-"tags": [
-"선착순특가",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/d17c42820f_720.jpg",
-"link": "https://toss.shopping/_m/ho8f3byq",
-"seen": "2026-11-25",
-"off": 66,
-"orig": 54000,
-"unit": "1개당 498원",
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "출출할때나 운동시에 간편하게 가지고 다니며 먹으면 좋을것 같아 구매했는데 맛도 괜찮고 좋아요",
-"rvn": 14,
-"rvw": "박**"
 },
 {
 "id": "876abc2b77",
@@ -7020,9 +5879,7 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/876abc2b77_720.jpg",
 "link": "https://toss.shopping/_m/z0JmPP2y",
 "seen": "2026-11-28",
@@ -7054,41 +5911,6 @@
 "seen": "2026-11-27"
 },
 {
-"id": "bc75ce009a",
-"name": "손질 통오징어, 260g, 2미, 3개",
-"price": 16350,
-"rating": 4.5,
-"reviews": 84,
-"tags": [
-"22",
-"지금 30일 내 최저가예요",
-"베스트판매자"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/bc75ce009a_720.jpg",
-"link": "https://toss.shopping/_m/3dvrJ3yf",
-"seen": "2026-11-25"
-},
-{
-"id": "cbadf36118",
-"name": "베베쿡 처음먹는 빼빼롱뻥, 사과, 30g, 8개",
-"price": 20380,
-"rating": 4.6,
-"reviews": 5,
-"tags": [
-"18",
-"10g당 850원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "출산/유아동",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/cbadf36118_720.jpg",
-"link": "https://toss.shopping/_m/5w78xvnc",
-"seen": "2026-11-25"
-},
-{
 "id": "1acebd4a10",
 "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
 "price": 14880,
@@ -7105,24 +5927,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1acebd4a10_720.jpg",
 "link": "https://toss.shopping/_m/7oftX143",
 "seen": "2026-11-28"
-},
-{
-"id": "6aafcc6fb2",
-"name": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 4개",
-"price": 12900,
-"rating": 4.7,
-"reviews": 4955,
-"tags": [
-"30",
-"10g당 269원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/6aafcc6fb2_720.jpg",
-"link": "https://toss.shopping/_m/BQ2aOZyd",
-"seen": "2026-11-25"
 },
 {
 "id": "f3b5113c0f",
@@ -7241,56 +6045,6 @@
 "seen": "2026-11-26"
 },
 {
-"id": "913b851b50",
-"name": "보이니 4in1 다용도 무선 청소기, Boyini-2511120XCQ, 화이트, 1개",
-"price": 29900,
-"rating": 4.1,
-"reviews": 117,
-"tags": [
-"30"
-],
-"cat": "가구/홈데코",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/913b851b50_720.jpg",
-"link": "https://toss.shopping/_m/xov5Eiqw",
-"seen": "2026-11-25"
-},
-{
-"id": "52245e3e7d",
-"name": "로로보아 스타일톡 무선 헤어브러쉬, 스카이블루, 1개",
-"price": 15900,
-"rating": 3.9,
-"reviews": 92,
-"tags": [
-"28",
-"내일도착",
-"늦으면보상"
-],
-"cat": "가구/홈데코",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/52245e3e7d_720.jpg",
-"link": "https://toss.shopping/_m/Vb9DyhQ6",
-"seen": "2026-11-25"
-},
-{
-"id": "831a504877",
-"name": "앙쥬 마유코팅 핸드크림, 100ml, 1개",
-"price": 4290,
-"rating": 4.9,
-"reviews": 11,
-"tags": [
-"17",
-"100ml당 4,290원",
-"오늘출발",
-"핸드크림 1위"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/831a504877_720.jpg",
-"link": "https://toss.shopping/_m/nQ9Hx5iz",
-"seen": "2026-11-25"
-},
-{
 "id": "bd376f383b",
 "name": "바세린 코코아 쉬머 젤리 스틱, 15g, 1개",
 "price": 7600,
@@ -7359,38 +6113,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "8b4de84b9c",
-"name": "심리스 팬티, 코튼 면 팬티 5종, XL",
-"price": 7900,
-"rating": 4.5,
-"reviews": 440,
-"tags": [
-"28",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/8b4de84b9c_720.jpg",
-"link": "https://toss.shopping/_m/PuSxsNJ5",
-"seen": "2026-11-25"
-},
-{
-"id": "dd096dc022",
-"name": "초경량 37도 핫 이너웨어 여성 발열 내의 상하세트, 스킨, 2세트",
-"price": 12500,
-"rating": 3.8,
-"reviews": 35,
-"tags": [
-"30",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/dd096dc022_720.jpg",
-"link": "https://toss.shopping/_m/fLiDJ758",
-"seen": "2026-11-25"
-},
-{
 "id": "b0f975b7ed",
 "name": "더엘피스 쿠션 장목 등산양말, 여성용, FREE, 여자 멀티(혼합), 10켤레",
 "price": 11979,
@@ -7440,23 +6162,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "e913bba1f5",
-"name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리, 1L, 2개 + 올리브그린, 1L, 2개",
-"price": 7900,
-"rating": 4.2,
-"reviews": 1539,
-"tags": [
-"3",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/e913bba1f5_720.jpg",
-"link": "https://toss.shopping/_m/xqLBuO9A",
-"seen": "2026-11-25"
-},
-{
 "id": "bb13f7e72f",
 "name": "바론 이지풋프로 반려동물 발바닥 바리깡, 베이비핑크, 1개",
 "price": 19400,
@@ -7473,60 +6178,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/bb13f7e72f_720.jpg",
 "link": "https://toss.shopping/_m/1tLvLe0m",
 "seen": "2026-11-28"
-},
-{
-"id": "c8feea71ac",
-"name": "라피끄 강아지 유산균 품은 덴탈껌, 눈 건강, 300g, 1개",
-"price": 6900,
-"rating": 4.5,
-"reviews": 21,
-"tags": [
-"1",
-"100g당 2,300원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/c8feea71ac_720.jpg",
-"link": "https://toss.shopping/_m/B0m74kHc",
-"seen": "2026-11-25"
-},
-{
-"id": "04211fc440",
-"name": "도그말리온 강아지 오줌 탈취제 마킹제로, 500ml, 1개",
-"price": 9800,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"23",
-"지금 30일 내 최저가예요",
-"10ml당 196원",
-"5 (93)"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/04211fc440_720.jpg",
-"link": "https://toss.shopping/_m/jMHh6n7j",
-"seen": "2026-11-25"
-},
-{
-"id": "aed4bd80d4",
-"name": "포켄스 덴티페어리 디스펜서 강아지 덴탈껌, SS(124p), 584g, 2개",
-"price": 55000,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"26",
-"지금 30일 내 최저가예요",
-"1개당 222원",
-"오늘출발"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/aed4bd80d4_720.jpg",
-"link": "https://toss.shopping/_m/9uqzRXqv",
-"seen": "2026-11-25"
 },
 {
 "id": "88c1e21165",
@@ -7577,129 +6228,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "7492c7cdcb",
-"name": "맛생각 시골 전통 된장찌개, 600g, 5개",
-"price": 16400,
-"rating": 4.7,
-"reviews": 9091,
-"tags": [
-"선착순특가",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/7492c7cdcb_720.jpg",
-"link": "https://toss.shopping/_m/r7RlJfa7",
-"seen": "2026-11-25",
-"off": 53,
-"orig": 34900,
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "가성비의 된장찌게 간편하고 맛도 좋고 무엇보다도 행사로 저렴하게 구매해서 잘 먹겠습니다.",
-"rvn": 37,
-"rvw": "우**"
-},
-{
-"id": "a269b9b534",
-"name": "산지도매센타 유정란, 난각번호 1번, 40구, 1개",
-"price": 18890,
-"rating": 4.7,
-"reviews": 1001,
-"tags": [
-"선착순특가",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/a269b9b534_720.jpg",
-"link": "https://toss.shopping/_m/pQIxRW6C",
-"seen": "2026-11-25",
-"off": 24,
-"orig": 25000,
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "신선하고 맛있어요~~^^ 재구매 할꺼에요~~ 포장도 완전 꼼꼼하게 와서 더 좋았어요~~^^",
-"rvn": 1,
-"rvw": "천**"
-},
-{
-"id": "36bd5e9c94",
-"name": "잘풀리는집 퀼팅 화장지, 3겹, 30m, 24롤, 3팩",
-"price": 30900,
-"rating": 4.7,
-"reviews": 775,
-"tags": [
-"선착순특가",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/36bd5e9c94_720.jpg",
-"link": "https://toss.shopping/_m/R42OB7D9",
-"seen": "2026-11-25",
-"off": 50,
-"orig": 61900,
-"unit": "10m당 144원",
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "늘 만족하고 있어요ㅡ생필품은 토스에서ㅡ착한가격너무좋아요ㅡ식구들이 많아서 자주 이용합니다",
-"rvn": 8,
-"rvw": "김**"
-},
-{
-"id": "3c26c7d461",
-"name": "농장직송 갓 낳은 안심 생계란, 특란 XL, 30구, 2개",
-"price": 18900,
-"rating": 4.7,
-"reviews": 762,
-"tags": [
-"선착순특가",
-"오늘출발"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/3c26c7d461_720.jpg",
-"link": "https://toss.shopping/_m/Bg9w44y3",
-"seen": "2026-11-25",
-"off": 28,
-"orig": 26500,
-"unit": "1개당 9,450원",
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "재구매, 감사합니다 🫶✨️ 앞으로도 계속 이용 할께요 🥚👍👍👍 전부 만족해요",
-"rvn": 4,
-"rvw": "임**"
-},
-{
-"id": "8beeb50d41",
-"name": "국산 영천 깐마늘, 중, 3kg, 1팩",
-"price": 21480,
-"rating": 4.6,
-"reviews": 640,
-"tags": [
-"선착순특가",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/8beeb50d41_720.jpg",
-"link": "https://toss.shopping/_m/b1nFCMH8",
-"seen": "2026-11-25",
-"off": 55,
-"orig": 48700,
-"unit": "100g당 716원",
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "완전 좋아오. 깨끗하고 상태가 정말 굿. 마늘 장아찌 담그고 갈아서 냉동할건데 또 사고 싶어요",
-"rvn": 4,
-"rvw": "이**"
-},
-{
 "id": "653f0c02b2",
 "name": "나누담 간편 핑크 직사각 밀폐용기, 480ml, 12개 + 750ml, 10개, 1세트",
 "price": 11900,
@@ -7725,79 +6253,6 @@
 "rvw": "정**"
 },
 {
-"id": "947525de06",
-"name": "미선이네 국내산 태양초 햇 고춧가루, 1kg, 2개",
-"price": 36800,
-"rating": 4.6,
-"reviews": 270,
-"tags": [
-"선착순특가",
-"지금 30일 내 최저가예요",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/947525de06_720.jpg",
-"link": "https://toss.shopping/_m/JXjfb5xs",
-"seen": "2026-11-25",
-"off": 29,
-"orig": 50000,
-"unit": "100g당 1,757원",
-"free": false,
-"detailDay": "2026-11-25",
-"rv": "고추가루가 색상도 선명하니 좋고, 배송도 상당히 빨랐어요. 잘 구입했습니다.",
-"rvn": 1,
-"rvw": "김**"
-},
-{
-"id": "17f93c3cdc",
-"name": "아보아 미네랄 워터 무라벨 생수, 2L, 30개, 1개",
-"price": 15340,
-"rating": 4.6,
-"reviews": 206,
-"tags": [
-"선착순특가"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/17f93c3cdc_720.jpg",
-"link": "https://toss.shopping/_m/D2rZ3Tdb",
-"seen": "2026-11-25",
-"off": 41,
-"orig": 26000,
-"unit": "100ml당 26원",
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "빠르게 배송받아서 잘마시고 있어요 가격도 저렴하고 좋네요",
-"rvn": 0,
-"rvw": "김**"
-},
-{
-"id": "f4f456a4b5",
-"name": "듀록 돼지 벌집삼겹살, 1kg, 3개",
-"price": 32300,
-"rating": 4.5,
-"reviews": 157,
-"tags": [
-"선착순특가",
-"오늘출발"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/f4f456a4b5_720.jpg",
-"link": "https://toss.shopping/_m/7dnJZhU",
-"seen": "2026-11-25",
-"off": 31,
-"orig": 47200,
-"unit": "100g당 1,077원",
-"free": true,
-"detailDay": "2026-11-25",
-"rv": "저렴하고 배송도 빨라요",
-"rvn": 2,
-"rvw": "정**"
-},
-{
 "id": "1e640e15ee",
 "name": "제주 감귤, 대과(2L이상), 10kg, 1박스",
 "price": 9500,
@@ -7808,45 +6263,10 @@
 "100g당 95원"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/1e640e15ee_720.jpg",
 "link": "https://toss.shopping/_m/JJs5DNcz",
 "seen": "2026-11-28"
-},
-{
-"id": "a80ceac1dd",
-"name": "프로프룻 햇 부사사과, 최대15brix, 5kg, 1박스",
-"price": 11900,
-"rating": 4.4,
-"reviews": 2001,
-"tags": [
-"10",
-"100g당 238원"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/a80ceac1dd_720.jpg",
-"link": "https://toss.shopping/_m/ZiF0qMW2",
-"seen": "2026-11-25"
-},
-{
-"id": "2fb0794898",
-"name": "제주도산 극조생 햇귤, 10kg, 1박스",
-"price": 10990,
-"rating": 4.4,
-"reviews": 638,
-"tags": [
-"75% 특가",
-"100g당 110원",
-"베스트판매자"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/2fb0794898_720.jpg",
-"link": "https://toss.shopping/_m/LpRqcFr5",
-"seen": "2026-11-25"
 },
 {
 "id": "2a37a7dbf6",
@@ -7860,9 +6280,7 @@
 "100g당 118원"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2a37a7dbf6_720.jpg",
 "link": "https://toss.shopping/_m/roTqIszc",
 "seen": "2026-11-28"
@@ -7880,81 +6298,10 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/67f34184d7_720.jpg",
 "link": "https://toss.shopping/_m/hiPOGrpk",
 "seen": "2026-11-28"
-},
-{
-"id": "4bb6dce2b6",
-"name": "일체형 귀마개 마스크, 블랙, 1개 + 그레이, 1개",
-"price": 4890,
-"rating": 4.1,
-"reviews": 888,
-"tags": [
-"51% 특가",
-"1개당 2,445원",
-"오늘출발"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/4bb6dce2b6_720.jpg",
-"link": "https://toss.shopping/_m/PGmG93Gq",
-"seen": "2026-11-25"
-},
-{
-"id": "ec2ab8e7d7",
-"name": "스타벅스 다크 로스트 홀리데이 스페셜팩, 50개입+홀리데이 머그, 1개",
-"price": 24000,
-"rating": 4.8,
-"reviews": 78,
-"tags": [
-"7",
-"1개입당 480원"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/ec2ab8e7d7_720.jpg",
-"link": "https://toss.shopping/_m/bqvfPvXx",
-"seen": "2026-11-25"
-},
-{
-"id": "4668066516",
-"name": "제주직송 타이벡 감귤, 10kg, 1개",
-"price": 13900,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"53% 특가",
-"지금 30일 내 최저가예요",
-"100g당 139원",
-"5 (7)"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/4668066516_720.jpg",
-"link": "https://toss.shopping/_m/raVUXRy1",
-"seen": "2026-11-25"
-},
-{
-"id": "df6805b89b",
-"name": "마이산 정기담은 메추리알 장조림, 1kg, 2개",
-"price": 12500,
-"rating": 4.6,
-"reviews": 14102,
-"tags": [
-"27",
-"10g당 63원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "식품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/df6805b89b_720.jpg",
-"link": "https://toss.shopping/_m/5rOzFXbb",
-"seen": "2026-11-25"
 },
 {
 "id": "a56ebbccf1",
@@ -7973,96 +6320,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a56ebbccf1_720.jpg",
 "link": "https://toss.shopping/_m/F2DRr3uu",
 "seen": "2026-11-28"
-},
-{
-"id": "578298ddb8",
-"name": "리버티 딥슬립 입는 오버나이트, 대형, 4매입, 5팩",
-"price": 11900,
-"rating": 4.8,
-"reviews": 1845,
-"tags": [
-"12",
-"1매당 595원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/578298ddb8_720.jpg",
-"link": "https://toss.shopping/_m/VBYq3C4h",
-"seen": "2026-11-25"
-},
-{
-"id": "8d1011a5e1",
-"name": "쟈니베어 군인핫팩 특대형, 180g, 10개",
-"price": 5980,
-"rating": 4.8,
-"reviews": 691,
-"tags": [
-"27",
-"1개당 598원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/8d1011a5e1_720.jpg",
-"link": "https://toss.shopping/_m/VKVqcewj",
-"seen": "2026-11-25"
-},
-{
-"id": "d48222391e",
-"name": "자동 변기세정제 맥스, 320g, 4개",
-"price": 7118,
-"rating": 4.6,
-"reviews": 11223,
-"tags": [
-"15",
-"100g당 557원",
-"내일도착",
-"늦으면보상"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/d48222391e_720.jpg",
-"link": "https://toss.shopping/_m/RxFp0J0b",
-"seen": "2026-11-25"
-},
-{
-"id": "cbfa5541a1",
-"name": "깨끗한나라 순수 소프트, 3겹, 27m, 12롤, 4팩",
-"price": 26900,
-"rating": 4.5,
-"reviews": 45,
-"tags": [
-"29",
-"10m당 208원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "생활용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/cbfa5541a1_720.jpg",
-"link": "https://toss.shopping/_m/XCuI2HA2",
-"seen": "2026-11-25"
-},
-{
-"id": "f3798f0294",
-"name": "아리얼 스트레스 릴리빙 퓨어풀 클렌징 티슈, 80매, 3개",
-"price": 14400,
-"rating": 4.7,
-"reviews": 722,
-"tags": [
-"8",
-"1개당 4,800원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/f3798f0294_720.jpg",
-"link": "https://toss.shopping/_m/rbcNH7Ft",
-"seen": "2026-11-25"
 },
 {
 "id": "23c0d8d226",
@@ -8119,112 +6376,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "c4ec3d815a",
-"name": "바세린 바디밤 젤리스틱, 오리지널, 15g, 1개",
-"price": 7600,
-"rating": 4.6,
-"reviews": 298,
-"tags": [
-"19",
-"지금 30일 내 최저가예요",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/c4ec3d815a_720.jpg",
-"link": "https://toss.shopping/_m/31LOfQpu",
-"seen": "2026-11-25"
-},
-{
-"id": "ba65b7797c",
-"name": "낫포유 클리어 바디 미스트, 무향, 120ml, 2개",
-"price": 22900,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"30",
-"10ml당 955원",
-"5 (3)",
-"베스트판매자"
-],
-"cat": "뷰티",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/ba65b7797c_720.jpg",
-"link": "https://toss.shopping/_m/3jIh8n3D",
-"seen": "2026-11-25"
-},
-{
-"id": "0ed4cafee8",
-"name": "마더스홈 매일 빨아쓰는 피그먼트 순면 베개커버, 밴드형, 핑크, 40x60cm, 2개",
-"price": 11900,
-"rating": 4.5,
-"reviews": 512,
-"tags": [
-"17",
-"1개당 5,950원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/0ed4cafee8_720.jpg",
-"link": "https://toss.shopping/_m/bN64Fljn",
-"seen": "2026-11-25"
-},
-{
-"id": "584c7a0a76",
-"name": "모던 밍크 극세사 담요, 단가라, 190x230cm, 1개",
-"price": 13700,
-"rating": 4.4,
-"reviews": 304,
-"tags": [
-"10",
-"내일도착",
-"늦으면보상"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/584c7a0a76_720.jpg",
-"link": "https://toss.shopping/_m/XsfxOMcr",
-"seen": "2026-11-25"
-},
-{
-"id": "782f199693",
-"name": "플로캄 실내 디퓨저 선물세트, 모네일랑, 2개입, 519ml, 1세트",
-"price": 14900,
-"rating": 4.9,
-"reviews": 10,
-"tags": [
-"30",
-"지금 30일 내 최저가예요",
-"내일도착",
-"늦으면보상"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/782f199693_720.jpg",
-"link": "https://toss.shopping/_m/ldtNvwNB",
-"seen": "2026-11-25"
-},
-{
-"id": "22f6b17b75",
-"name": "베네베딩 극세사 발열 리버서블 차렵이불, 다크그레이, Q , 1개",
-"price": 36900,
-"rating": 4.6,
-"reviews": 133,
-"tags": [
-"4",
-"내일도착",
-"늦으면보상"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/22f6b17b75_720.jpg",
-"link": "https://toss.shopping/_m/zzJIXW3b",
-"seen": "2026-11-25"
-},
-{
 "id": "9834749289",
 "name": "센토 인텐스 디퓨저, 호텔우드, 550ml, 2개",
 "price": 19900,
@@ -8243,73 +6394,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "1138c653d5",
-"name": "소하임 통세탁 사계절 토퍼, 이브닝그린, 슈퍼싱글, 120x200cm, 1개",
-"price": 28800,
-"rating": 4.5,
-"reviews": 13,
-"tags": [
-"7",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/1138c653d5_720.jpg",
-"link": "https://toss.shopping/_m/LNpE3Zha",
-"seen": "2026-11-25"
-},
-{
-"id": "b2526c3701",
-"name": "코잠데이 SS 이불+패드+베개커버+베개솜 세트, 무지그레이, 1세트",
-"price": 33900,
-"rating": 4.3,
-"reviews": 11,
-"tags": [
-"24"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/b2526c3701_720.jpg",
-"link": "https://toss.shopping/_m/D3bk2gZj",
-"seen": "2026-11-25"
-},
-{
-"id": "7d1a6d8204",
-"name": "km 극세사 담요, 150x200cm, 블루스타, 1장",
-"price": 9880,
-"rating": 4.2,
-"reviews": 89,
-"tags": [
-"12",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/7d1a6d8204_720.jpg",
-"link": "https://toss.shopping/_m/FydIb3We",
-"seen": "2026-11-25"
-},
-{
-"id": "a84a224db4",
-"name": "소소안 극세사 발매트, 브라운 1개 + 랜덤 1개, 2개",
-"price": 11335,
-"rating": 3.9,
-"reviews": 26,
-"tags": [
-"14",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/a84a224db4_720.jpg",
-"link": "https://toss.shopping/_m/hRJmqF7d",
-"seen": "2026-11-25"
-},
-{
 "id": "743ab94c91",
 "name": "Bookaz 롱 대왕고래 바디필로우, 블루, 110cm, 1개",
 "price": 28800,
@@ -8324,23 +6408,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/743ab94c91_720.jpg",
 "link": "https://toss.shopping/_m/NfUZz3Mr",
 "seen": "2026-11-28"
-},
-{
-"id": "084979ad9e",
-"name": "자동차 하이브리드 와이퍼, 600mm + 350mm, 1세트",
-"price": 6900,
-"rating": 4.5,
-"reviews": 60,
-"tags": [
-"3",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "자동차용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/084979ad9e_720.jpg",
-"link": "https://toss.shopping/_m/d8yfhkOB",
-"seen": "2026-11-25"
 },
 {
 "id": "347f3d9476",
@@ -8388,123 +6455,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/87bdba3cae_720.jpg",
 "link": "https://toss.shopping/_m/PiDDDUBs",
 "seen": "2026-11-28"
-},
-{
-"id": "5208dc9043",
-"name": "남녀공용 2개1세트 벨크로 노버클 벨트, 블랙, FREE, 1세트",
-"price": 5900,
-"rating": 4.2,
-"reviews": 370,
-"tags": [
-"15",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/5208dc9043_720.jpg",
-"link": "https://toss.shopping/_m/HzVYAi5",
-"seen": "2026-11-25"
-},
-{
-"id": "09d8f485be",
-"name": "기본 무지 목도리, 스카이블루, 1개",
-"price": 5741,
-"rating": 4.6,
-"reviews": 8,
-"tags": [
-"24",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/09d8f485be_720.jpg",
-"link": "https://toss.shopping/_m/DTZn2pEe",
-"seen": "2026-11-25"
-},
-{
-"id": "b24df3058c",
-"name": "여성 겨울 방한 니삭스, FREE, 3켤레",
-"price": 6890,
-"rating": 4.3,
-"reviews": 94,
-"tags": [
-"29",
-"지금 30일 내 최저가예요",
-"1켤레당 2,297원",
-"오늘출발"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/b24df3058c_720.jpg",
-"link": "https://toss.shopping/_m/RX5XMXwq",
-"seen": "2026-11-25"
-},
-{
-"id": "c0bf0478d2",
-"name": "르까프 여성용 집업 플리스 자켓, 핑크베이지, 95, 1개",
-"price": 29000,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"11"
-],
-"cat": "패션의류잡화",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/c0bf0478d2_720.jpg",
-"link": "https://toss.shopping/_m/7NxPCA9c",
-"seen": "2026-11-25"
-},
-{
-"id": "7f82aea273",
-"name": "에이팔란스 LED 전력표시 PD 240W C to C 초고속 충전 데이터 케이블, 라이트 그레이, 1.2m, 2개",
-"price": 6800,
-"rating": 4.5,
-"reviews": 149,
-"tags": [
-"21",
-"지금 30일 내 최저가예요",
-"1개당 3,400원",
-"오늘출발"
-],
-"cat": "가구/홈데코",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/7f82aea273_720.jpg",
-"link": "https://toss.shopping/_m/Vt7f9Vvp",
-"seen": "2026-11-25"
-},
-{
-"id": "35c8f5d8b0",
-"name": "오토워킹 프로 싱글 자동 만보기, 블랙, 1개",
-"price": 9700,
-"rating": 4.6,
-"reviews": 466,
-"tags": [
-"11",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "스포츠/레져",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/35c8f5d8b0_720.jpg",
-"link": "https://toss.shopping/_m/bWPHRD81",
-"seen": "2026-11-25"
-},
-{
-"id": "94a81c510e",
-"name": "한샘 복근 코어운동 슬라이드, 색상랜덤, 1개",
-"price": 8800,
-"rating": 4.3,
-"reviews": 417,
-"tags": [
-"19",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "스포츠/레져",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/94a81c510e_720.jpg",
-"link": "https://toss.shopping/_m/D2e3IHzA",
-"seen": "2026-11-25"
 },
 {
 "id": "1cec3035e8",
@@ -8626,39 +6576,6 @@
 "seen": "2026-11-28"
 },
 {
-"id": "e624e77534",
-"name": "보들꽃 극세사 행주, 24.5x24.5cm, 20매, 1개",
-"price": 7900,
-"rating": 4.1,
-"reviews": 311,
-"tags": [
-"19",
-"오늘출발"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/e624e77534_720.jpg",
-"link": "https://toss.shopping/_m/BxpqnZ96",
-"seen": "2026-11-25"
-},
-{
-"id": "57383ea88a",
-"name": "도루코 퓨어 라이트 애쉬블루 프라이팬(NON IH), 28cm, 1개",
-"price": 24900,
-"rating": 4.7,
-"reviews": 3,
-"tags": [
-"13",
-"내일도착",
-"늦으면보상"
-],
-"cat": "주방용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/57383ea88a_720.jpg",
-"link": "https://toss.shopping/_m/9JC35vMg",
-"seen": "2026-11-25"
-},
-{
 "id": "c146501cc4",
 "name": "윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 3kg, 1개",
 "price": 33000,
@@ -8677,75 +6594,6 @@
 "seen": "2026-11-26"
 },
 {
-"id": "1386fd9ed3",
-"name": "노마크 발도장 없는 배변패드, 표준형, 100매입, 3팩",
-"price": 25300,
-"rating": 4.8,
-"reviews": 26,
-"tags": [
-"17",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/1386fd9ed3_720.jpg",
-"link": "https://toss.shopping/_m/nFaR3Mbb",
-"seen": "2026-11-25"
-},
-{
-"id": "836b7c1b07",
-"name": "테비 강아지간식, 테비 치킨바, 1kg, 1개",
-"price": 13200,
-"rating": 4.8,
-"reviews": 17,
-"tags": [
-"16",
-"지금 30일 내 최저가예요",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/836b7c1b07_720.jpg",
-"link": "https://toss.shopping/_m/5OPlSmLm",
-"seen": "2026-11-25"
-},
-{
-"id": "397ea147d4",
-"name": "캣누리 데일리 대용량 고양이사료, 닭+참치, 5kg, 1개",
-"price": 11900,
-"rating": 4.6,
-"reviews": 170,
-"tags": [
-"20",
-"100g당 238원",
-"오늘출발"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/397ea147d4_720.jpg",
-"link": "https://toss.shopping/_m/r6owZqzy",
-"seen": "2026-11-25"
-},
-{
-"id": "8b5a4b630b",
-"name": "구구펫 마일드 벤토나이트 고양이모래, 무향, 응고형, 먼지없는, 6kg, 3개",
-"price": 13345,
-"rating": 4.5,
-"reviews": 242,
-"tags": [
-"21",
-"100g당 75원",
-"오늘출발"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/8b5a4b630b_720.jpg",
-"link": "https://toss.shopping/_m/Ho7SvsJy",
-"seen": "2026-11-25"
-},
-{
 "id": "deaf65cc23",
 "name": "미소 강아지 기능성 사료, 장건강/유산균, 2kg, 1개",
 "price": 11300,
@@ -8760,146 +6608,6 @@
 "img": "https://hanyoungsu03.github.io/toss-deals/img/deaf65cc23_720.jpg",
 "link": "https://toss.shopping/_m/fdBZCvID",
 "seen": "2026-11-28"
-},
-{
-"id": "66130c024c",
-"name": "노마크 반려견 강아지 배변패드, 대형 고흡수, 40매, 1개",
-"price": 13800,
-"rating": 4.2,
-"reviews": 43,
-"tags": [
-"28",
-"1매당 345원",
-"오늘출발"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/66130c024c_720.jpg",
-"link": "https://toss.shopping/_m/1ysuM6fc",
-"seen": "2026-11-25"
-},
-{
-"id": "8ea258d990",
-"name": "인네이처 그린캔 고양이 간식캔, 닭고기&크릴, 85g, 24개입, 1개",
-"price": 9400,
-"rating": 4.1,
-"reviews": 17,
-"tags": [
-"11",
-"100g당 461원",
-"오늘출발",
-"베스트판매자"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/8ea258d990_720.jpg",
-"link": "https://toss.shopping/_m/naNNwiz8",
-"seen": "2026-11-25"
-},
-{
-"id": "38b87c3d51",
-"name": "윔지스 밸류백 천연덴탈껌 강아지, 앤틀러 M, 360g, 1개",
-"price": 9900,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"10",
-"내일도착",
-"늦으면보상",
-"4 (1)"
-],
-"cat": "반려/애완용품",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/38b87c3d51_720.jpg",
-"link": "https://toss.shopping/_m/NGnLEi5m",
-"seen": "2026-11-25"
-},
-{
-"id": "9007d2e2e2",
-"name": "애니메이션 방수 스티커, 치이카와, 50장, 1개",
-"price": 7900,
-"rating": 4.8,
-"reviews": 254,
-"tags": [
-"1",
-"내일도착",
-"늦으면보상",
-"베스트판매자"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/9007d2e2e2_720.jpg",
-"link": "https://toss.shopping/_m/plsn8jRv",
-"seen": "2026-11-25"
-},
-{
-"id": "14eb13489b",
-"name": "리드홈 골든 젤펜, 0.5mm, 골드블랙, 10개",
-"price": 5500,
-"rating": 4.5,
-"reviews": 11,
-"tags": [
-"20",
-"1개당 550원",
-"오늘출발"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/14eb13489b_720.jpg",
-"link": "https://toss.shopping/_m/FKOGa6n",
-"seen": "2026-11-25"
-},
-{
-"id": "ea87fb7d09",
-"name": "치이카와 먼작귀 봉봉드롭 스티커, 1세대, 혼합, 1개",
-"price": 6900,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"8",
-"오늘출발",
-"5 (2)",
-"베스트판매자"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/ea87fb7d09_720.jpg",
-"link": "https://toss.shopping/_m/Z32Jo3Iy",
-"seen": "2026-11-25"
-},
-{
-"id": "716732294e",
-"name": "펜텔 그래프1000CS 샤프, 0.3mm, 블랙, 1개",
-"price": 13000,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"23",
-"지금 30일 내 최저가예요",
-"오늘출발"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/716732294e_720.jpg",
-"link": "https://toss.shopping/_m/DgGCWEXh",
-"seen": "2026-11-25"
-},
-{
-"id": "34a9b8beb0",
-"name": "3D 입체스티커 아쿠아리움, G- 물방울, 1개",
-"price": 5400,
-"rating": 0.0,
-"reviews": 0,
-"tags": [
-"30",
-"오늘출발",
-"4 (1)"
-],
-"cat": "문구/오피스",
-"sec": [],
-"img": "https://hanyoungsu03.github.io/toss-deals/img/34a9b8beb0_720.jpg",
-"link": "https://toss.shopping/_m/XYfKjLlA",
-"seen": "2026-11-25"
 },
 {
 "id": "b256ebde96",
@@ -9704,9 +7412,7 @@
 "베스트판매자"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/2cc39f2c6c_720.jpg",
 "link": "https://toss.shopping/_m/x5NETReh",
 "seen": "2026-11-28"
@@ -9773,9 +7479,7 @@
 "지금 30일 내 최저가예요"
 ],
 "cat": "식품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/864f9b8cd7_720.jpg",
 "link": "https://toss.shopping/_m/Jh75lvo7",
 "seen": "2026-11-28"
@@ -10231,9 +7935,7 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/b97acbfd8f_720.jpg",
 "link": "https://toss.shopping/_m/xrNYBVEu",
 "seen": "2026-11-28",
@@ -10254,9 +7956,7 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/e94ee2b5a5_720.jpg",
 "link": "https://toss.shopping/_m/5L8qKl87",
 "seen": "2026-11-28",
@@ -10276,9 +7976,7 @@
 "늦으면보상"
 ],
 "cat": "식품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/8e87fa86c8_720.jpg",
 "link": "https://toss.shopping/_m/RqlyCwh8",
 "seen": "2026-11-28",
@@ -10299,9 +7997,7 @@
 "베스트판매자"
 ],
 "cat": "생활용품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/88767e44e8_720.jpg",
 "link": "https://toss.shopping/_m/HcmWIBDp",
 "seen": "2026-11-28",
@@ -10322,9 +8018,7 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/b6e6e7f16b_720.jpg",
 "link": "https://toss.shopping/_m/j1tboBFk",
 "seen": "2026-11-28",
@@ -10345,9 +8039,7 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/82aa772ed1_720.jpg",
 "link": "https://toss.shopping/_m/7mZbywdw",
 "seen": "2026-11-28",
@@ -10368,9 +8060,7 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [
-"today"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/a0efd1103c_720.jpg",
 "link": "https://toss.shopping/_m/PTVZWvSA",
 "seen": "2026-11-28",
@@ -10391,9 +8081,7 @@
 "늦으면보상"
 ],
 "cat": "생활용품",
-"sec": [
-"best"
-],
+"sec": [],
 "img": "https://hanyoungsu03.github.io/toss-deals/img/0c3eb13062_720.jpg",
 "link": "https://toss.shopping/_m/TR5ra4nd",
 "seen": "2026-11-28"
